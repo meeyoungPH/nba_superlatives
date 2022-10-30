@@ -521,7 +521,7 @@
 344,Jamal Sampson,5,2003,2007,"May 15, 1983",Inglewood,CA
 345,Alan Sawyer,1,1951,1951,"Jan 1, 1928",Long Beach,CA
 346,Brian Scalabrine,11,2002,2012,"Mar 18, 1978",Long Beach,CA
-347,Jordan Schakel,1,2022,2022,"Jun 13, 1998",Torrance,CA
+347,Jordan Schakel,2,2022,2023,"Jun 13, 1998",Torrance,CA
 348,Fred Scolari,9,1947,1955,"Mar 1, 1922",San Francisco,CA
 349,Paul Scranton,1,1968,1968,"Apr 30, 1944",Los Angeles,CA
 350,Kenny Sears,8,1956,1964,"Aug 17, 1933",Watsonville,CA
@@ -795,7 +795,7 @@
 19,Ticky Burden,3,1976,1978,"Feb 28, 1953",Haines City,FL
 20,,,,,,,FL
 21,Nick Calathes,2,2014,2015,"Feb 7, 1989",Casselberry,FL
-22,Vernon Carey Jr.,2,2021,2022,"Feb 25, 2001",Miami,FL
+22,Vernon Carey Jr.,3,2021,2023,"Feb 25, 2001",Miami,FL
 23,Vince Carter,22,1999,2020,"Jan 26, 1977",Daytona Beach,FL
 24,Joe Chealey,2,2019,2020,"Nov 1, 1995",Orlando,FL
 25,Jordan Clarkson,9,2015,2023,"Jun 7, 1992",Tampa,FL
@@ -1209,7 +1209,7 @@
 146,,,,,,,IL
 147,Johnny Jorgensen,2,1948,1949,"Dec 28, 1921",Chicago,IL
 148,Whitey Kachan,1,1949,1949,"Sep 15, 1925",Chicago,IL
-149,Frank Kaminsky,7,2016,2022,"Apr 4, 1993",Lisle,IL
+149,Frank Kaminsky,8,2016,2023,"Apr 4, 1993",Lisle,IL
 150,Wilbert Kautz,1,1947,1947,"Sep 7, 1915",Chicago,IL
 151,Red Kerr,12,1955,1966,"Jul 17, 1932",Chicago,IL
 152,Jack Kerris,4,1950,1953,"Jan 30, 1925",Chicago,IL
@@ -1527,14 +1527,16 @@
 156,Tom Van Arsdale,12,1966,1977,"Feb 22, 1943",Indianapolis,IN
 157,Jake Weber,1,1947,1947,"Mar 18, 1918",Rushville,IN
 158,Bonzi Wells,10,1999,2008,"Sep 28, 1976",Muncie,IN
-159,Bob Wilkerson,7,1977,1983,"Aug 15, 1954",Anderson,IN
-160,Ward Williams,1,1949,1949,"Jun 26, 1923",Colfax,IN
-161,Bobby Wilson,4,1975,1978,"Jan 15, 1951",Indianapolis,IN
-162,Stephen Wilson,2,1971,1972,"Oct 16, 1948",Richmond,IN
-163,Dylan Windler,2,2021,2022,"Sep 22, 1996",Indianapolis,IN
-164,Randy Wittman,9,1984,1992,"Oct 28, 1959",Indianapolis,IN
-165,Mike Woodson,11,1981,1991,"Mar 24, 1958",Indianapolis,IN
-166,Cody Zeller,9,2014,2022,"Oct 5, 1992",Washington,IN
+159,Blake Wesley,1,2023,2023,"Mar 16, 2003",South Bend,IN
+160,Bob Wilkerson,7,1977,1983,"Aug 15, 1954",Anderson,IN
+161,Ward Williams,1,1949,1949,"Jun 26, 1923",Colfax,IN
+162,Bobby Wilson,4,1975,1978,"Jan 15, 1951",Indianapolis,IN
+163,Stephen Wilson,2,1971,1972,"Oct 16, 1948",Richmond,IN
+164,Dylan Windler,2,2021,2022,"Sep 22, 1996",Indianapolis,IN
+165,Randy Wittman,9,1984,1992,"Oct 28, 1959",Indianapolis,IN
+166,Mike Woodson,11,1981,1991,"Mar 24, 1958",Indianapolis,IN
+167,,,,,,,IN
+168,Cody Zeller,9,2014,2022,"Oct 5, 1992",Washington,IN
 0,Harrison Barnes,11,2013,2023,"May 30, 1992",Ames,IA
 1,Ryan Bowen,10,2000,2010,"Nov 20, 1975",Fort Madison,IA
 2,Matt Bullard,11,1991,2002,"Jun 5, 1967",Des Moines,IA
@@ -1835,7 +1837,7 @@
 108,Sam Smith,2,1979,1980,"Jan 8, 1955",Ferriday,LA
 109,Stromile Swift,9,2001,2009,"Nov 21, 1979",Shreveport,LA
 110,Collis Temple,1,1975,1975,"Nov 8, 1952",Kentwood,LA
-111,Garrett Temple,12,2010,2022,"May 8, 1986",Baton Rouge,LA
+111,Garrett Temple,13,2010,2023,"May 8, 1986",Baton Rouge,LA
 112,Billy Thomas,3,2005,2008,"Dec 23, 1975",Shreveport,LA
 113,Tyrus Thomas,8,2007,2015,"Aug 17, 1986",Baton Rouge,LA
 114,Marcus Thornton,8,2010,2017,"Jun 5, 1987",Baton Rouge,LA
@@ -2670,7 +2672,7 @@
 68,Tyler Cavanaugh,2,2018,2019,"Feb 9, 1994",Syracuse,NY
 69,Al Cervi*,4,1950,1953,"Feb 12, 1917",Buffalo,NY
 70,Lionel Chalmers,1,2005,2005,"Nov 10, 1980",Albany,NY
-71,Justin Champagnie,1,2022,2022,"Jun 29, 2001",Brooklyn,NY
+71,Justin Champagnie,2,2022,2023,"Jun 29, 2001",Brooklyn,NY
 72,Lorenzo Charles,1,1986,1986,"Nov 25, 1963",Brooklyn,NY
 73,Derrick Chievous,3,1989,1991,"Jul 3, 1967",New York,NY
 74,Fred Christ,1,1955,1955,"Aug 6, 1930",Glendale,NY
@@ -3066,7 +3068,7 @@
 24,Richard Coffey,1,1991,1991,"Sep 2, 1965",Aurora,NC
 25,Geoff Crompton,5,1979,1984,"Jul 4, 1955",Burlington,NC
 26,JamesOn Curry,1,2010,2010,"Jan 7, 1986",Pleasant Grove,NC
-27,Seth Curry,8,2014,2022,"Aug 23, 1990",Charlotte,NC
+27,Seth Curry,9,2014,2023,"Aug 23, 1990",Charlotte,NC
 28,Brad Daugherty,8,1987,1994,"Oct 19, 1965",Black Mountain,NC
 29,Hubert Davis,12,1993,2004,"May 17, 1970",Winston-Salem,NC
 30,Lee Davis,8,1969,1976,"Oct 11, 1945",Raleigh,NC
@@ -3348,7 +3350,7 @@
 147,Eric Piatkowski,14,1995,2008,"Sep 30, 1970",Steubenville,OH
 148,Walter Piatkowski,3,1969,1972,"Jun 11, 1945",Toledo,OH
 149,James Posey,12,2000,2011,"Jan 13, 1977",Cleveland,OH
-150,Micah Potter,1,2022,2022,"Apr 6, 1998",Mentor,OH
+150,Micah Potter,2,2022,2023,"Apr 6, 1998",Mentor,OH
 151,Mike Pratt,2,1971,1972,"Aug 4, 1948",Dayton,OH
 152,Les Pugh,2,1949,1950,"Sep 18, 1922",Butler,OH
 153,Kelvin Ransey,6,1981,1986,"May 3, 1958",Toledo,OH
@@ -3751,7 +3753,7 @@
 0,Marvin Barnes,6,1975,1980,"Jul 27, 1952",Providence,RI
 1,Ernie Calverley,3,1947,1949,"Jan 30, 1924",Pawtucket,RI
 2,Ernie DiGregorio,5,1974,1978,"Jan 15, 1951",North Providence,RI
-3,David Duke Jr.,1,2022,2022,"Oct 13, 1999",Providence,RI
+3,David Duke Jr.,2,2022,2023,"Oct 13, 1999",Providence,RI
 4,Tom Garrick,4,1989,1992,"Jul 7, 1966",West Warwick,RI
 5,Joe Hassett,6,1978,1983,"Sep 11, 1955",Providence,RI
 6,Ricky Ledo,2,2014,2015,"Sep 10, 1992",Providence,RI
@@ -4217,35 +4219,36 @@
 60,Ralph Sampson*,9,1984,1992,"Jul 7, 1960",Harrisonburg,VA
 61,Mike Scott,9,2013,2021,"Jul 16, 1988",Chesapeake,VA
 62,,,,,,,VA
-63,Ed Sherod,1,1983,1983,"Sep 13, 1959",Richmond,VA
-64,Jalen Smith,3,2021,2023,"Mar 16, 2000",Portsmouth,VA
-65,Joe Smith,16,1996,2011,"Jul 26, 1975",Norfolk,VA
-66,Rory Sparrow,12,1981,1992,"Jun 12, 1958",Suffolk,VA
-67,Bruce Spraggins,1,1968,1968,"Aug 31, 1939",Williamsburg,VA
-68,Bryant Stith,10,1993,2002,"Dec 10, 1970",Emporia,VA
-69,Sam Stith,1,1962,1962,"Jul 22, 1937",Greenville County,VA
-70,Tom Stith,1,1963,1963,"Jan 21, 1939",Greenville County,VA
-71,Julyan Stone,4,2012,2018,"Dec 7, 1988",Alexandria,VA
-72,Lamont Strothers,2,1992,1993,"May 10, 1968",Nansemond County,VA
-73,Skeeter Swift,5,1970,1974,"Jun 19, 1946",Alexandria,VA
-74,Linton Townes,3,1983,1985,"Nov 30, 1959",Richmond,VA
-75,Ronnie Valentine,1,1981,1981,"Nov 27, 1957",Norfolk,VA
-76,Jarvis Varnado,2,2013,2014,"Mar 1, 1988",Fairfax,VA
-77,Jimmy Walker,9,1968,1976,"Apr 8, 1944",Amherst,VA
-78,Jamie Waller,1,1988,1988,"Nov 20, 1964",South Boston,VA
-79,Wilson Washington,2,1978,1979,"Aug 3, 1955",Norfolk,VA
-80,Briante Weber,3,2016,2018,"Dec 29, 1992",Chesapeake,VA
-81,Mark West,17,1984,2000,"Nov 5, 1960",Petersburg,VA
-82,John Wetzel,7,1968,1976,"Oct 22, 1944",Waynesboro,VA
+63,Dereon Seabron,1,2023,2023,"May 26, 2000",Norfolk,VA
+64,Ed Sherod,1,1983,1983,"Sep 13, 1959",Richmond,VA
+65,Jalen Smith,3,2021,2023,"Mar 16, 2000",Portsmouth,VA
+66,Joe Smith,16,1996,2011,"Jul 26, 1975",Norfolk,VA
+67,Rory Sparrow,12,1981,1992,"Jun 12, 1958",Suffolk,VA
+68,Bruce Spraggins,1,1968,1968,"Aug 31, 1939",Williamsburg,VA
+69,Bryant Stith,10,1993,2002,"Dec 10, 1970",Emporia,VA
+70,Sam Stith,1,1962,1962,"Jul 22, 1937",Greenville County,VA
+71,Tom Stith,1,1963,1963,"Jan 21, 1939",Greenville County,VA
+72,Julyan Stone,4,2012,2018,"Dec 7, 1988",Alexandria,VA
+73,Lamont Strothers,2,1992,1993,"May 10, 1968",Nansemond County,VA
+74,Skeeter Swift,5,1970,1974,"Jun 19, 1946",Alexandria,VA
+75,Linton Townes,3,1983,1985,"Nov 30, 1959",Richmond,VA
+76,Ronnie Valentine,1,1981,1981,"Nov 27, 1957",Norfolk,VA
+77,Jarvis Varnado,2,2013,2014,"Mar 1, 1988",Fairfax,VA
+78,Jimmy Walker,9,1968,1976,"Apr 8, 1944",Amherst,VA
+79,Jamie Waller,1,1988,1988,"Nov 20, 1964",South Boston,VA
+80,Wilson Washington,2,1978,1979,"Aug 3, 1955",Norfolk,VA
+81,Briante Weber,3,2016,2018,"Dec 29, 1992",Chesapeake,VA
+82,Mark West,17,1984,2000,"Nov 5, 1960",Petersburg,VA
 83,,,,,,,VA
-84,Skippy Whitaker,1,1955,1955,"Aug 29, 1930",Quantico,VA
-85,Andrew White,1,2018,2018,"Jun 16, 1993",Richmond,VA
-86,Mark Williams,1,2023,2023,"Dec 16, 2001",Norfolk,VA
-87,Monty Williams,9,1995,2003,"Oct 8, 1971",Fredericksburg,VA
-88,Reggie Williams,7,2010,2017,"Sep 14, 1986",Prince George,VA
-89,Troy Williams,3,2017,2019,"Dec 30, 1994",Hampton,VA
-90,Othell Wilson,2,1985,1987,"Oct 26, 1961",Alexandria,VA
-91,Ricky Wilson,1,1988,1988,"Jul 16, 1964",Hampton,VA
+84,John Wetzel,7,1968,1976,"Oct 22, 1944",Waynesboro,VA
+85,Skippy Whitaker,1,1955,1955,"Aug 29, 1930",Quantico,VA
+86,Andrew White,1,2018,2018,"Jun 16, 1993",Richmond,VA
+87,Mark Williams,1,2023,2023,"Dec 16, 2001",Norfolk,VA
+88,Monty Williams,9,1995,2003,"Oct 8, 1971",Fredericksburg,VA
+89,Reggie Williams,7,2010,2017,"Sep 14, 1986",Prince George,VA
+90,Troy Williams,3,2017,2019,"Dec 30, 1994",Hampton,VA
+91,Othell Wilson,2,1985,1987,"Oct 26, 1961",Alexandria,VA
+92,Ricky Wilson,1,1988,1988,"Jul 16, 1964",Hampton,VA
 0,Paolo Banchero,1,2023,2023,"Nov 12, 2002",Seattle,WA
 1,MarJon Beauchamp,1,2023,2023,"Oct 12, 2000",Yakima,WA
 2,Byron Beck,10,1968,1977,"Jan 25, 1945",Ellensburg,WA
