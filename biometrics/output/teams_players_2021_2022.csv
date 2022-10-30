@@ -155,7 +155,7 @@ Player ID,Player Name,Height,Weight,Birthday,Age,School,Team ID,Team Name,City,B
 1630206,Jay Scrubb,6-5,220,"SEP 01, 2000",21.0,John A. Logan,1610612746,Los Angeles Clippers,Los Angeles,SEP 
 202704,Reggie Jackson,6-2,208,"APR 16, 1990",32.0,Boston College,1610612746,Los Angeles Clippers,Los Angeles,APR 
 202695,Kawhi Leonard,6-7,225,"JUN 29, 1991",31.0,San Diego State,1610612746,Los Angeles Clippers,Los Angeles,JUN 
-1630527,Brandon Boston,6-6,188,"NOV 28, 2001",20.0,Kentucky,1610612746,Los Angeles Clippers,Los Angeles,NOV 
+1630527,Brandon Boston Jr.,6-6,188,"NOV 28, 2001",20.0,Kentucky,1610612746,Los Angeles Clippers,Los Angeles,NOV 
 1628379,Luke Kennard,6-5,206,"JUN 24, 1996",26.0,Duke,1610612746,Los Angeles Clippers,Los Angeles,JUN 
 1629599,Amir Coffey,6-7,210,"JUN 17, 1997",25.0,Minnesota,1610612746,Los Angeles Clippers,Los Angeles,JUN 
 202694,Marcus Morris Sr.,6-8,218,"SEP 02, 1989",32.0,Kansas,1610612746,Los Angeles Clippers,Los Angeles,SEP 
@@ -404,6 +404,40 @@ Player ID,Player Name,Height,Weight,Birthday,Age,School,Team ID,Team Name,City,B
 203488,Mike Muscala,6-10,240,"JUL 01, 1991",30.0,Bucknell,1610612760,Oklahoma City Thunder,Oklahoma City,JUL 
 1629026,Kenrich Williams,6-6,210,"DEC 02, 1994",27.0,TCU,1610612760,Oklahoma City Thunder,Oklahoma City,DEC 
 1630526,Jeremiah Robinson-Earl,6-8,242,"NOV 03, 2000",21.0,Villanova,1610612760,Oklahoma City Thunder,Oklahoma City,NOV 
+1630595,Cade Cunningham,6-6,220,"SEP 25, 2001",20.0,Oklahoma State,1610612765,Detroit Pistons,Detroit,SEP 
+1629035,Carsen Edwards,5-11,200,"MAR 12, 1998",24.0,Purdue,1610612765,Detroit Pistons,Detroit,MAR 
+1628402,Frank Jackson,6-3,205,"MAY 04, 1998",24.0,Duke,1610612765,Detroit Pistons,Detroit,MAY 
+1628977,Hamidou Diallo,6-5,202,"JUL 31, 1998",23.0,Kentucky,1610612765,Detroit Pistons,Detroit,JUL 
+1630165,Killian Hayes,6-5,195,"JUL 27, 2001",20.0,Ratiopharm Ulm,1610612765,Detroit Pistons,Detroit,JUL 
+203924,Jerami Grant,6-8,210,"MAR 12, 1994",28.0,Syracuse,1610612765,Detroit Pistons,Detroit,MAR 
+1630587,Isaiah Livers,6-6,232,"JUL 28, 1998",23.0,Michigan,1610612765,Detroit Pistons,Detroit,JUL 
+203482,Kelly Olynyk,6-11,240,"APR 19, 1991",31.0,Gonzaga,1610612765,Detroit Pistons,Detroit,APR 
+203585,Rodney McGruder,6-4,205,"JUL 29, 1991",30.0,Kansas State,1610612765,Detroit Pistons,Detroit,JUL 
+1630296,Braxton Key,6-8,225,"FEB 14, 1997",25.0,Virginia,1610612765,Detroit Pistons,Detroit,FEB 
+202709,Cory Joseph,6-3,200,"AUG 20, 1991",30.0,Texas,1610612765,Detroit Pistons,Detroit,AUG 
+1630691,Jamorko Pickett,6-9,206,"DEC 24, 1997",24.0,Georgetown,1610612765,Detroit Pistons,Detroit,DEC 
+1630191,Isaiah Stewart,6-8,250,"MAY 22, 2001",21.0,Washington,1610612765,Detroit Pistons,Detroit,MAY 
+1628963,Marvin Bagley III,6-11,235,"MAR 14, 1999",23.0,Duke,1610612765,Detroit Pistons,Detroit,MAR 
+1630240,Saben Lee,6-2,183,"JUN 23, 1999",23.0,Vanderbilt,1610612765,Detroit Pistons,Detroit,JUN 
+1630180,Saddiq Bey,6-7,215,"APR 09, 1999",23.0,Villanova,1610612765,Detroit Pistons,Detroit,APR 
+1630568,Luka Garza,6-10,243,"DEC 27, 1998",23.0,Iowa,1610612765,Detroit Pistons,Detroit,DEC 
+1628970,Miles Bridges,6-7,225,"MAR 21, 1998",24.0,Michigan State,1610612766,Charlotte Hornets,Charlotte,MAR 
+1630163,LaMelo Ball,6-7,180,"AUG 22, 2001",20.0,Illawarra,1610612766,Charlotte Hornets,Charlotte,AUG 
+1626179,Terry Rozier,6-1,190,"MAR 17, 1994",28.0,Louisville,1610612766,Charlotte Hornets,Charlotte,MAR 
+202738,Isaiah Thomas,5-9,185,"FEB 07, 1989",33.0,Washington,1610612766,Charlotte Hornets,Charlotte,FEB 
+1630547,James Bouknight,6-4,190,"SEP 18, 2000",21.0,Connecticut,1610612766,Charlotte Hornets,Charlotte,SEP 
+1629667,Jalen McDaniels,6-9,205,"JAN 31, 1998",24.0,San Diego State,1610612766,Charlotte Hornets,Charlotte,JAN 
+1626149,Montrezl Harrell,6-7,240,"JAN 26, 1994",28.0,Louisville,1610612766,Charlotte Hornets,Charlotte,JAN 
+1628998,Cody Martin,6-6,205,"SEP 28, 1995",26.0,Nevada,1610612766,Charlotte Hornets,Charlotte,SEP 
+1626162,Kelly Oubre Jr.,6-6,203,"DEC 09, 1995",26.0,Kansas,1610612766,Charlotte Hornets,Charlotte,DEC 
+1630208,Nick Richards,7-0,245,"NOV 29, 1997",24.0,Kentucky,1610612766,Charlotte Hornets,Charlotte,NOV 
+1630575,Scottie Lewis,6-5,185,"MAR 12, 2000",22.0,Florida,1610612766,Charlotte Hornets,Charlotte,MAR 
+202330,Gordon Hayward,6-7,225,"MAR 23, 1990",32.0,Butler,1610612766,Charlotte Hornets,Charlotte,MAR 
+1630550,JT Thor,6-9,203,"AUG 26, 2002",19.0,Auburn,1610612766,Charlotte Hornets,Charlotte,AUG 
+1630539,Kai Jones,6-10,221,"JAN 19, 2001",21.0,Texas,1610612766,Charlotte Hornets,Charlotte,JAN 
+203486,Mason Plumlee,6-11,254,"MAR 05, 1990",32.0,Duke,1610612766,Charlotte Hornets,Charlotte,MAR 
+1629023,P.J. Washington,6-7,230,"AUG 23, 1998",23.0,Kentucky,1610612766,Charlotte Hornets,Charlotte,AUG 
+1629083,Arnoldas Kulboka,6-10,209,"JAN 04, 1998",24.0,Bilbao,1610612766,Charlotte Hornets,Charlotte,JAN 
 1629717,Armoni Brooks,6-3,195,"JUN 05, 1998",24.0,Houston,1610612761,Toronto Raptors,Toronto,JUN 
 1628384,O.G. Anunoby,6-7,232,"JUL 17, 1997",24.0,Indiana,1610612761,Toronto Raptors,Toronto,JUL 
 1630567,Scottie Barnes,6-7,225,"AUG 01, 2001",20.0,Florida State,1610612761,Toronto Raptors,Toronto,AUG 
@@ -471,37 +505,3 @@ Player ID,Player Name,Height,Weight,Birthday,Age,School,Team ID,Team Name,City,B
 1630557,Corey Kispert,6-6,224,"MAR 03, 1999",23.0,Gonzaga,1610612764,Washington Wizards,Washington,MAR 
 203107,Tomas Satoransky,6-7,210,"OCT 30, 1991",30.0,FC Barcelona,1610612764,Washington Wizards,Washington,OCT 
 1628398,Kyle Kuzma,6-9,221,"JUL 24, 1995",26.0,Utah,1610612764,Washington Wizards,Washington,JUL 
-1630595,Cade Cunningham,6-6,220,"SEP 25, 2001",20.0,Oklahoma State,1610612765,Detroit Pistons,Detroit,SEP 
-1629035,Carsen Edwards,5-11,200,"MAR 12, 1998",24.0,Purdue,1610612765,Detroit Pistons,Detroit,MAR 
-1628402,Frank Jackson,6-3,205,"MAY 04, 1998",24.0,Duke,1610612765,Detroit Pistons,Detroit,MAY 
-1628977,Hamidou Diallo,6-5,202,"JUL 31, 1998",23.0,Kentucky,1610612765,Detroit Pistons,Detroit,JUL 
-1630165,Killian Hayes,6-5,195,"JUL 27, 2001",20.0,Ratiopharm Ulm,1610612765,Detroit Pistons,Detroit,JUL 
-203924,Jerami Grant,6-8,210,"MAR 12, 1994",28.0,Syracuse,1610612765,Detroit Pistons,Detroit,MAR 
-1630587,Isaiah Livers,6-6,232,"JUL 28, 1998",23.0,Michigan,1610612765,Detroit Pistons,Detroit,JUL 
-203482,Kelly Olynyk,6-11,240,"APR 19, 1991",31.0,Gonzaga,1610612765,Detroit Pistons,Detroit,APR 
-203585,Rodney McGruder,6-4,205,"JUL 29, 1991",30.0,Kansas State,1610612765,Detroit Pistons,Detroit,JUL 
-1630296,Braxton Key,6-8,225,"FEB 14, 1997",25.0,Virginia,1610612765,Detroit Pistons,Detroit,FEB 
-202709,Cory Joseph,6-3,200,"AUG 20, 1991",30.0,Texas,1610612765,Detroit Pistons,Detroit,AUG 
-1630691,Jamorko Pickett,6-9,206,"DEC 24, 1997",24.0,Georgetown,1610612765,Detroit Pistons,Detroit,DEC 
-1630191,Isaiah Stewart,6-8,250,"MAY 22, 2001",21.0,Washington,1610612765,Detroit Pistons,Detroit,MAY 
-1628963,Marvin Bagley III,6-11,235,"MAR 14, 1999",23.0,Duke,1610612765,Detroit Pistons,Detroit,MAR 
-1630240,Saben Lee,6-2,183,"JUN 23, 1999",23.0,Vanderbilt,1610612765,Detroit Pistons,Detroit,JUN 
-1630180,Saddiq Bey,6-7,215,"APR 09, 1999",23.0,Villanova,1610612765,Detroit Pistons,Detroit,APR 
-1630568,Luka Garza,6-10,243,"DEC 27, 1998",23.0,Iowa,1610612765,Detroit Pistons,Detroit,DEC 
-1628970,Miles Bridges,6-7,225,"MAR 21, 1998",24.0,Michigan State,1610612766,Charlotte Hornets,Charlotte,MAR 
-1630163,LaMelo Ball,6-7,180,"AUG 22, 2001",20.0,Illawarra,1610612766,Charlotte Hornets,Charlotte,AUG 
-1626179,Terry Rozier,6-1,190,"MAR 17, 1994",28.0,Louisville,1610612766,Charlotte Hornets,Charlotte,MAR 
-202738,Isaiah Thomas,5-9,185,"FEB 07, 1989",33.0,Washington,1610612766,Charlotte Hornets,Charlotte,FEB 
-1630547,James Bouknight,6-4,190,"SEP 18, 2000",21.0,Connecticut,1610612766,Charlotte Hornets,Charlotte,SEP 
-1629667,Jalen McDaniels,6-9,205,"JAN 31, 1998",24.0,San Diego State,1610612766,Charlotte Hornets,Charlotte,JAN 
-1626149,Montrezl Harrell,6-7,240,"JAN 26, 1994",28.0,Louisville,1610612766,Charlotte Hornets,Charlotte,JAN 
-1628998,Cody Martin,6-6,205,"SEP 28, 1995",26.0,Nevada,1610612766,Charlotte Hornets,Charlotte,SEP 
-1626162,Kelly Oubre Jr.,6-6,203,"DEC 09, 1995",26.0,Kansas,1610612766,Charlotte Hornets,Charlotte,DEC 
-1630208,Nick Richards,7-0,245,"NOV 29, 1997",24.0,Kentucky,1610612766,Charlotte Hornets,Charlotte,NOV 
-1630575,Scottie Lewis,6-5,185,"MAR 12, 2000",22.0,Florida,1610612766,Charlotte Hornets,Charlotte,MAR 
-202330,Gordon Hayward,6-7,225,"MAR 23, 1990",32.0,Butler,1610612766,Charlotte Hornets,Charlotte,MAR 
-1630550,JT Thor,6-9,203,"AUG 26, 2002",19.0,Auburn,1610612766,Charlotte Hornets,Charlotte,AUG 
-1630539,Kai Jones,6-10,221,"JAN 19, 2001",21.0,Texas,1610612766,Charlotte Hornets,Charlotte,JAN 
-203486,Mason Plumlee,6-11,254,"MAR 05, 1990",32.0,Duke,1610612766,Charlotte Hornets,Charlotte,MAR 
-1629023,P.J. Washington,6-7,230,"AUG 23, 1998",23.0,Kentucky,1610612766,Charlotte Hornets,Charlotte,AUG 
-1629083,Arnoldas Kulboka,6-10,209,"JAN 04, 1998",24.0,Bilbao,1610612766,Charlotte Hornets,Charlotte,JAN 
