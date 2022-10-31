@@ -1,468 +1,469 @@
-,Player,PER,Player Name,Height,Weight,Age,School,Team Name,City,Birth Month
-0,Precious Achiuwa,12.7,Precious Achiuwa,80.0,225.0,22.0,Memphis,Toronto Raptors,Toronto,SEP 
-1,Steven Adams,17.6,Steven Adams,83.0,265.0,28.0,Pittsburgh,Memphis Grizzlies,Memphis,JUL 
-2,Bam Adebayo,21.8,Bam Adebayo,81.0,255.0,24.0,Kentucky,Miami Heat,Miami,JUL 
-3,Santi Aldama,10.2,Santi Aldama,83.0,215.0,21.0,Loyola-Maryland,Memphis Grizzlies,Memphis,JAN 
-4,LaMarcus Aldridge,19.6,LaMarcus Aldridge,83.0,250.0,36.0,Texas-Austin,Brooklyn Nets,Brooklyn,JUL 
-5,Nickeil Alexander-Walker,10.5,Nickeil Alexander-Walker,77.0,205.0,23.0,Virginia Tech,Utah Jazz,Utah,SEP 
-6,Grayson Allen,12.7,Grayson Allen,76.0,198.0,26.0,Duke,Milwaukee Bucks,Milwaukee,OCT 
-7,Jarrett Allen,23.0,Jarrett Allen,82.0,243.0,24.0,Texas,Cleveland Cavaliers,Cleveland,APR 
-8,Jose Alvarado,16.4,Jose Alvarado,72.0,179.0,24.0,Georgia Tech,New Orleans Pelicans,New Orleans,APR 
-10,Kyle Anderson,14.4,Kyle Anderson,81.0,230.0,28.0,UCLA,Memphis Grizzlies,Memphis,SEP 
-11,Giannis Antetokounmpo,32.1,Giannis Antetokounmpo,83.0,242.0,27.0,Filathlitikos,Milwaukee Bucks,Milwaukee,DEC 
-12,Thanasis Antetokounmpo,12.5,Thanasis Antetokounmpo,78.0,219.0,29.0,Panathinaikos,Milwaukee Bucks,Milwaukee,JUL 
-13,Carmelo Anthony,14.8,Carmelo Anthony,79.0,238.0,38.0,Syracuse,Los Angeles Lakers,Los Angeles,MAY 
-14,Cole Anthony,13.5,Cole Anthony,75.0,185.0,22.0,North Carolina,Orlando Magic,Orlando,MAY 
-16,Ryan Arcidiacono,6.1,Ryan Arcidiacono,75.0,195.0,28.0,Villanova,New York Knicks,New York,MAR 
-18,D.J. Augustin,9.7,D.J. Augustin,71.0,183.0,34.0,Texas-Austin,Los Angeles Lakers,Los Angeles,NOV 
-19,Deni Avdija,11.6,Deni Avdija,81.0,210.0,21.0,Maccabi Tel Aviv,Washington Wizards,Washington,JAN 
-21,Deandre Ayton,21.9,Deandre Ayton,83.0,250.0,23.0,Arizona,Phoenix Suns,Phoenix,JUL 
-22,Udoka Azubuike,17.6,Udoka Azubuike,84.0,270.0,22.0,Kansas,Utah Jazz,Utah,SEP 
-23,Marvin Bagley III,15.7,Marvin Bagley III,83.0,235.0,23.0,Duke,Detroit Pistons,Detroit,MAR 
-24,LaMelo Ball,19.7,LaMelo Ball,79.0,180.0,20.0,Illawarra,Charlotte Hornets,Charlotte,AUG 
-25,Lonzo Ball,14.5,Lonzo Ball,78.0,190.0,24.0,UCLA,Chicago Bulls,Chicago,OCT 
-26,Mo Bamba,16.5,Mo Bamba,84.0,231.0,24.0,Texas,Orlando Magic,Orlando,MAY 
-27,Desmond Bane,17.6,Desmond Bane,77.0,215.0,24.0,TCU,Memphis Grizzlies,Memphis,JUN 
-28,Dalano Banton,10.0,Dalano Banton,79.0,204.0,22.0,Nebraska,Toronto Raptors,Toronto,NOV 
-30,Harrison Barnes,15.7,Harrison Barnes,80.0,225.0,30.0,North Carolina,Sacramento Kings,Sacramento,MAY 
-31,Scottie Barnes,16.3,Scottie Barnes,79.0,225.0,20.0,Florida State,Toronto Raptors,Toronto,AUG 
-32,RJ Barrett,13.7,RJ Barrett,78.0,214.0,22.0,Duke,New York Knicks,New York,JUN 
-33,Will Barton,13.4,Will Barton,77.0,181.0,31.0,Memphis,Denver Nuggets,Denver,JAN 
-35,Charles Bassey,21.5,Charles Bassey,81.0,230.0,21.0,Western Kentucky,Philadelphia 76ers,Philadelphia,OCT 
-36,Keita Bates-Diop,12.4,Keita Bates-Diop,80.0,229.0,26.0,Ohio State,San Antonio Spurs,San Antonio,JAN 
-37,Nicolas Batum,13.5,Nicolas Batum,80.0,230.0,33.0,Le Mans,Los Angeles Clippers,Los Angeles,DEC 
-38,Kent Bazemore,6.0,Kent Bazemore,76.0,195.0,32.0,Old Dominion,Los Angeles Lakers,Los Angeles,JUL 
-39,Darius Bazley,12.6,Darius Bazley,80.0,208.0,22.0,Princeton HS (OH),Oklahoma City Thunder,Oklahoma City,JUN 
-40,Bradley Beal,17.5,Bradley Beal,76.0,207.0,29.0,Florida,Washington Wizards,Washington,JUN 
-41,Malik Beasley,11.9,Malik Beasley,76.0,187.0,25.0,Florida State,Minnesota Timberwolves,Minnesota,NOV 
-45,Patrick Beverley,14.8,Patrick Beverley,73.0,180.0,33.0,Arkansas,Minnesota Timberwolves,Minnesota,JUL 
-46,Saddiq Bey,14.0,Saddiq Bey,79.0,215.0,23.0,Villanova,Detroit Pistons,Detroit,APR 
-47,Khem Birch,13.2,Khem Birch,81.0,233.0,29.0,UNLV,Toronto Raptors,Toronto,SEP 
-48,Goga Bitadze,18.0,Goga Bitadze,84.0,250.0,22.0,Mega Basket,Indiana Pacers,Indiana,JUL 
-49,Bismack Biyombo,17.3,Bismack Biyombo,80.0,255.0,29.0,Baloncesto Fuenlabrada,Phoenix Suns,Phoenix,AUG 
-50,Nemanja Bjelica,14.2,Nemanja Bjelica,81.0,234.0,34.0,Fenerbahce,Golden State Warriors,Golden State,MAY 
-51,Eric Bledsoe,12.5,Eric Bledsoe,73.0,214.0,32.0,Kentucky,Portland Trail Blazers,Portland,DEC 
-52,Keljin Blevins,4.8,Keljin Blevins,76.0,200.0,26.0,Montana State,Portland Trail Blazers,Portland,NOV 
-55,Bol Bol,13.5,Bol Bol,86.0,220.0,22.0,Oregon,Orlando Magic,Orlando,NOV 
-56,Leandro Bolmaro,5.4,Leandro Bolmaro,78.0,200.0,21.0,FC Barcelona,Minnesota Timberwolves,Minnesota,SEP 
-57,Isaac Bonga,8.7,Isaac Bonga,80.0,180.0,22.0,Skyliners Frankfurt,Toronto Raptors,Toronto,NOV 
-58,Devin Booker,21.3,Devin Booker,77.0,206.0,25.0,Kentucky,Phoenix Suns,Phoenix,OCT 
-60,Chris Boucher,17.9,Chris Boucher,81.0,200.0,29.0,Oregon,Toronto Raptors,Toronto,JAN 
-61,James Bouknight,10.1,James Bouknight,76.0,190.0,21.0,Connecticut,Charlotte Hornets,Charlotte,SEP 
-62,Avery Bradley,7.8,Avery Bradley,75.0,180.0,31.0,Texas-Austin,Los Angeles Lakers,Los Angeles,NOV 
-63,Tony Bradley,14.9,Tony Bradley,82.0,248.0,24.0,North Carolina,Chicago Bulls,Chicago,JAN 
-64,Ignas Brazdeikis,10.2,Ignas Brazdeikis,78.0,221.0,23.0,Michigan,Orlando Magic,Orlando,JAN 
-65,Mikal Bridges,14.4,Mikal Bridges,78.0,209.0,25.0,Villanova,Phoenix Suns,Phoenix,AUG 
-66,Miles Bridges,17.9,Miles Bridges,79.0,225.0,24.0,Michigan State,Charlotte Hornets,Charlotte,MAR 
-67,Oshae Brissett,12.9,Oshae Brissett,79.0,210.0,24.0,Syracuse,Indiana Pacers,Indiana,JUN 
-68,Malcolm Brogdon,18.0,Malcolm Brogdon,77.0,229.0,29.0,Virginia,Indiana Pacers,Indiana,DEC 
-69,Armoni Brooks,8.4,Armoni Brooks,75.0,195.0,24.0,Houston,Toronto Raptors,Toronto,JUN 
-70,Dillon Brooks,15.5,Dillon Brooks,79.0,225.0,26.0,Oregon,Memphis Grizzlies,Memphis,JAN 
-71,Bruce Brown,15.0,Bruce Brown,76.0,202.0,25.0,Miami,Brooklyn Nets,Brooklyn,AUG 
-72,Charlie Brown Jr.,6.5,Charlie Brown Jr.,78.0,199.0,25.0,St. Joseph's (PA),Philadelphia 76ers,Philadelphia,FEB 
-73,Chaundee Brown Jr.,6.4,Chaundee Brown Jr.,77.0,215.0,23.0,Michigan,Atlanta Hawks,Atlanta,DEC 
-74,Greg Brown III,11.0,Greg Brown III,79.0,206.0,20.0,Texas,Portland Trail Blazers,Portland,SEP 
-75,Jaylen Brown,18.9,Jaylen Brown,78.0,223.0,25.0,California,Boston Celtics,Boston,OCT 
-76,Moses Brown,18.5,Moses Brown,86.0,245.0,22.0,UCLA,Cleveland Cavaliers,Cleveland,OCT 
-77,Sterling Brown,8.4,Sterling Brown,77.0,219.0,27.0,Southern Methodist,Dallas Mavericks,Dallas,FEB 
-78,Troy Brown Jr.,10.1,Troy Brown Jr.,78.0,215.0,22.0,Oregon,Chicago Bulls,Chicago,JUL 
-79,Jalen Brunson,17.1,Jalen Brunson,73.0,190.0,25.0,Villanova,Dallas Mavericks,Dallas,AUG 
-80,Thomas Bryant,16.6,Thomas Bryant,82.0,248.0,24.0,Indiana,Washington Wizards,Washington,JUL 
-82,Reggie Bullock,9.2,Reggie Bullock,78.0,205.0,31.0,North Carolina,Dallas Mavericks,Dallas,MAR 
-83,Trey Burke,10.0,Trey Burke,72.0,185.0,29.0,Michigan,Dallas Mavericks,Dallas,NOV 
-84,Alec Burks,13.7,Alec Burks,78.0,214.0,30.0,Colorado,New York Knicks,New York,JUL 
-85,Jared Butler,12.1,Jared Butler,75.0,193.0,21.0,Baylor,Utah Jazz,Utah,AUG 
-86,Jimmy Butler,23.6,Jimmy Butler,79.0,230.0,32.0,Marquette,Miami Heat,Miami,SEP 
-87,Devontae Cacok,20.2,Devontae Cacok,79.0,240.0,25.0,North Carolina-Wilmington,San Antonio Spurs,San Antonio,OCT 
-88,Kentavious Caldwell-Pope,12.6,Kentavious Caldwell-Pope,77.0,204.0,29.0,Georgia,Washington Wizards,Washington,FEB 
-89,Facundo Campazzo,11.1,Facundo Campazzo,70.0,195.0,31.0,Murcia,Denver Nuggets,Denver,MAR 
-91,Devin Cannady,8.6,Devin Cannady,74.0,183.0,26.0,Princeton,Orlando Magic,Orlando,MAY 
-92,Clint Capela,21.4,Clint Capela,82.0,256.0,28.0,Elan Chalon,Atlanta Hawks,Atlanta,MAY 
-93,Vernon Carey Jr.,15.8,Vernon Carey Jr.,81.0,270.0,21.0,Duke,Washington Wizards,Washington,FEB 
-94,Jevon Carter,9.6,Jevon Carter,73.0,200.0,26.0,West Virginia,Milwaukee Bucks,Milwaukee,SEP 
-95,Wendell Carter Jr.,18.4,Wendell Carter Jr.,82.0,270.0,23.0,Duke,Orlando Magic,Orlando,APR 
-96,Alex Caruso,11.7,Alex Caruso,77.0,186.0,28.0,Texas A&M,Chicago Bulls,Chicago,FEB 
-99,Justin Champagnie,13.6,Justin Champagnie,78.0,206.0,21.0,Pittsburgh,Toronto Raptors,Toronto,JUN 
-101,Chris Chiozza,4.4,Chris Chiozza,71.0,175.0,26.0,Florida,Golden State Warriors,Golden State,NOV 
-102,Marquese Chriss,14.8,Marquese Chriss,81.0,240.0,24.0,Washington,Dallas Mavericks,Dallas,JUL 
-103,Josh Christopher,12.2,Josh Christopher,75.0,215.0,20.0,Arizona State,Houston Rockets,Houston,DEC 
-104,Gary Clark,11.4,Gary Clark,78.0,225.0,27.0,Cincinnati,New Orleans Pelicans,New Orleans,NOV 
-105,Brandon Clarke,23.7,Brandon Clarke,80.0,215.0,25.0,Gonzaga,Memphis Grizzlies,Memphis,SEP 
-106,Jordan Clarkson,14.9,Jordan Clarkson,76.0,194.0,30.0,Missouri,Utah Jazz,Utah,JUN 
-107,Nic Claxton,18.6,Nic Claxton,83.0,215.0,23.0,Georgia,Brooklyn Nets,Brooklyn,APR 
-108,Amir Coffey,13.0,Amir Coffey,79.0,210.0,25.0,Minnesota,Los Angeles Clippers,Los Angeles,JUN 
-109,John Collins,18.7,John Collins,81.0,226.0,24.0,Wake Forest,Atlanta Hawks,Atlanta,SEP 
-110,Zach Collins,16.4,Zach Collins,83.0,250.0,24.0,Gonzaga,San Antonio Spurs,San Antonio,NOV 
-112,Mike Conley,17.2,Mike Conley,73.0,175.0,34.0,Ohio State,Utah Jazz,Utah,OCT 
-113,Pat Connaughton,13.4,Pat Connaughton,77.0,209.0,29.0,Notre Dame,Milwaukee Bucks,Milwaukee,JAN 
-114,Tyler Cook,13.0,Tyler Cook,80.0,255.0,24.0,Iowa,Chicago Bulls,Chicago,SEP 
-115,Sharife Cooper,-5.4,Sharife Cooper,73.0,176.0,21.0,Auburn,Atlanta Hawks,Atlanta,JUN 
-117,DeMarcus Cousins,18.2,DeMarcus Cousins,82.0,270.0,31.0,Kentucky,Denver Nuggets,Denver,AUG 
-118,Robert Covington,12.4,Robert Covington,79.0,209.0,31.0,Tennessee State,Los Angeles Clippers,Los Angeles,DEC 
-119,Torrey Craig,11.0,Torrey Craig,79.0,221.0,31.0,South Carolina Upstate,Phoenix Suns,Phoenix,DEC 
-120,Jae Crowder,11.3,Jae Crowder,78.0,235.0,31.0,Marquette,Phoenix Suns,Phoenix,JUL 
-121,Jarrett Culver,8.7,Jarrett Culver,78.0,195.0,23.0,Texas Tech,Memphis Grizzlies,Memphis,FEB 
-123,Cade Cunningham,13.1,Cade Cunningham,78.0,220.0,20.0,Oklahoma State,Detroit Pistons,Detroit,SEP 
-124,Seth Curry,13.7,Seth Curry,74.0,185.0,31.0,Duke,Brooklyn Nets,Brooklyn,AUG 
-125,Stephen Curry,21.4,Stephen Curry,74.0,185.0,34.0,Davidson,Golden State Warriors,Golden State,MAR 
-126,Anthony Davis,23.9,Anthony Davis,82.0,253.0,29.0,Kentucky,Los Angeles Lakers,Los Angeles,MAR 
-127,Ed Davis,9.3,Ed Davis,81.0,218.0,33.0,North Carolina,Cleveland Cavaliers,Cleveland,JUN 
-128,Terence Davis,14.6,Terence Davis,76.0,201.0,25.0,Mississippi,Sacramento Kings,Sacramento,MAY 
-130,Dewayne Dedmon,15.9,Dewayne Dedmon,84.0,245.0,32.0,Southern California,Miami Heat,Miami,AUG 
-133,DeMar DeRozan,23.1,DeMar DeRozan,78.0,220.0,32.0,Southern California,Chicago Bulls,Chicago,AUG 
-136,Hamidou Diallo,15.7,Hamidou Diallo,77.0,202.0,23.0,Kentucky,Detroit Pistons,Detroit,JUL 
-137,Gorgui Dieng,17.3,Gorgui Dieng,82.0,248.0,32.0,Louisville,Atlanta Hawks,Atlanta,JAN 
-138,Spencer Dinwiddie,15.1,Spencer Dinwiddie,78.0,215.0,29.0,Colorado,Dallas Mavericks,Dallas,APR 
-139,Donte DiVincenzo,11.3,Donte DiVincenzo,76.0,203.0,25.0,Villanova,Sacramento Kings,Sacramento,JAN 
-141,Luguentz Dort,12.3,Luguentz Dort,75.0,215.0,23.0,Arizona State,Oklahoma City Thunder,Oklahoma City,APR 
-142,Ayo Dosunmu,11.2,Ayo Dosunmu,76.0,200.0,22.0,Illinois,Chicago Bulls,Chicago,JAN 
-149,Andre Drummond,21.0,Andre Drummond,82.0,279.0,28.0,Connecticut,Brooklyn Nets,Brooklyn,AUG 
-150,Chris Duarte,12.3,Chris Duarte,77.0,190.0,25.0,Oregon,Indiana Pacers,Indiana,JUN 
-151,David Duke Jr.,10.0,David Duke Jr.,76.0,204.0,22.0,Providence,Brooklyn Nets,Brooklyn,OCT 
-153,Kevin Durant,25.6,Kevin Durant,82.0,240.0,33.0,Texas,Brooklyn Nets,Brooklyn,SEP 
-155,Anthony Edwards,16.5,Anthony Edwards,76.0,225.0,20.0,Georgia,Minnesota Timberwolves,Minnesota,AUG 
-156,Carsen Edwards,5.5,Carsen Edwards,71.0,200.0,24.0,Purdue,Detroit Pistons,Detroit,MAR 
-157,Kessler Edwards,8.3,Kessler Edwards,79.0,203.0,21.0,Pepperdine,Brooklyn Nets,Brooklyn,AUG 
-159,CJ Elleby,9.2,CJ Elleby,78.0,200.0,22.0,Washington State,Portland Trail Blazers,Portland,JUN 
-160,Wayne Ellington,9.9,Wayne Ellington,76.0,207.0,34.0,North Carolina,Los Angeles Lakers,Los Angeles,NOV 
-161,Joel Embiid,31.2,Joel Embiid,84.0,280.0,28.0,Kansas,Philadelphia 76ers,Philadelphia,MAR 
-165,Derrick Favors,13.6,Derrick Favors,81.0,265.0,30.0,Georgia Tech,Oklahoma City Thunder,Oklahoma City,JUL 
-166,Bruno Fernando,21.2,Bruno Fernando,81.0,240.0,23.0,Maryland,Houston Rockets,Houston,AUG 
-167,Dorian Finney-Smith,12.5,Dorian Finney-Smith,79.0,220.0,29.0,Florida,Dallas Mavericks,Dallas,MAY 
-168,Malik Fitts,10.7,Malik Fitts,77.0,230.0,24.0,St. Mary's College,Boston Celtics,Boston,JUL 
-169,Malachi Flynn,11.7,Malachi Flynn,73.0,175.0,24.0,San Diego State,Toronto Raptors,Toronto,MAY 
-170,Bryn Forbes,11.5,Bryn Forbes,74.0,205.0,28.0,Michigan State,Denver Nuggets,Denver,JUL 
-172,Trent Forrest,10.9,Trent Forrest,76.0,210.0,24.0,Florida State,Utah Jazz,Utah,JUN 
-173,Evan Fournier,12.3,Evan Fournier,78.0,205.0,29.0,Poitiers Basket 86,New York Knicks,New York,OCT 
-174,De'Aaron Fox,17.4,De'Aaron Fox,75.0,185.0,24.0,Kentucky,Sacramento Kings,Sacramento,DEC 
-178,Markelle Fultz,17.7,Markelle Fultz,76.0,209.0,24.0,Washington,Orlando Magic,Orlando,MAY 
-179,Wenyen Gabriel,12.5,Wenyen Gabriel,81.0,205.0,25.0,Kentucky,Los Angeles Lakers,Los Angeles,MAR 
-180,Daniel Gafford,21.8,Daniel Gafford,81.0,234.0,23.0,Arkansas,Washington Wizards,Washington,OCT 
-181,Danilo Gallinari,14.3,Danilo Gallinari,82.0,236.0,33.0,Olimpia Milano,Atlanta Hawks,Atlanta,AUG 
-183,Darius Garland,19.0,Darius Garland,73.0,192.0,22.0,Vanderbilt,Cleveland Cavaliers,Cleveland,JAN 
-185,Usman Garuba,12.9,Usman Garuba,80.0,229.0,20.0,Real Madrid,Houston Rockets,Houston,MAR 
-186,Luka Garza,15.6,Luka Garza,82.0,243.0,23.0,Iowa,Detroit Pistons,Detroit,DEC 
-187,Rudy Gay,13.0,Rudy Gay,80.0,250.0,35.0,Connecticut,Utah Jazz,Utah,AUG 
-188,Paul George,18.6,Paul George,80.0,220.0,32.0,Fresno State,Los Angeles Clippers,Los Angeles,MAY 
-189,Taj Gibson,12.0,Taj Gibson,81.0,232.0,37.0,Southern California,New York Knicks,New York,JUN 
-190,Josh Giddey,13.3,Josh Giddey,80.0,205.0,19.0,NBA Global Academy,Oklahoma City Thunder,Oklahoma City,OCT 
-191,Shai Gilgeous-Alexander,20.9,Shai Gilgeous-Alexander,78.0,180.0,23.0,Kentucky,Oklahoma City Thunder,Oklahoma City,JUL 
-192,Anthony Gill,14.7,Anthony Gill,79.0,230.0,29.0,Virginia,Washington Wizards,Washington,OCT 
-194,Rudy Gobert,24.7,Rudy Gobert,85.0,258.0,30.0,Cholet,Utah Jazz,Utah,JUN 
-195,Brandon Goodwin,11.8,Brandon Goodwin,72.0,180.0,26.0,Florida Gulf Coast,Cleveland Cavaliers,Cleveland,OCT 
-197,Aaron Gordon,15.3,Aaron Gordon,80.0,235.0,26.0,Arizona,Denver Nuggets,Denver,SEP 
-198,Eric Gordon,12.1,Eric Gordon,75.0,215.0,33.0,Indiana,Houston Rockets,Houston,DEC 
-199,Devonte' Graham,12.1,Devonte' Graham,73.0,195.0,27.0,Kansas,New Orleans Pelicans,New Orleans,FEB 
-200,Jerami Grant,16.1,Jerami Grant,80.0,210.0,28.0,Syracuse,Detroit Pistons,Detroit,MAR 
-202,Danny Green,9.5,Danny Green,78.0,215.0,35.0,North Carolina,Philadelphia 76ers,Philadelphia,JUN 
-203,Draymond Green,14.3,Draymond Green,78.0,230.0,32.0,Michigan State,Golden State Warriors,Golden State,MAR 
-204,Jalen Green,12.5,Jalen Green,76.0,186.0,20.0,NBA G League Ignite,Houston Rockets,Houston,FEB 
-205,JaMychal Green,14.1,JaMychal Green,80.0,227.0,32.0,Alabama,Denver Nuggets,Denver,JUN 
-206,Javonte Green,14.0,Javonte Green,77.0,205.0,28.0,Radford,Chicago Bulls,Chicago,JUL 
-207,Jeff Green,12.5,Jeff Green,80.0,235.0,35.0,Georgetown,Denver Nuggets,Denver,AUG 
-208,Josh Green,11.9,Josh Green,77.0,200.0,21.0,Arizona,Dallas Mavericks,Dallas,NOV 
-209,Blake Griffin,13.7,Blake Griffin,81.0,250.0,33.0,Oklahoma,Brooklyn Nets,Brooklyn,MAR 
-210,Quentin Grimes,10.7,Quentin Grimes,76.0,210.0,22.0,Houston,New York Knicks,New York,MAY 
-212,Rui Hachimura,14.9,Rui Hachimura,80.0,230.0,24.0,Gonzaga,Washington Wizards,Washington,FEB 
-213,Tyrese Haliburton,18.2,Tyrese Haliburton,77.0,185.0,22.0,Iowa State,Indiana Pacers,Indiana,FEB 
-215,R.J. Hampton,8.5,R.J. Hampton,76.0,175.0,21.0,New Zealand Breakers,Orlando Magic,Orlando,FEB 
-216,Tim Hardaway Jr.,12.7,Tim Hardaway Jr.,77.0,205.0,30.0,Michigan,Dallas Mavericks,Dallas,MAR 
-217,James Harden,20.9,James Harden,77.0,220.0,32.0,Arizona State,Philadelphia 76ers,Philadelphia,AUG 
-218,Maurice Harkless,7.7,Maurice Harkless,79.0,220.0,29.0,"St. John's, N.Y.",Sacramento Kings,Sacramento,MAY 
-219,Jared Harper,36.9,Jared Harper,70.0,175.0,24.0,Auburn,New Orleans Pelicans,New Orleans,SEP 
-220,Montrezl Harrell,23.2,Montrezl Harrell,79.0,240.0,28.0,Louisville,Charlotte Hornets,Charlotte,JAN 
-221,Gary Harris,10.9,Gary Harris,76.0,210.0,27.0,Michigan State,Orlando Magic,Orlando,SEP 
-222,Joe Harris,9.6,Joe Harris,78.0,220.0,30.0,Virginia,Brooklyn Nets,Brooklyn,SEP 
-223,Tobias Harris,15.9,Tobias Harris,79.0,226.0,29.0,Tennessee,Philadelphia 76ers,Philadelphia,JUL 
-225,Josh Hart,16.1,Josh Hart,77.0,215.0,27.0,Villanova,Portland Trail Blazers,Portland,MAR 
-226,Isaiah Hartenstein,22.0,Isaiah Hartenstein,84.0,250.0,24.0,Zalgiris,Los Angeles Clippers,Los Angeles,MAY 
-227,Udonis Haslem,8.6,Udonis Haslem,80.0,235.0,42.0,Florida,Miami Heat,Miami,JUN 
-228,Sam Hauser,14.8,Sam Hauser,79.0,217.0,24.0,Virginia,Boston Celtics,Boston,DEC 
-229,Jaxson Hayes,18.5,Jaxson Hayes,83.0,220.0,22.0,Texas,New Orleans Pelicans,New Orleans,MAY 
-230,Killian Hayes,9.3,Killian Hayes,77.0,195.0,20.0,Ratiopharm Ulm,Detroit Pistons,Detroit,JUL 
-231,Gordon Hayward,15.1,Gordon Hayward,79.0,225.0,32.0,Butler,Charlotte Hornets,Charlotte,MAR 
-235,Tyler Herro,16.2,Tyler Herro,77.0,195.0,22.0,Kentucky,Miami Heat,Miami,JAN 
-236,Buddy Hield,12.9,Buddy Hield,76.0,220.0,29.0,Oklahoma,Indiana Pacers,Indiana,DEC 
-237,Haywood Highsmith,7.0,Haywood Highsmith,76.0,220.0,25.0,Wheeling Jesuit,Miami Heat,Miami,DEC 
-238,George Hill,10.2,George Hill,76.0,188.0,36.0,Indiana-Purdue Indianapolis,Milwaukee Bucks,Milwaukee,MAY 
-239,Malcolm Hill,12.7,Malcolm Hill,78.0,220.0,26.0,Illinois,Chicago Bulls,Chicago,OCT 
-241,Nate Hinton,-45.2,Nate Hinton,77.0,210.0,23.0,Houston,Indiana Pacers,Indiana,JUN 
-243,Aaron Holiday,12.6,Aaron Holiday,72.0,185.0,25.0,UCLA,Phoenix Suns,Phoenix,SEP 
-244,Jrue Holiday,19.8,Jrue Holiday,75.0,205.0,32.0,UCLA,Milwaukee Bucks,Milwaukee,JUN 
-245,Justin Holiday,9.5,Justin Holiday,78.0,180.0,33.0,Washington,Sacramento Kings,Sacramento,APR 
-246,Richaun Holmes,17.8,Richaun Holmes,82.0,235.0,28.0,Bowling Green,Sacramento Kings,Sacramento,OCT 
-247,Rodney Hood,7.2,Rodney Hood,80.0,208.0,29.0,Duke,Los Angeles Clippers,Los Angeles,OCT 
-249,Al Horford,16.7,Al Horford,81.0,240.0,36.0,Florida,Boston Celtics,Boston,JUN 
-250,Talen Horton-Tucker,11.0,Talen Horton-Tucker,76.0,234.0,21.0,Iowa State,Los Angeles Lakers,Los Angeles,NOV 
-251,Danuel House Jr.,10.6,Danuel House Jr.,78.0,220.0,29.0,Texas A&M,Utah Jazz,Utah,JUN 
-252,Dwight Howard,18.2,Dwight Howard,82.0,265.0,36.0,SW Atlanta Christian Academy (GA),Los Angeles Lakers,Los Angeles,DEC 
-253,Markus Howard,16.1,Markus Howard,70.0,175.0,23.0,Marquette,Denver Nuggets,Denver,MAR 
-254,Kevin Huerter,11.9,Kevin Huerter,79.0,198.0,23.0,Maryland,Atlanta Hawks,Atlanta,AUG 
-256,Elijah Hughes,5.4,Elijah Hughes,77.0,215.0,24.0,Syracuse,Portland Trail Blazers,Portland,MAR 
-257,Feron Hunt,-3.0,Feron Hunt,80.0,195.0,22.0,Southern Methodist,New York Knicks,New York,JUL 
-258,De'Andre Hunter,10.6,De'Andre Hunter,80.0,221.0,24.0,Virginia,Atlanta Hawks,Atlanta,DEC 
-260,Bones Hyland,14.4,Bones Hyland,74.0,169.0,21.0,Virginia Commonwealth,Denver Nuggets,Denver,SEP 
-261,Serge Ibaka,14.4,Serge Ibaka,82.0,235.0,32.0,Ricoh Manresa,Milwaukee Bucks,Milwaukee,SEP 
-262,Andre Iguodala,12.3,Andre Iguodala,78.0,215.0,38.0,Arizona,Golden State Warriors,Golden State,JAN 
-263,Joe Ingles,10.0,Joe Ingles,80.0,220.0,34.0,Maccabi Tel Aviv,Portland Trail Blazers,Portland,OCT 
-264,Brandon Ingram,18.7,Brandon Ingram,80.0,190.0,24.0,Duke,New Orleans Pelicans,New Orleans,SEP 
-265,Kyrie Irving,21.4,Kyrie Irving,74.0,195.0,30.0,Duke,Brooklyn Nets,Brooklyn,MAR 
-267,Frank Jackson,10.6,Frank Jackson,75.0,205.0,24.0,Duke,Detroit Pistons,Detroit,MAY 
-268,Isaiah Jackson,20.5,Isaiah Jackson,82.0,205.0,20.0,Kentucky,Indiana Pacers,Indiana,JAN 
-269,Jaren Jackson Jr.,17.0,Jaren Jackson Jr.,83.0,242.0,22.0,Michigan State,Memphis Grizzlies,Memphis,SEP 
-270,Josh Jackson,9.5,Josh Jackson,80.0,207.0,25.0,Kansas,Sacramento Kings,Sacramento,FEB 
-272,Reggie Jackson,12.1,Reggie Jackson,74.0,208.0,32.0,Boston College,Los Angeles Clippers,Los Angeles,APR 
-273,LeBron James,26.2,LeBron James,81.0,250.0,37.0,St. Vincent-St. Mary HS (OH),Los Angeles Lakers,Los Angeles,DEC 
-276,Ty Jerome,11.3,Ty Jerome,77.0,195.0,24.0,Virginia,Oklahoma City Thunder,Oklahoma City,JUL 
-277,Isaiah Joe,7.7,Isaiah Joe,76.0,165.0,22.0,Arkansas,Philadelphia 76ers,Philadelphia,JUL 
-280,Cameron Johnson,15.2,Cameron Johnson,80.0,210.0,26.0,North Carolina,Phoenix Suns,Phoenix,MAR 
-281,David Johnson,-20.0,David Johnson,76.0,203.0,21.0,Louisville,Toronto Raptors,Toronto,FEB 
-282,Jalen Johnson,11.3,Jalen Johnson,80.0,219.0,20.0,Duke,Atlanta Hawks,Atlanta,DEC 
-285,Keldon Johnson,15.2,Keldon Johnson,78.0,220.0,22.0,Kentucky,San Antonio Spurs,San Antonio,OCT 
-286,Keon Johnson,8.7,Keon Johnson,76.0,185.0,20.0,Tennessee,Portland Trail Blazers,Portland,MAR 
-287,Stanley Johnson,10.5,Stanley Johnson,78.0,242.0,26.0,Arizona,Los Angeles Lakers,Los Angeles,MAY 
-291,Damian Jones,18.3,Damian Jones,83.0,245.0,27.0,Vanderbilt,Sacramento Kings,Sacramento,JUN 
-292,Derrick Jones Jr.,13.0,Derrick Jones Jr.,78.0,210.0,25.0,UNLV,Chicago Bulls,Chicago,FEB 
-293,Herbert Jones,12.3,Herbert Jones,79.0,206.0,23.0,Alabama,New Orleans Pelicans,New Orleans,OCT 
-295,Kai Jones,9.2,Kai Jones,82.0,221.0,21.0,Texas,Charlotte Hornets,Charlotte,JAN 
-296,Mason Jones,17.8,Mason Jones,76.0,200.0,23.0,Arkansas,Los Angeles Lakers,Los Angeles,JUL 
-297,Tre Jones,15.0,Tre Jones,73.0,185.0,22.0,Duke,San Antonio Spurs,San Antonio,JAN 
-298,Tyus Jones,16.5,Tyus Jones,72.0,196.0,26.0,Duke,Memphis Grizzlies,Memphis,MAY 
-299,DeAndre Jordan,17.2,DeAndre Jordan,83.0,265.0,33.0,Texas A&M,Philadelphia 76ers,Philadelphia,JUL 
-300,Cory Joseph,11.4,Cory Joseph,75.0,200.0,30.0,Texas,Detroit Pistons,Detroit,AUG 
-303,Luke Kennard,13.3,Luke Kennard,77.0,206.0,26.0,Duke,Los Angeles Clippers,Los Angeles,JUN 
-304,Braxton Key,13.7,Braxton Key,80.0,225.0,25.0,Virginia,Detroit Pistons,Detroit,FEB 
-307,Corey Kispert,10.9,Corey Kispert,78.0,224.0,23.0,Gonzaga,Washington Wizards,Washington,MAR 
-308,Maxi Kleber,11.0,Maxi Kleber,82.0,240.0,30.0,Bayern Munich,Dallas Mavericks,Dallas,JAN 
-310,Nathan Knight,18.7,Nathan Knight,82.0,253.0,24.0,William & Mary,Minnesota Timberwolves,Minnesota,SEP 
-312,John Konchar,14.0,John Konchar,77.0,210.0,26.0,Indiana-Purdue Fort Wayne,Memphis Grizzlies,Memphis,MAR 
-313,Furkan Korkmaz,10.2,Furkan Korkmaz,79.0,202.0,24.0,Anadolu Efes,Philadelphia 76ers,Philadelphia,JUL 
-314,Luke Kornet,16.6,Luke Kornet,86.0,250.0,26.0,Vanderbilt,Boston Celtics,Boston,JUL 
-315,Vit Krejci,8.5,Vit Krejci,80.0,195.0,22.0,Zaragoza,Oklahoma City Thunder,Oklahoma City,JUN 
-316,Arnoldas Kulboka,-10.7,Arnoldas Kulboka,82.0,209.0,24.0,Bilbao,Charlotte Hornets,Charlotte,JAN 
-317,Jonathan Kuminga,15.2,Jonathan Kuminga,79.0,225.0,19.0,NBA G League Ignite,Golden State Warriors,Golden State,OCT 
-318,Kyle Kuzma,15.2,Kyle Kuzma,81.0,221.0,26.0,Utah,Washington Wizards,Washington,JUL 
-319,Anthony Lamb,-0.5,Anthony Lamb,78.0,227.0,24.0,Vermont,Houston Rockets,Houston,JAN 
-320,Jeremy Lamb,13.3,Jeremy Lamb,77.0,180.0,30.0,Connecticut,Sacramento Kings,Sacramento,MAY 
-321,Jock Landale,16.0,Jock Landale,83.0,255.0,26.0,St. Mary's,San Antonio Spurs,San Antonio,OCT 
-322,Romeo Langford,9.2,Romeo Langford,77.0,216.0,22.0,Indiana,San Antonio Spurs,San Antonio,OCT 
-323,Zach LaVine,20.0,Zach LaVine,77.0,200.0,27.0,UCLA,Chicago Bulls,Chicago,MAR 
-324,Jake Layman,9.0,Jake Layman,80.0,209.0,28.0,Maryland,Minnesota Timberwolves,Minnesota,MAR 
-325,Damion Lee,10.9,Damion Lee,77.0,210.0,29.0,Drexel,Golden State Warriors,Golden State,OCT 
-326,Saben Lee,13.8,Saben Lee,74.0,183.0,23.0,Vanderbilt,Detroit Pistons,Detroit,JUN 
-327,Alex Len,13.1,Alex Len,84.0,250.0,29.0,Maryland,Sacramento Kings,Sacramento,JUN 
-328,Caris LeVert,15.1,Caris LeVert,78.0,205.0,27.0,Michigan,Cleveland Cavaliers,Cleveland,AUG 
-329,Kira Lewis Jr.,9.8,Kira Lewis Jr.,73.0,170.0,21.0,Alabama,New Orleans Pelicans,New Orleans,APR 
-330,Scottie Lewis,14.6,Scottie Lewis,77.0,185.0,22.0,Florida,Charlotte Hornets,Charlotte,MAR 
-331,Damian Lillard,18.5,Damian Lillard,74.0,195.0,31.0,Weber State,Portland Trail Blazers,Portland,JUL 
-332,Nassir Little,13.5,Nassir Little,77.0,220.0,22.0,North Carolina,Portland Trail Blazers,Portland,FEB 
-333,Isaiah Livers,11.1,Isaiah Livers,78.0,232.0,23.0,Michigan,Detroit Pistons,Detroit,JUL 
-334,Kevon Looney,15.7,Kevon Looney,81.0,222.0,26.0,UCLA,Golden State Warriors,Golden State,FEB 
-335,Brook Lopez,16.0,Brook Lopez,84.0,282.0,34.0,Stanford,Milwaukee Bucks,Milwaukee,APR 
-336,Robin Lopez,13.7,Robin Lopez,84.0,281.0,34.0,Stanford,Orlando Magic,Orlando,APR 
-337,Didi Louzada,6.4,Didi Louzada,77.0,188.0,22.0,Sydney Kings,Portland Trail Blazers,Portland,JUL 
-338,Kevin Love,19.6,Kevin Love,80.0,251.0,33.0,UCLA,Cleveland Cavaliers,Cleveland,SEP 
-339,Kyle Lowry,15.0,Kyle Lowry,72.0,196.0,36.0,Villanova,Miami Heat,Miami,MAR 
-340,Gabriel Lundberg,7.7,Gabriel Lundberg,76.0,203.0,27.0,CSKA Moscow,Phoenix Suns,Phoenix,DEC 
-342,Trey Lyles,16.4,Trey Lyles,81.0,234.0,26.0,Kentucky,Sacramento Kings,Sacramento,NOV 
-344,Sandro Mamukelashvili,14.7,Sandro Mamukelashvili,81.0,240.0,23.0,Seton Hall,Milwaukee Bucks,Milwaukee,MAY 
-345,Terance Mann,13.4,Terance Mann,77.0,215.0,25.0,Florida State,Los Angeles Clippers,Los Angeles,OCT 
-346,Tre Mann,10.2,Tre Mann,75.0,178.0,21.0,Florida,Oklahoma City Thunder,Oklahoma City,FEB 
-348,Lauri Markkanen,14.7,Lauri Markkanen,83.0,240.0,25.0,Arizona,Cleveland Cavaliers,Cleveland,MAY 
-349,Naji Marshall,12.3,Naji Marshall,79.0,220.0,24.0,Xavier,New Orleans Pelicans,New Orleans,JAN 
-350,Caleb Martin,14.8,Caleb Martin,77.0,205.0,26.0,Nevada,Miami Heat,Miami,SEP 
-351,Cody Martin,12.7,Cody Martin,78.0,205.0,26.0,Nevada,Charlotte Hornets,Charlotte,SEP 
-353,Kenyon Martin Jr.,14.3,Kenyon Martin Jr.,77.0,215.0,21.0,IMG Academy (FL),Houston Rockets,Houston,JAN 
-354,Garrison Mathews,11.0,Garrison Mathews,77.0,215.0,25.0,Lipscomb,Houston Rockets,Houston,OCT 
-356,Wesley Matthews,6.9,Wesley Matthews,76.0,220.0,35.0,Marquette,Milwaukee Bucks,Milwaukee,OCT 
-357,Tyrese Maxey,16.2,Tyrese Maxey,74.0,200.0,21.0,Kentucky,Philadelphia 76ers,Philadelphia,NOV 
-358,Skylar Mays,11.7,Skylar Mays,76.0,205.0,24.0,Louisiana State,Atlanta Hawks,Atlanta,SEP 
-359,Miles McBride,6.1,Miles McBride,73.0,195.0,21.0,West Virginia,New York Knicks,New York,SEP 
-360,Mac McClung,5.2,Mac McClung,74.0,185.0,23.0,Texas Tech,Los Angeles Lakers,Los Angeles,JAN 
-361,CJ McCollum,18.3,CJ McCollum,75.0,190.0,30.0,Lehigh,New Orleans Pelicans,New Orleans,SEP 
-362,T.J. McConnell,15.1,T.J. McConnell,73.0,190.0,30.0,Arizona,Indiana Pacers,Indiana,MAR 
-363,Jaden McDaniels,10.3,Jaden McDaniels,81.0,185.0,21.0,Washington,Minnesota Timberwolves,Minnesota,SEP 
-364,Jalen McDaniels,12.7,Jalen McDaniels,81.0,205.0,24.0,San Diego State,Charlotte Hornets,Charlotte,JAN 
-365,Doug McDermott,11.4,Doug McDermott,79.0,225.0,30.0,Creighton,San Antonio Spurs,San Antonio,JAN 
-366,JaVale McGee,22.6,JaVale McGee,84.0,270.0,34.0,Nevada,Phoenix Suns,Phoenix,JAN 
-368,Rodney McGruder,11.6,Rodney McGruder,76.0,205.0,30.0,Kansas State,Detroit Pistons,Detroit,JUL 
-371,Jordan McLaughlin,13.4,Jordan McLaughlin,71.0,185.0,26.0,Southern California,Minnesota Timberwolves,Minnesota,APR 
-372,Ben McLemore,11.7,Ben McLemore,75.0,195.0,29.0,Kansas,Portland Trail Blazers,Portland,FEB 
-373,De'Anthony Melton,15.2,De'Anthony Melton,74.0,200.0,24.0,Southern California,Memphis Grizzlies,Memphis,MAY 
-375,Chimezie Metu,13.4,Chimezie Metu,81.0,225.0,25.0,Southern California,Sacramento Kings,Sacramento,MAR 
-376,Khris Middleton,18.1,Khris Middleton,79.0,222.0,30.0,Texas A&M,Milwaukee Bucks,Milwaukee,AUG 
-378,Patty Mills,10.4,Patty Mills,72.0,180.0,33.0,St. Mary's,Brooklyn Nets,Brooklyn,AUG 
-379,Paul Millsap,10.8,Paul Millsap,79.0,257.0,37.0,Louisiana Tech,Philadelphia 76ers,Philadelphia,FEB 
-380,Shake Milton,11.9,Shake Milton,77.0,205.0,25.0,Southern Methodist,Philadelphia 76ers,Philadelphia,SEP 
-381,Davion Mitchell,10.8,Davion Mitchell,72.0,202.0,23.0,Baylor,Sacramento Kings,Sacramento,SEP 
-382,Donovan Mitchell,21.6,Donovan Mitchell,73.0,215.0,25.0,Louisville,Utah Jazz,Utah,SEP 
-383,Evan Mobley,16.1,Evan Mobley,83.0,215.0,21.0,Southern California,Cleveland Cavaliers,Cleveland,JUN 
-384,Malik Monk,14.4,Malik Monk,75.0,200.0,24.0,Kentucky,Los Angeles Lakers,Los Angeles,FEB 
-385,Greg Monroe,19.5,Greg Monroe,82.0,250.0,32.0,Georgetown,Minnesota Timberwolves,Minnesota,JUN 
-386,Moses Moody,10.5,Moses Moody,77.0,211.0,20.0,Arkansas,Golden State Warriors,Golden State,MAY 
-387,Xavier Moon,16.2,Xavier Moon,74.0,165.0,27.0,Morehead State,Los Angeles Clippers,Los Angeles,JAN 
-389,Ja Morant,24.4,Ja Morant,75.0,174.0,22.0,Murray State,Memphis Grizzlies,Memphis,AUG 
-390,Juwan Morgan,8.3,Juwan Morgan,79.0,232.0,25.0,Indiana,Boston Celtics,Boston,APR 
-393,Markieff Morris,10.9,Markieff Morris,81.0,245.0,32.0,Kansas,Miami Heat,Miami,SEP 
-394,Monte Morris,14.7,Monte Morris,74.0,183.0,27.0,Iowa State,Denver Nuggets,Denver,JUN 
-396,Mychal Mulder,3.7,Mychal Mulder,75.0,195.0,28.0,Kentucky,Miami Heat,Miami,JUN 
-398,Trey Murphy III,12.5,Trey Murphy III,80.0,206.0,22.0,Virginia,New Orleans Pelicans,New Orleans,JUN 
-399,Dejounte Murray,22.3,Dejounte Murray,76.0,180.0,25.0,Washington,San Antonio Spurs,San Antonio,SEP 
-400,Mike Muscala,19.7,Mike Muscala,82.0,240.0,30.0,Bucknell,Oklahoma City Thunder,Oklahoma City,JUL 
-401,Svi Mykhailiuk,9.6,Svi Mykhailiuk,79.0,205.0,25.0,Kansas,Toronto Raptors,Toronto,JUN 
-403,Larry Nance Jr.,14.4,Larry Nance Jr.,79.0,245.0,29.0,Wyoming,New Orleans Pelicans,New Orleans,JAN 
-404,RJ Nembhard Jr.,8.0,RJ Nembhard Jr.,76.0,200.0,23.0,Texas Christian,Cleveland Cavaliers,Cleveland,MAR 
-405,Aaron Nesmith,7.3,Aaron Nesmith,77.0,215.0,22.0,Vanderbilt,Boston Celtics,Boston,OCT 
-406,Raul Neto,12.4,Raul Neto,74.0,180.0,30.0,Murcia,Washington Wizards,Washington,MAY 
-408,Georges Niang,10.7,Georges Niang,79.0,230.0,29.0,Iowa State,Philadelphia 76ers,Philadelphia,JUN 
-409,Daishen Nix,8.1,Daishen Nix,76.0,226.0,20.0,NBA G League Ignite,Houston Rockets,Houston,FEB 
-410,Zeke Nnaji,13.5,Zeke Nnaji,81.0,240.0,21.0,Arizona,Denver Nuggets,Denver,JAN 
-411,Nerlens Noel,11.8,Nerlens Noel,83.0,220.0,28.0,Kentucky,New York Knicks,New York,APR 
-412,Jaylen Nowell,16.8,Jaylen Nowell,76.0,201.0,22.0,Washington,Minnesota Timberwolves,Minnesota,JUL 
-413,Frank Ntilikina,10.4,Frank Ntilikina,76.0,200.0,23.0,Strasbourg IG,Dallas Mavericks,Dallas,JUL 
-415,David Nwaba,15.3,David Nwaba,77.0,219.0,29.0,Cal Poly-Obispo,Houston Rockets,Houston,JAN 
-416,Jordan Nwora,9.9,Jordan Nwora,80.0,225.0,23.0,Louisville,Milwaukee Bucks,Milwaukee,SEP 
-417,Royce O'Neale,10.3,Royce O'Neale,77.0,226.0,29.0,Baylor,Utah Jazz,Utah,JUN 
-419,Chuma Okeke,12.0,Chuma Okeke,78.0,229.0,23.0,Auburn,Orlando Magic,Orlando,AUG 
-420,Josh Okogie,9.0,Josh Okogie,76.0,213.0,23.0,Georgia Tech,Minnesota Timberwolves,Minnesota,SEP 
-421,Onyeka Okongwu,19.8,Onyeka Okongwu,80.0,240.0,21.0,Southern California,Atlanta Hawks,Atlanta,DEC 
-422,Isaac Okoro,10.4,Isaac Okoro,77.0,225.0,21.0,Auburn,Cleveland Cavaliers,Cleveland,JAN 
-424,Victor Oladipo,16.8,Victor Oladipo,76.0,213.0,30.0,Indiana,Miami Heat,Miami,MAY 
-426,Kelly Olynyk,16.7,Kelly Olynyk,83.0,240.0,31.0,Gonzaga,Detroit Pistons,Detroit,APR 
-429,Cedi Osman,13.3,Cedi Osman,79.0,230.0,27.0,Anadolu Efes,Cleveland Cavaliers,Cleveland,APR 
-431,Kelly Oubre Jr.,14.9,Kelly Oubre Jr.,78.0,203.0,26.0,Kansas,Charlotte Hornets,Charlotte,DEC 
-436,Eric Paschall,13.9,Eric Paschall,78.0,255.0,25.0,Villanova,Utah Jazz,Utah,NOV 
-437,Chris Paul,20.8,Chris Paul,72.0,175.0,37.0,Wake Forest,Phoenix Suns,Phoenix,MAY 
-438,Cameron Payne,13.8,Cameron Payne,73.0,183.0,27.0,Murray State,Phoenix Suns,Phoenix,AUG 
-439,Elfrid Payton,7.9,Elfrid Payton,75.0,195.0,28.0,Louisana-Lafayette,Phoenix Suns,Phoenix,FEB 
-440,Gary Payton II,17.8,Gary Payton II,75.0,195.0,29.0,Oregon State,Golden State Warriors,Golden State,DEC 
-443,Jamorko Pickett,7.6,Jamorko Pickett,81.0,206.0,24.0,Georgetown,Detroit Pistons,Detroit,DEC 
-444,Theo Pinson,11.9,Theo Pinson,77.0,212.0,26.0,North Carolina,Dallas Mavericks,Dallas,NOV 
-445,Mason Plumlee,14.7,Mason Plumlee,83.0,254.0,32.0,Duke,Charlotte Hornets,Charlotte,MAR 
-446,Jakob Poeltl,20.8,Jakob Poeltl,85.0,245.0,26.0,Utah,San Antonio Spurs,San Antonio,OCT 
-447,Aleksej Pokusevski,12.0,Aleksej Pokusevski,84.0,190.0,20.0,Olympiacos,Oklahoma City Thunder,Oklahoma City,DEC 
-448,Yves Pons,5.9,Yves Pons,77.0,206.0,23.0,Tennessee,Memphis Grizzlies,Memphis,MAY 
-449,Jordan Poole,16.1,Jordan Poole,76.0,194.0,23.0,Michigan,Golden State Warriors,Golden State,JUN 
-450,Kevin Porter Jr.,13.5,Kevin Porter Jr.,76.0,203.0,22.0,Southern California,Houston Rockets,Houston,MAY 
-451,Michael Porter Jr.,7.5,Michael Porter Jr.,82.0,218.0,24.0,Missouri,Denver Nuggets,Denver,JUN 
-452,Otto Porter Jr.,15.9,Otto Porter Jr.,80.0,198.0,29.0,Georgetown,Golden State Warriors,Golden State,JUN 
-453,Bobby Portis,17.7,Bobby Portis,82.0,250.0,27.0,Arkansas,Milwaukee Bucks,Milwaukee,FEB 
-456,Dwight Powell,18.1,Dwight Powell,82.0,240.0,30.0,Stanford,Dallas Mavericks,Dallas,JUL 
-457,Myles Powell,0.2,Myles Powell,74.0,195.0,24.0,Seton Hall,Philadelphia 76ers,Philadelphia,JUL 
-458,Norman Powell,16.3,Norman Powell,75.0,215.0,29.0,UCLA,Los Angeles Clippers,Los Angeles,MAY 
-459,Joshua Primo,7.1,Joshua Primo,76.0,189.0,19.0,Alabama,San Antonio Spurs,San Antonio,DEC 
-460,Taurean Prince,12.4,Taurean Prince,78.0,218.0,28.0,Baylor,Minnesota Timberwolves,Minnesota,MAR 
-461,Payton Pritchard,15.0,Payton Pritchard,73.0,195.0,24.0,Oregon,Boston Celtics,Boston,JAN 
-462,Trevelin Queen,18.2,Trevelin Queen,78.0,190.0,25.0,New Mexico State,Houston Rockets,Houston,FEB 
-463,Neemias Queta,12.7,Neemias Queta,84.0,248.0,22.0,Utah State,Sacramento Kings,Sacramento,JUL 
-464,Immanuel Quickley,14.6,Immanuel Quickley,75.0,190.0,23.0,Kentucky,New York Knicks,New York,JUN 
-466,Julius Randle,15.7,Julius Randle,80.0,250.0,27.0,Kentucky,New York Knicks,New York,NOV 
-467,Austin Reaves,11.5,Austin Reaves,77.0,197.0,24.0,Oklahoma,Los Angeles Lakers,Los Angeles,MAY 
-468,Cam Reddish,12.8,Cam Reddish,80.0,217.0,22.0,Duke,New York Knicks,New York,SEP 
-469,Davon Reed,12.2,Davon Reed,77.0,206.0,27.0,Miami,Denver Nuggets,Denver,JUN 
-470,Paul Reed,21.4,Paul Reed,81.0,210.0,23.0,DePaul,Philadelphia 76ers,Philadelphia,JUN 
-471,Naz Reid,17.2,Naz Reid,81.0,264.0,22.0,Louisiana State,Minnesota Timberwolves,Minnesota,AUG 
-472,Nick Richards,15.9,Nick Richards,84.0,245.0,24.0,Kentucky,Charlotte Hornets,Charlotte,NOV 
-473,Josh Richardson,12.8,Josh Richardson,77.0,200.0,28.0,Tennessee,San Antonio Spurs,San Antonio,SEP 
-474,Austin Rivers,7.2,Austin Rivers,76.0,200.0,29.0,Duke,Denver Nuggets,Denver,AUG 
-475,Duncan Robinson,10.6,Duncan Robinson,79.0,215.0,28.0,Michigan,Miami Heat,Miami,APR 
-477,Mitchell Robinson,20.7,Mitchell Robinson,84.0,240.0,24.0,Western Kentucky,New York Knicks,New York,APR 
-478,Jeremiah Robinson-Earl,11.7,Jeremiah Robinson-Earl,80.0,242.0,21.0,Villanova,Oklahoma City Thunder,Oklahoma City,NOV 
-479,Isaiah Roby,18.3,Isaiah Roby,80.0,230.0,24.0,Nebraska,Oklahoma City Thunder,Oklahoma City,FEB 
-480,Rajon Rondo,10.9,Rajon Rondo,73.0,180.0,36.0,Kentucky,Cleveland Cavaliers,Cleveland,FEB 
-481,Derrick Rose,16.9,Derrick Rose,74.0,200.0,33.0,Memphis,New York Knicks,New York,OCT 
-482,Terrence Ross,10.0,Terrence Ross,78.0,206.0,31.0,Washington,Orlando Magic,Orlando,FEB 
-483,Terry Rozier,17.6,Terry Rozier,73.0,190.0,28.0,Louisville,Charlotte Hornets,Charlotte,MAR 
-484,Ricky Rubio,14.0,Ricky Rubio,74.0,190.0,31.0,FC Barcelona,Indiana Pacers,Indiana,OCT 
-485,D'Angelo Russell,16.3,D'Angelo Russell,76.0,193.0,26.0,Ohio State,Minnesota Timberwolves,Minnesota,FEB 
-486,Matt Ryan,3.5,Matt Ryan,79.0,215.0,25.0,Tennessee-Chattanooga,Boston Celtics,Boston,APR 
-487,Domantas Sabonis,21.9,Domantas Sabonis,83.0,240.0,26.0,Gonzaga,Sacramento Kings,Sacramento,MAY 
-490,Jordan Schakel,-1.2,Jordan Schakel,78.0,200.0,24.0,San Diego State,Washington Wizards,Washington,JUN 
-491,Admiral Schofield,7.5,Admiral Schofield,77.0,241.0,25.0,Tennessee,Orlando Magic,Orlando,MAR 
-494,Jay Scrubb,9.3,Jay Scrubb,77.0,220.0,21.0,John A. Logan,Los Angeles Clippers,Los Angeles,SEP 
-497,Collin Sexton,11.2,Collin Sexton,73.0,190.0,23.0,Alabama,Cleveland Cavaliers,Cleveland,JAN 
-498,Landry Shamet,10.2,Landry Shamet,76.0,190.0,25.0,Wichita State,Phoenix Suns,Phoenix,MAR 
-499,Day'Ron Sharpe,20.7,Day'Ron Sharpe,81.0,265.0,20.0,North Carolina,Brooklyn Nets,Brooklyn,NOV 
-500,Pascal Siakam,20.3,Pascal Siakam,80.0,230.0,28.0,New Mexico State,Toronto Raptors,Toronto,APR 
-502,Marko Simonovic,10.2,Marko Simonovic,83.0,220.0,22.0,Mega Basket,Chicago Bulls,Chicago,OCT 
-503,Anfernee Simons,15.3,Anfernee Simons,75.0,181.0,23.0,Edgewater HS (FL),Portland Trail Blazers,Portland,JUN 
-505,Jericho Sims,11.6,Jericho Sims,81.0,250.0,23.0,Texas,New York Knicks,New York,OCT 
-507,Javonte Smart,5.1,Javonte Smart,76.0,205.0,23.0,Louisiana State,Miami Heat,Miami,JUN 
-508,Marcus Smart,13.6,Marcus Smart,76.0,220.0,28.0,Oklahoma State,Boston Celtics,Boston,MAR 
-510,Ish Smith,12.5,Ish Smith,72.0,175.0,33.0,Wake Forest,Washington Wizards,Washington,JUL 
-511,Jalen Smith,18.4,Jalen Smith,82.0,215.0,22.0,Maryland,Indiana Pacers,Indiana,MAR 
-512,Xavier Sneed,0.4,Xavier Sneed,77.0,215.0,24.0,Kansas State,Utah Jazz,Utah,DEC 
-513,Tony Snell,6.3,Tony Snell,78.0,213.0,30.0,New Mexico,New Orleans Pelicans,New Orleans,NOV 
-514,Jaden Springer,26.4,Jaden Springer,76.0,202.0,19.0,Tennessee,Philadelphia 76ers,Philadelphia,SEP 
-516,Nik Stauskas,10.5,Nik Stauskas,78.0,207.0,28.0,Michigan,Boston Celtics,Boston,OCT 
-517,Lance Stephenson,13.6,Lance Stephenson,77.0,210.0,31.0,Cincinnati,Indiana Pacers,Indiana,SEP 
-518,Lamar Stevens,11.3,Lamar Stevens,78.0,230.0,24.0,Penn State,Cleveland Cavaliers,Cleveland,JUL 
-519,Isaiah Stewart,14.0,Isaiah Stewart,80.0,250.0,21.0,Washington,Detroit Pistons,Detroit,MAY 
-520,Max Strus,12.7,Max Strus,77.0,215.0,26.0,DePaul,Miami Heat,Miami,MAR 
-521,Jalen Suggs,8.6,Jalen Suggs,77.0,205.0,21.0,Gonzaga,Orlando Magic,Orlando,JUN 
-524,Jae'Sean Tate,14.3,Jae'Sean Tate,76.0,230.0,26.0,Ohio State,Houston Rockets,Houston,OCT 
-525,Jayson Tatum,21.8,Jayson Tatum,80.0,210.0,24.0,Duke,Boston Celtics,Boston,MAR 
-526,Terry Taylor,19.0,Terry Taylor,77.0,230.0,22.0,Austin Peay,Indiana Pacers,Indiana,SEP 
-527,Garrett Temple,8.6,Garrett Temple,77.0,195.0,36.0,Louisiana State,New Orleans Pelicans,New Orleans,MAY 
-529,Tyrell Terry,20.0,Tyrell Terry,74.0,160.0,21.0,Stanford,Memphis Grizzlies,Memphis,SEP 
-531,Daniel Theis,13.2,Daniel Theis,81.0,245.0,30.0,Brose Bamberg,Boston Celtics,Boston,APR 
-532,Brodric Thomas,10.0,Brodric Thomas,77.0,185.0,25.0,,Boston Celtics,Boston,JAN 
-533,Cam Thomas,11.7,Cam Thomas,75.0,210.0,20.0,Louisiana State,Brooklyn Nets,Brooklyn,OCT 
-534,Isaiah Thomas,12.0,Isaiah Thomas,69.0,185.0,33.0,Washington,Charlotte Hornets,Charlotte,FEB 
-535,Matt Thomas,9.9,Matt Thomas,75.0,190.0,27.0,Iowa State,Chicago Bulls,Chicago,AUG 
-536,Klay Thompson,16.7,Klay Thompson,78.0,220.0,32.0,Washington State,Golden State Warriors,Golden State,FEB 
-537,Tristan Thompson,14.9,Tristan Thompson,81.0,254.0,31.0,University of Texas at Austin,Chicago Bulls,Chicago,MAR 
-538,JT Thor,9.7,JT Thor,81.0,203.0,19.0,Auburn,Charlotte Hornets,Charlotte,AUG 
-539,Matisse Thybulle,11.2,Matisse Thybulle,77.0,201.0,25.0,Washington,Philadelphia 76ers,Philadelphia,MAR 
-540,Killian Tillie,7.6,Killian Tillie,81.0,220.0,24.0,Gonzaga,Memphis Grizzlies,Memphis,MAR 
-542,Isaiah Todd,4.7,Isaiah Todd,81.0,219.0,20.0,NBA G League Ignite,Washington Wizards,Washington,OCT 
-543,Obi Toppin,18.3,Obi Toppin,81.0,220.0,24.0,Dayton,New York Knicks,New York,MAR 
-544,Juan Toscano-Anderson,11.0,Juan Toscano-Anderson,78.0,209.0,29.0,Marquette,Golden State Warriors,Golden State,APR 
-545,Karl-Anthony Towns,24.1,Karl-Anthony Towns,83.0,248.0,26.0,Kentucky,Minnesota Timberwolves,Minnesota,NOV 
-546,Gary Trent Jr.,14.7,Gary Trent Jr.,77.0,209.0,23.0,Duke,Toronto Raptors,Toronto,JAN 
-547,P.J. Tucker,11.3,P.J. Tucker,77.0,245.0,37.0,Texas,Miami Heat,Miami,MAY 
-548,Rayjon Tucker,17.7,Rayjon Tucker,75.0,209.0,24.0,Arkansas-Little Rock,Milwaukee Bucks,Milwaukee,SEP 
-549,Myles Turner,17.4,Myles Turner,83.0,250.0,26.0,Texas,Indiana Pacers,Indiana,MAR 
-552,Jarred Vanderbilt,15.3,Jarred Vanderbilt,81.0,214.0,23.0,Kentucky,Minnesota Timberwolves,Minnesota,APR 
-553,Fred VanVleet,17.3,Fred VanVleet,73.0,197.0,28.0,Wichita State,Toronto Raptors,Toronto,FEB 
-554,Devin Vassell,13.3,Devin Vassell,77.0,200.0,21.0,Florida State,San Antonio Spurs,San Antonio,AUG 
-555,Gabe Vincent,10.6,Gabe Vincent,75.0,200.0,26.0,California-Santa Barbara,Miami Heat,Miami,JUN 
-557,Dean Wade,10.1,Dean Wade,81.0,228.0,25.0,Kansas State,Cleveland Cavaliers,Cleveland,NOV 
-558,Franz Wagner,14.7,Franz Wagner,82.0,220.0,20.0,Michigan,Orlando Magic,Orlando,AUG 
-559,Moritz Wagner,18.1,Moritz Wagner,83.0,245.0,25.0,Michigan,Orlando Magic,Orlando,APR 
-560,Ish Wainright,9.4,Ish Wainright,77.0,250.0,27.0,Baylor,Phoenix Suns,Phoenix,SEP 
-561,Kemba Walker,13.9,Kemba Walker,72.0,184.0,32.0,Connecticut,New York Knicks,New York,MAY 
-562,Lonnie Walker IV,12.3,Lonnie Walker IV,76.0,204.0,23.0,Miami,San Antonio Spurs,San Antonio,DEC 
-567,Duane Washington Jr.,10.2,Duane Washington Jr.,75.0,197.0,22.0,Ohio State,Indiana Pacers,Indiana,MAR 
-568,P.J. Washington,13.6,P.J. Washington,79.0,230.0,23.0,Kentucky,Charlotte Hornets,Charlotte,AUG 
-569,Yuta Watanabe,11.5,Yuta Watanabe,81.0,215.0,27.0,George Washington,Toronto Raptors,Toronto,OCT 
-570,Lindy Waters III,13.0,Lindy Waters III,78.0,215.0,24.0,Oklahoma State,Oklahoma City Thunder,Oklahoma City,JUL 
-572,Trendon Watford,15.8,Trendon Watford,80.0,237.0,21.0,Louisiana State,Portland Trail Blazers,Portland,NOV 
-574,Quinndary Weatherspoon,12.0,Quinndary Weatherspoon,75.0,205.0,25.0,Mississippi State,Golden State Warriors,Golden State,SEP 
-575,Russell Westbrook,15.0,Russell Westbrook,75.0,200.0,33.0,UCLA,Los Angeles Lakers,Los Angeles,NOV 
-576,Coby White,12.6,Coby White,76.0,195.0,22.0,North Carolina,Chicago Bulls,Chicago,FEB 
-577,Derrick White,14.8,Derrick White,76.0,190.0,27.0,Colorado,Boston Celtics,Boston,JUL 
-578,Hassan Whiteside,22.9,Hassan Whiteside,84.0,265.0,33.0,Marshall,Utah Jazz,Utah,JUN 
-579,Joe Wieskamp,7.1,Joe Wieskamp,78.0,205.0,22.0,Iowa,San Antonio Spurs,San Antonio,AUG 
-580,Aaron Wiggins,10.3,Aaron Wiggins,76.0,190.0,23.0,Maryland,Oklahoma City Thunder,Oklahoma City,JAN 
-581,Andrew Wiggins,15.0,Andrew Wiggins,79.0,197.0,27.0,Kansas,Golden State Warriors,Golden State,FEB 
-582,Lindell Wigginton,10.2,Lindell Wigginton,73.0,189.0,24.0,Iowa State,Milwaukee Bucks,Milwaukee,MAR 
-583,Brandon Williams,11.0,Brandon Williams,74.0,190.0,22.0,Arizona,Portland Trail Blazers,Portland,NOV 
-584,Grant Williams,11.2,Grant Williams,78.0,236.0,23.0,Tennessee,Boston Celtics,Boston,NOV 
-585,Kenrich Williams,13.3,Kenrich Williams,78.0,210.0,27.0,TCU,Oklahoma City Thunder,Oklahoma City,DEC 
-586,Lou Williams,12.1,Lou Williams,74.0,175.0,35.0,South Gwinnett HS (GA),Atlanta Hawks,Atlanta,OCT 
-587,Patrick Williams,12.7,Patrick Williams,79.0,215.0,20.0,Florida State,Chicago Bulls,Chicago,AUG 
-589,Ziaire Williams,9.7,Ziaire Williams,81.0,185.0,20.0,Stanford,Memphis Grizzlies,Memphis,SEP 
-591,Dylan Windler,8.8,Dylan Windler,78.0,196.0,25.0,Belmont,Cleveland Cavaliers,Cleveland,SEP 
-592,Justise Winslow,13.1,Justise Winslow,78.0,222.0,26.0,Duke,Portland Trail Blazers,Portland,MAR 
-593,Cassius Winston,6.0,Cassius Winston,73.0,185.0,24.0,Michigan State,Washington Wizards,Washington,FEB 
-594,Christian Wood,19.1,Christian Wood,81.0,214.0,26.0,UNLV,Houston Rockets,Houston,SEP 
-595,Robert Woodard II,2.1,Robert Woodard II,78.0,235.0,22.0,Mississippi State,San Antonio Spurs,San Antonio,SEP 
-596,Delon Wright,13.8,Delon Wright,77.0,185.0,30.0,Utah,Atlanta Hawks,Atlanta,APR 
-597,McKinley Wright IV,9.5,McKinley Wright IV,71.0,192.0,23.0,Colorado,Minnesota Timberwolves,Minnesota,OCT 
-598,Moses Wright,18.3,Moses Wright,80.0,226.0,23.0,Georgia Tech,Dallas Mavericks,Dallas,DEC 
-599,Gabe York,12.7,Gabe York,75.0,190.0,28.0,Arizona,Indiana Pacers,Indiana,AUG 
-600,Thaddeus Young,17.0,Thaddeus Young,80.0,235.0,34.0,Georgia Tech,Toronto Raptors,Toronto,JUN 
-601,Trae Young,25.4,Trae Young,73.0,164.0,23.0,Oklahoma,Atlanta Hawks,Atlanta,SEP 
-602,Omer Yurtseven,17.4,Omer Yurtseven,83.0,275.0,24.0,Georgetown,Miami Heat,Miami,JUN 
-604,Ivica Zubac,19.2,Ivica Zubac,84.0,240.0,25.0,Mega Basket,Los Angeles Clippers,Los Angeles,MAR 
+Player,PER,Player Name,Height,Weight,Age,School,Team Name,City,Birth Month
+Precious Achiuwa,12.7,Precious Achiuwa,80.0,225.0,22.0,Memphis,Toronto Raptors,Toronto,SEP
+Steven Adams,17.6,Steven Adams,83.0,265.0,28.0,Pittsburgh,Memphis Grizzlies,Memphis,JUL
+Bam Adebayo,21.8,Bam Adebayo,81.0,255.0,24.0,Kentucky,Miami Heat,Miami,JUL
+Santi Aldama,10.2,Santi Aldama,83.0,215.0,21.0,Loyola-Maryland,Memphis Grizzlies,Memphis,JAN
+LaMarcus Aldridge,19.6,LaMarcus Aldridge,83.0,250.0,36.0,Texas-Austin,Brooklyn Nets,Brooklyn,JUL
+Nickeil Alexander-Walker,10.5,Nickeil Alexander-Walker,77.0,205.0,23.0,Virginia Tech,Utah Jazz,Utah,SEP
+Grayson Allen,12.7,Grayson Allen,76.0,198.0,26.0,Duke,Milwaukee Bucks,Milwaukee,OCT
+Jarrett Allen,23.0,Jarrett Allen,82.0,243.0,24.0,Texas,Cleveland Cavaliers,Cleveland,APR
+Jose Alvarado,16.4,Jose Alvarado,72.0,179.0,24.0,Georgia Tech,New Orleans Pelicans,New Orleans,APR
+Kyle Anderson,14.4,Kyle Anderson,81.0,230.0,28.0,UCLA,Memphis Grizzlies,Memphis,SEP
+Giannis Antetokounmpo,32.1,Giannis Antetokounmpo,83.0,242.0,27.0,Filathlitikos,Milwaukee Bucks,Milwaukee,DEC
+Thanasis Antetokounmpo,12.5,Thanasis Antetokounmpo,78.0,219.0,29.0,Panathinaikos,Milwaukee Bucks,Milwaukee,JUL
+Carmelo Anthony,14.8,Carmelo Anthony,79.0,238.0,38.0,Syracuse,Los Angeles Lakers,Los Angeles,MAY
+Cole Anthony,13.5,Cole Anthony,75.0,185.0,22.0,North Carolina,Orlando Magic,Orlando,MAY
+Ryan Arcidiacono,6.1,Ryan Arcidiacono,75.0,195.0,28.0,Villanova,New York Knicks,New York,MAR
+D.J. Augustin,9.7,D.J. Augustin,71.0,183.0,34.0,Texas-Austin,Los Angeles Lakers,Los Angeles,NOV
+Deni Avdija,11.6,Deni Avdija,81.0,210.0,21.0,Maccabi Tel Aviv,Washington Wizards,Washington,JAN
+Deandre Ayton,21.9,Deandre Ayton,83.0,250.0,23.0,Arizona,Phoenix Suns,Phoenix,JUL
+Udoka Azubuike,17.6,Udoka Azubuike,84.0,270.0,22.0,Kansas,Utah Jazz,Utah,SEP
+Marvin Bagley III,15.7,Marvin Bagley III,83.0,235.0,23.0,Duke,Detroit Pistons,Detroit,MAR
+LaMelo Ball,19.7,LaMelo Ball,79.0,180.0,20.0,Illawarra,Charlotte Hornets,Charlotte,AUG
+Lonzo Ball,14.5,Lonzo Ball,78.0,190.0,24.0,UCLA,Chicago Bulls,Chicago,OCT
+Mo Bamba,16.5,Mo Bamba,84.0,231.0,24.0,Texas,Orlando Magic,Orlando,MAY
+Desmond Bane,17.6,Desmond Bane,77.0,215.0,24.0,TCU,Memphis Grizzlies,Memphis,JUN
+Dalano Banton,10.0,Dalano Banton,79.0,204.0,22.0,Nebraska,Toronto Raptors,Toronto,NOV
+Harrison Barnes,15.7,Harrison Barnes,80.0,225.0,30.0,North Carolina,Sacramento Kings,Sacramento,MAY
+Scottie Barnes,16.3,Scottie Barnes,79.0,225.0,20.0,Florida State,Toronto Raptors,Toronto,AUG
+RJ Barrett,13.7,RJ Barrett,78.0,214.0,22.0,Duke,New York Knicks,New York,JUN
+Will Barton,13.4,Will Barton,77.0,181.0,31.0,Memphis,Denver Nuggets,Denver,JAN
+Charles Bassey,21.5,Charles Bassey,81.0,230.0,21.0,Western Kentucky,Philadelphia 76ers,Philadelphia,OCT
+Keita Bates-Diop,12.4,Keita Bates-Diop,80.0,229.0,26.0,Ohio State,San Antonio Spurs,San Antonio,JAN
+Nicolas Batum,13.5,Nicolas Batum,80.0,230.0,33.0,Le Mans,Los Angeles Clippers,Los Angeles,DEC
+Kent Bazemore,6.0,Kent Bazemore,76.0,195.0,32.0,Old Dominion,Los Angeles Lakers,Los Angeles,JUL
+Darius Bazley,12.6,Darius Bazley,80.0,208.0,22.0,Princeton HS (OH),Oklahoma City Thunder,Oklahoma City,JUN
+Bradley Beal,17.5,Bradley Beal,76.0,207.0,29.0,Florida,Washington Wizards,Washington,JUN
+Malik Beasley,11.9,Malik Beasley,76.0,187.0,25.0,Florida State,Minnesota Timberwolves,Minnesota,NOV
+Patrick Beverley,14.8,Patrick Beverley,73.0,180.0,33.0,Arkansas,Minnesota Timberwolves,Minnesota,JUL
+Saddiq Bey,14.0,Saddiq Bey,79.0,215.0,23.0,Villanova,Detroit Pistons,Detroit,APR
+Khem Birch,13.2,Khem Birch,81.0,233.0,29.0,UNLV,Toronto Raptors,Toronto,SEP
+Goga Bitadze,18.0,Goga Bitadze,84.0,250.0,22.0,Mega Basket,Indiana Pacers,Indiana,JUL
+Bismack Biyombo,17.3,Bismack Biyombo,80.0,255.0,29.0,Baloncesto Fuenlabrada,Phoenix Suns,Phoenix,AUG
+Nemanja Bjelica,14.2,Nemanja Bjelica,81.0,234.0,34.0,Fenerbahce,Golden State Warriors,Golden State,MAY
+Eric Bledsoe,12.5,Eric Bledsoe,73.0,214.0,32.0,Kentucky,Portland Trail Blazers,Portland,DEC
+Keljin Blevins,4.8,Keljin Blevins,76.0,200.0,26.0,Montana State,Portland Trail Blazers,Portland,NOV
+Bol Bol,13.5,Bol Bol,86.0,220.0,22.0,Oregon,Orlando Magic,Orlando,NOV
+Leandro Bolmaro,5.4,Leandro Bolmaro,78.0,200.0,21.0,FC Barcelona,Minnesota Timberwolves,Minnesota,SEP
+Isaac Bonga,8.7,Isaac Bonga,80.0,180.0,22.0,Skyliners Frankfurt,Toronto Raptors,Toronto,NOV
+Devin Booker,21.3,Devin Booker,77.0,206.0,25.0,Kentucky,Phoenix Suns,Phoenix,OCT
+Brandon Boston Jr.,11.2,Brandon Boston Jr.,78.0,188.0,20.0,Kentucky,Los Angeles Clippers,Los Angeles,NOV
+Chris Boucher,17.9,Chris Boucher,81.0,200.0,29.0,Oregon,Toronto Raptors,Toronto,JAN
+James Bouknight,10.1,James Bouknight,76.0,190.0,21.0,Connecticut,Charlotte Hornets,Charlotte,SEP
+Avery Bradley,7.8,Avery Bradley,75.0,180.0,31.0,Texas-Austin,Los Angeles Lakers,Los Angeles,NOV
+Tony Bradley,14.9,Tony Bradley,82.0,248.0,24.0,North Carolina,Chicago Bulls,Chicago,JAN
+Ignas Brazdeikis,10.2,Ignas Brazdeikis,78.0,221.0,23.0,Michigan,Orlando Magic,Orlando,JAN
+Mikal Bridges,14.4,Mikal Bridges,78.0,209.0,25.0,Villanova,Phoenix Suns,Phoenix,AUG
+Miles Bridges,17.9,Miles Bridges,79.0,225.0,24.0,Michigan State,Charlotte Hornets,Charlotte,MAR
+Oshae Brissett,12.9,Oshae Brissett,79.0,210.0,24.0,Syracuse,Indiana Pacers,Indiana,JUN
+Malcolm Brogdon,18.0,Malcolm Brogdon,77.0,229.0,29.0,Virginia,Indiana Pacers,Indiana,DEC
+Armoni Brooks,8.4,Armoni Brooks,75.0,195.0,24.0,Houston,Toronto Raptors,Toronto,JUN
+Dillon Brooks,15.5,Dillon Brooks,79.0,225.0,26.0,Oregon,Memphis Grizzlies,Memphis,JAN
+Bruce Brown,15.0,Bruce Brown,76.0,202.0,25.0,Miami,Brooklyn Nets,Brooklyn,AUG
+Charlie Brown Jr.,6.5,Charlie Brown Jr.,78.0,199.0,25.0,St. Joseph's (PA),Philadelphia 76ers,Philadelphia,FEB
+Chaundee Brown Jr.,6.4,Chaundee Brown Jr.,77.0,215.0,23.0,Michigan,Atlanta Hawks,Atlanta,DEC
+Greg Brown III,11.0,Greg Brown III,79.0,206.0,20.0,Texas,Portland Trail Blazers,Portland,SEP
+Jaylen Brown,18.9,Jaylen Brown,78.0,223.0,25.0,California,Boston Celtics,Boston,OCT
+Moses Brown,18.5,Moses Brown,86.0,245.0,22.0,UCLA,Cleveland Cavaliers,Cleveland,OCT
+Sterling Brown,8.4,Sterling Brown,77.0,219.0,27.0,Southern Methodist,Dallas Mavericks,Dallas,FEB
+Troy Brown Jr.,10.1,Troy Brown Jr.,78.0,215.0,22.0,Oregon,Chicago Bulls,Chicago,JUL
+Jalen Brunson,17.1,Jalen Brunson,73.0,190.0,25.0,Villanova,Dallas Mavericks,Dallas,AUG
+Thomas Bryant,16.6,Thomas Bryant,82.0,248.0,24.0,Indiana,Washington Wizards,Washington,JUL
+Reggie Bullock,9.2,Reggie Bullock,78.0,205.0,31.0,North Carolina,Dallas Mavericks,Dallas,MAR
+Trey Burke,10.0,Trey Burke,72.0,185.0,29.0,Michigan,Dallas Mavericks,Dallas,NOV
+Alec Burks,13.7,Alec Burks,78.0,214.0,30.0,Colorado,New York Knicks,New York,JUL
+Jared Butler,12.1,Jared Butler,75.0,193.0,21.0,Baylor,Utah Jazz,Utah,AUG
+Jimmy Butler,23.6,Jimmy Butler,79.0,230.0,32.0,Marquette,Miami Heat,Miami,SEP
+Devontae Cacok,20.2,Devontae Cacok,79.0,240.0,25.0,North Carolina-Wilmington,San Antonio Spurs,San Antonio,OCT
+Kentavious Caldwell-Pope,12.6,Kentavious Caldwell-Pope,77.0,204.0,29.0,Georgia,Washington Wizards,Washington,FEB
+Facundo Campazzo,11.1,Facundo Campazzo,70.0,195.0,31.0,Murcia,Denver Nuggets,Denver,MAR
+Devin Cannady,8.6,Devin Cannady,74.0,183.0,26.0,Princeton,Orlando Magic,Orlando,MAY
+Clint Capela,21.4,Clint Capela,82.0,256.0,28.0,Elan Chalon,Atlanta Hawks,Atlanta,MAY
+Vernon Carey Jr.,15.8,Vernon Carey Jr.,81.0,270.0,21.0,Duke,Washington Wizards,Washington,FEB
+Jevon Carter,9.6,Jevon Carter,73.0,200.0,26.0,West Virginia,Milwaukee Bucks,Milwaukee,SEP
+Wendell Carter Jr.,18.4,Wendell Carter Jr.,82.0,270.0,23.0,Duke,Orlando Magic,Orlando,APR
+Alex Caruso,11.7,Alex Caruso,77.0,186.0,28.0,Texas A&M,Chicago Bulls,Chicago,FEB
+Justin Champagnie,13.6,Justin Champagnie,78.0,206.0,21.0,Pittsburgh,Toronto Raptors,Toronto,JUN
+Chris Chiozza,4.4,Chris Chiozza,71.0,175.0,26.0,Florida,Golden State Warriors,Golden State,NOV
+Marquese Chriss,14.8,Marquese Chriss,81.0,240.0,24.0,Washington,Dallas Mavericks,Dallas,JUL
+Josh Christopher,12.2,Josh Christopher,75.0,215.0,20.0,Arizona State,Houston Rockets,Houston,DEC
+Gary Clark,11.4,Gary Clark,78.0,225.0,27.0,Cincinnati,New Orleans Pelicans,New Orleans,NOV
+Brandon Clarke,23.7,Brandon Clarke,80.0,215.0,25.0,Gonzaga,Memphis Grizzlies,Memphis,SEP
+Jordan Clarkson,14.9,Jordan Clarkson,76.0,194.0,30.0,Missouri,Utah Jazz,Utah,JUN
+Nic Claxton,18.6,Nic Claxton,83.0,215.0,23.0,Georgia,Brooklyn Nets,Brooklyn,APR
+Amir Coffey,13.0,Amir Coffey,79.0,210.0,25.0,Minnesota,Los Angeles Clippers,Los Angeles,JUN
+John Collins,18.7,John Collins,81.0,226.0,24.0,Wake Forest,Atlanta Hawks,Atlanta,SEP
+Zach Collins,16.4,Zach Collins,83.0,250.0,24.0,Gonzaga,San Antonio Spurs,San Antonio,NOV
+Mike Conley,17.2,Mike Conley,73.0,175.0,34.0,Ohio State,Utah Jazz,Utah,OCT
+Pat Connaughton,13.4,Pat Connaughton,77.0,209.0,29.0,Notre Dame,Milwaukee Bucks,Milwaukee,JAN
+Tyler Cook,13.0,Tyler Cook,80.0,255.0,24.0,Iowa,Chicago Bulls,Chicago,SEP
+Sharife Cooper,-5.4,Sharife Cooper,73.0,176.0,21.0,Auburn,Atlanta Hawks,Atlanta,JUN
+DeMarcus Cousins,18.2,DeMarcus Cousins,82.0,270.0,31.0,Kentucky,Denver Nuggets,Denver,AUG
+Robert Covington,12.4,Robert Covington,79.0,209.0,31.0,Tennessee State,Los Angeles Clippers,Los Angeles,DEC
+Torrey Craig,11.0,Torrey Craig,79.0,221.0,31.0,South Carolina Upstate,Phoenix Suns,Phoenix,DEC
+Jae Crowder,11.3,Jae Crowder,78.0,235.0,31.0,Marquette,Phoenix Suns,Phoenix,JUL
+Jarrett Culver,8.7,Jarrett Culver,78.0,195.0,23.0,Texas Tech,Memphis Grizzlies,Memphis,FEB
+Cade Cunningham,13.1,Cade Cunningham,78.0,220.0,20.0,Oklahoma State,Detroit Pistons,Detroit,SEP
+Seth Curry,13.7,Seth Curry,74.0,185.0,31.0,Duke,Brooklyn Nets,Brooklyn,AUG
+Stephen Curry,21.4,Stephen Curry,74.0,185.0,34.0,Davidson,Golden State Warriors,Golden State,MAR
+Anthony Davis,23.9,Anthony Davis,82.0,253.0,29.0,Kentucky,Los Angeles Lakers,Los Angeles,MAR
+Ed Davis,9.3,Ed Davis,81.0,218.0,33.0,North Carolina,Cleveland Cavaliers,Cleveland,JUN
+Terence Davis,14.6,Terence Davis,76.0,201.0,25.0,Mississippi,Sacramento Kings,Sacramento,MAY
+Dewayne Dedmon,15.9,Dewayne Dedmon,84.0,245.0,32.0,Southern California,Miami Heat,Miami,AUG
+DeMar DeRozan,23.1,DeMar DeRozan,78.0,220.0,32.0,Southern California,Chicago Bulls,Chicago,AUG
+Hamidou Diallo,15.7,Hamidou Diallo,77.0,202.0,23.0,Kentucky,Detroit Pistons,Detroit,JUL
+Gorgui Dieng,17.3,Gorgui Dieng,82.0,248.0,32.0,Louisville,Atlanta Hawks,Atlanta,JAN
+Spencer Dinwiddie,15.1,Spencer Dinwiddie,78.0,215.0,29.0,Colorado,Dallas Mavericks,Dallas,APR
+Donte DiVincenzo,11.3,Donte DiVincenzo,76.0,203.0,25.0,Villanova,Sacramento Kings,Sacramento,JAN
+Luguentz Dort,12.3,Luguentz Dort,75.0,215.0,23.0,Arizona State,Oklahoma City Thunder,Oklahoma City,APR
+Ayo Dosunmu,11.2,Ayo Dosunmu,76.0,200.0,22.0,Illinois,Chicago Bulls,Chicago,JAN
+Andre Drummond,21.0,Andre Drummond,82.0,279.0,28.0,Connecticut,Brooklyn Nets,Brooklyn,AUG
+Chris Duarte,12.3,Chris Duarte,77.0,190.0,25.0,Oregon,Indiana Pacers,Indiana,JUN
+David Duke Jr.,10.0,David Duke Jr.,76.0,204.0,22.0,Providence,Brooklyn Nets,Brooklyn,OCT
+Kevin Durant,25.6,Kevin Durant,82.0,240.0,33.0,Texas,Brooklyn Nets,Brooklyn,SEP
+Anthony Edwards,16.5,Anthony Edwards,76.0,225.0,20.0,Georgia,Minnesota Timberwolves,Minnesota,AUG
+Carsen Edwards,5.5,Carsen Edwards,71.0,200.0,24.0,Purdue,Detroit Pistons,Detroit,MAR
+Kessler Edwards,8.3,Kessler Edwards,79.0,203.0,21.0,Pepperdine,Brooklyn Nets,Brooklyn,AUG
+CJ Elleby,9.2,CJ Elleby,78.0,200.0,22.0,Washington State,Portland Trail Blazers,Portland,JUN
+Wayne Ellington,9.9,Wayne Ellington,76.0,207.0,34.0,North Carolina,Los Angeles Lakers,Los Angeles,NOV
+Joel Embiid,31.2,Joel Embiid,84.0,280.0,28.0,Kansas,Philadelphia 76ers,Philadelphia,MAR
+Derrick Favors,13.6,Derrick Favors,81.0,265.0,30.0,Georgia Tech,Oklahoma City Thunder,Oklahoma City,JUL
+Bruno Fernando,21.2,Bruno Fernando,81.0,240.0,23.0,Maryland,Houston Rockets,Houston,AUG
+Dorian Finney-Smith,12.5,Dorian Finney-Smith,79.0,220.0,29.0,Florida,Dallas Mavericks,Dallas,MAY
+Malik Fitts,10.7,Malik Fitts,77.0,230.0,24.0,St. Mary's College,Boston Celtics,Boston,JUL
+Malachi Flynn,11.7,Malachi Flynn,73.0,175.0,24.0,San Diego State,Toronto Raptors,Toronto,MAY
+Bryn Forbes,11.5,Bryn Forbes,74.0,205.0,28.0,Michigan State,Denver Nuggets,Denver,JUL
+Trent Forrest,10.9,Trent Forrest,76.0,210.0,24.0,Florida State,Utah Jazz,Utah,JUN
+Evan Fournier,12.3,Evan Fournier,78.0,205.0,29.0,Poitiers Basket 86,New York Knicks,New York,OCT
+De'Aaron Fox,17.4,De'Aaron Fox,75.0,185.0,24.0,Kentucky,Sacramento Kings,Sacramento,DEC
+Markelle Fultz,17.7,Markelle Fultz,76.0,209.0,24.0,Washington,Orlando Magic,Orlando,MAY
+Wenyen Gabriel,12.5,Wenyen Gabriel,81.0,205.0,25.0,Kentucky,Los Angeles Lakers,Los Angeles,MAR
+Daniel Gafford,21.8,Daniel Gafford,81.0,234.0,23.0,Arkansas,Washington Wizards,Washington,OCT
+Danilo Gallinari,14.3,Danilo Gallinari,82.0,236.0,33.0,Olimpia Milano,Atlanta Hawks,Atlanta,AUG
+Darius Garland,19.0,Darius Garland,73.0,192.0,22.0,Vanderbilt,Cleveland Cavaliers,Cleveland,JAN
+Usman Garuba,12.9,Usman Garuba,80.0,229.0,20.0,Real Madrid,Houston Rockets,Houston,MAR
+Luka Garza,15.6,Luka Garza,82.0,243.0,23.0,Iowa,Detroit Pistons,Detroit,DEC
+Rudy Gay,13.0,Rudy Gay,80.0,250.0,35.0,Connecticut,Utah Jazz,Utah,AUG
+Paul George,18.6,Paul George,80.0,220.0,32.0,Fresno State,Los Angeles Clippers,Los Angeles,MAY
+Taj Gibson,12.0,Taj Gibson,81.0,232.0,37.0,Southern California,New York Knicks,New York,JUN
+Josh Giddey,13.3,Josh Giddey,80.0,205.0,19.0,NBA Global Academy,Oklahoma City Thunder,Oklahoma City,OCT
+Shai Gilgeous-Alexander,20.9,Shai Gilgeous-Alexander,78.0,180.0,23.0,Kentucky,Oklahoma City Thunder,Oklahoma City,JUL
+Anthony Gill,14.7,Anthony Gill,79.0,230.0,29.0,Virginia,Washington Wizards,Washington,OCT
+Rudy Gobert,24.7,Rudy Gobert,85.0,258.0,30.0,Cholet,Utah Jazz,Utah,JUN
+Brandon Goodwin,11.8,Brandon Goodwin,72.0,180.0,26.0,Florida Gulf Coast,Cleveland Cavaliers,Cleveland,OCT
+Aaron Gordon,15.3,Aaron Gordon,80.0,235.0,26.0,Arizona,Denver Nuggets,Denver,SEP
+Eric Gordon,12.1,Eric Gordon,75.0,215.0,33.0,Indiana,Houston Rockets,Houston,DEC
+Devonte' Graham,12.1,Devonte' Graham,73.0,195.0,27.0,Kansas,New Orleans Pelicans,New Orleans,FEB
+Jerami Grant,16.1,Jerami Grant,80.0,210.0,28.0,Syracuse,Detroit Pistons,Detroit,MAR
+Danny Green,9.5,Danny Green,78.0,215.0,35.0,North Carolina,Philadelphia 76ers,Philadelphia,JUN
+Draymond Green,14.3,Draymond Green,78.0,230.0,32.0,Michigan State,Golden State Warriors,Golden State,MAR
+Jalen Green,12.5,Jalen Green,76.0,186.0,20.0,NBA G League Ignite,Houston Rockets,Houston,FEB
+JaMychal Green,14.1,JaMychal Green,80.0,227.0,32.0,Alabama,Denver Nuggets,Denver,JUN
+Javonte Green,14.0,Javonte Green,77.0,205.0,28.0,Radford,Chicago Bulls,Chicago,JUL
+Jeff Green,12.5,Jeff Green,80.0,235.0,35.0,Georgetown,Denver Nuggets,Denver,AUG
+Josh Green,11.9,Josh Green,77.0,200.0,21.0,Arizona,Dallas Mavericks,Dallas,NOV
+Blake Griffin,13.7,Blake Griffin,81.0,250.0,33.0,Oklahoma,Brooklyn Nets,Brooklyn,MAR
+Quentin Grimes,10.7,Quentin Grimes,76.0,210.0,22.0,Houston,New York Knicks,New York,MAY
+Rui Hachimura,14.9,Rui Hachimura,80.0,230.0,24.0,Gonzaga,Washington Wizards,Washington,FEB
+Tyrese Haliburton,18.2,Tyrese Haliburton,77.0,185.0,22.0,Iowa State,Indiana Pacers,Indiana,FEB
+R.J. Hampton,8.5,R.J. Hampton,76.0,175.0,21.0,New Zealand Breakers,Orlando Magic,Orlando,FEB
+Tim Hardaway Jr.,12.7,Tim Hardaway Jr.,77.0,205.0,30.0,Michigan,Dallas Mavericks,Dallas,MAR
+James Harden,20.9,James Harden,77.0,220.0,32.0,Arizona State,Philadelphia 76ers,Philadelphia,AUG
+Maurice Harkless,7.7,Maurice Harkless,79.0,220.0,29.0,"St. John's, N.Y.",Sacramento Kings,Sacramento,MAY
+Jared Harper,36.9,Jared Harper,70.0,175.0,24.0,Auburn,New Orleans Pelicans,New Orleans,SEP
+Montrezl Harrell,23.2,Montrezl Harrell,79.0,240.0,28.0,Louisville,Charlotte Hornets,Charlotte,JAN
+Gary Harris,10.9,Gary Harris,76.0,210.0,27.0,Michigan State,Orlando Magic,Orlando,SEP
+Joe Harris,9.6,Joe Harris,78.0,220.0,30.0,Virginia,Brooklyn Nets,Brooklyn,SEP
+Tobias Harris,15.9,Tobias Harris,79.0,226.0,29.0,Tennessee,Philadelphia 76ers,Philadelphia,JUL
+Josh Hart,16.1,Josh Hart,77.0,215.0,27.0,Villanova,Portland Trail Blazers,Portland,MAR
+Isaiah Hartenstein,22.0,Isaiah Hartenstein,84.0,250.0,24.0,Zalgiris,Los Angeles Clippers,Los Angeles,MAY
+Udonis Haslem,8.6,Udonis Haslem,80.0,235.0,42.0,Florida,Miami Heat,Miami,JUN
+Sam Hauser,14.8,Sam Hauser,79.0,217.0,24.0,Virginia,Boston Celtics,Boston,DEC
+Jaxson Hayes,18.5,Jaxson Hayes,83.0,220.0,22.0,Texas,New Orleans Pelicans,New Orleans,MAY
+Killian Hayes,9.3,Killian Hayes,77.0,195.0,20.0,Ratiopharm Ulm,Detroit Pistons,Detroit,JUL
+Gordon Hayward,15.1,Gordon Hayward,79.0,225.0,32.0,Butler,Charlotte Hornets,Charlotte,MAR
+Tyler Herro,16.2,Tyler Herro,77.0,195.0,22.0,Kentucky,Miami Heat,Miami,JAN
+Buddy Hield,12.9,Buddy Hield,76.0,220.0,29.0,Oklahoma,Indiana Pacers,Indiana,DEC
+Haywood Highsmith,7.0,Haywood Highsmith,76.0,220.0,25.0,Wheeling Jesuit,Miami Heat,Miami,DEC
+George Hill,10.2,George Hill,76.0,188.0,36.0,Indiana-Purdue Indianapolis,Milwaukee Bucks,Milwaukee,MAY
+Malcolm Hill,12.7,Malcolm Hill,78.0,220.0,26.0,Illinois,Chicago Bulls,Chicago,OCT
+Nate Hinton,-45.2,Nate Hinton,77.0,210.0,23.0,Houston,Indiana Pacers,Indiana,JUN
+Aaron Holiday,12.6,Aaron Holiday,72.0,185.0,25.0,UCLA,Phoenix Suns,Phoenix,SEP
+Jrue Holiday,19.8,Jrue Holiday,75.0,205.0,32.0,UCLA,Milwaukee Bucks,Milwaukee,JUN
+Justin Holiday,9.5,Justin Holiday,78.0,180.0,33.0,Washington,Sacramento Kings,Sacramento,APR
+Richaun Holmes,17.8,Richaun Holmes,82.0,235.0,28.0,Bowling Green,Sacramento Kings,Sacramento,OCT
+Rodney Hood,7.2,Rodney Hood,80.0,208.0,29.0,Duke,Los Angeles Clippers,Los Angeles,OCT
+Al Horford,16.7,Al Horford,81.0,240.0,36.0,Florida,Boston Celtics,Boston,JUN
+Talen Horton-Tucker,11.0,Talen Horton-Tucker,76.0,234.0,21.0,Iowa State,Los Angeles Lakers,Los Angeles,NOV
+Danuel House Jr.,10.6,Danuel House Jr.,78.0,220.0,29.0,Texas A&M,Utah Jazz,Utah,JUN
+Dwight Howard,18.2,Dwight Howard,82.0,265.0,36.0,SW Atlanta Christian Academy (GA),Los Angeles Lakers,Los Angeles,DEC
+Markus Howard,16.1,Markus Howard,70.0,175.0,23.0,Marquette,Denver Nuggets,Denver,MAR
+Kevin Huerter,11.9,Kevin Huerter,79.0,198.0,23.0,Maryland,Atlanta Hawks,Atlanta,AUG
+Elijah Hughes,5.4,Elijah Hughes,77.0,215.0,24.0,Syracuse,Portland Trail Blazers,Portland,MAR
+Feron Hunt,-3.0,Feron Hunt,80.0,195.0,22.0,Southern Methodist,New York Knicks,New York,JUL
+De'Andre Hunter,10.6,De'Andre Hunter,80.0,221.0,24.0,Virginia,Atlanta Hawks,Atlanta,DEC
+Bones Hyland,14.4,Bones Hyland,74.0,169.0,21.0,Virginia Commonwealth,Denver Nuggets,Denver,SEP
+Serge Ibaka,14.4,Serge Ibaka,82.0,235.0,32.0,Ricoh Manresa,Milwaukee Bucks,Milwaukee,SEP
+Andre Iguodala,12.3,Andre Iguodala,78.0,215.0,38.0,Arizona,Golden State Warriors,Golden State,JAN
+Joe Ingles,10.0,Joe Ingles,80.0,220.0,34.0,Maccabi Tel Aviv,Portland Trail Blazers,Portland,OCT
+Brandon Ingram,18.7,Brandon Ingram,80.0,190.0,24.0,Duke,New Orleans Pelicans,New Orleans,SEP
+Kyrie Irving,21.4,Kyrie Irving,74.0,195.0,30.0,Duke,Brooklyn Nets,Brooklyn,MAR
+Frank Jackson,10.6,Frank Jackson,75.0,205.0,24.0,Duke,Detroit Pistons,Detroit,MAY
+Isaiah Jackson,20.5,Isaiah Jackson,82.0,205.0,20.0,Kentucky,Indiana Pacers,Indiana,JAN
+Jaren Jackson Jr.,17.0,Jaren Jackson Jr.,83.0,242.0,22.0,Michigan State,Memphis Grizzlies,Memphis,SEP
+Josh Jackson,9.5,Josh Jackson,80.0,207.0,25.0,Kansas,Sacramento Kings,Sacramento,FEB
+Reggie Jackson,12.1,Reggie Jackson,74.0,208.0,32.0,Boston College,Los Angeles Clippers,Los Angeles,APR
+LeBron James,26.2,LeBron James,81.0,250.0,37.0,St. Vincent-St. Mary HS (OH),Los Angeles Lakers,Los Angeles,DEC
+Ty Jerome,11.3,Ty Jerome,77.0,195.0,24.0,Virginia,Oklahoma City Thunder,Oklahoma City,JUL
+Isaiah Joe,7.7,Isaiah Joe,76.0,165.0,22.0,Arkansas,Philadelphia 76ers,Philadelphia,JUL
+Cameron Johnson,15.2,Cameron Johnson,80.0,210.0,26.0,North Carolina,Phoenix Suns,Phoenix,MAR
+David Johnson,-20.0,David Johnson,76.0,203.0,21.0,Louisville,Toronto Raptors,Toronto,FEB
+Jalen Johnson,11.3,Jalen Johnson,80.0,219.0,20.0,Duke,Atlanta Hawks,Atlanta,DEC
+Keldon Johnson,15.2,Keldon Johnson,78.0,220.0,22.0,Kentucky,San Antonio Spurs,San Antonio,OCT
+Keon Johnson,8.7,Keon Johnson,76.0,185.0,20.0,Tennessee,Portland Trail Blazers,Portland,MAR
+Stanley Johnson,10.5,Stanley Johnson,78.0,242.0,26.0,Arizona,Los Angeles Lakers,Los Angeles,MAY
+Damian Jones,18.3,Damian Jones,83.0,245.0,27.0,Vanderbilt,Sacramento Kings,Sacramento,JUN
+Derrick Jones Jr.,13.0,Derrick Jones Jr.,78.0,210.0,25.0,UNLV,Chicago Bulls,Chicago,FEB
+Herbert Jones,12.3,Herbert Jones,79.0,206.0,23.0,Alabama,New Orleans Pelicans,New Orleans,OCT
+Kai Jones,9.2,Kai Jones,82.0,221.0,21.0,Texas,Charlotte Hornets,Charlotte,JAN
+Mason Jones,17.8,Mason Jones,76.0,200.0,23.0,Arkansas,Los Angeles Lakers,Los Angeles,JUL
+Tre Jones,15.0,Tre Jones,73.0,185.0,22.0,Duke,San Antonio Spurs,San Antonio,JAN
+Tyus Jones,16.5,Tyus Jones,72.0,196.0,26.0,Duke,Memphis Grizzlies,Memphis,MAY
+DeAndre Jordan,17.2,DeAndre Jordan,83.0,265.0,33.0,Texas A&M,Philadelphia 76ers,Philadelphia,JUL
+Cory Joseph,11.4,Cory Joseph,75.0,200.0,30.0,Texas,Detroit Pistons,Detroit,AUG
+Luke Kennard,13.3,Luke Kennard,77.0,206.0,26.0,Duke,Los Angeles Clippers,Los Angeles,JUN
+Braxton Key,13.7,Braxton Key,80.0,225.0,25.0,Virginia,Detroit Pistons,Detroit,FEB
+Corey Kispert,10.9,Corey Kispert,78.0,224.0,23.0,Gonzaga,Washington Wizards,Washington,MAR
+Maxi Kleber,11.0,Maxi Kleber,82.0,240.0,30.0,Bayern Munich,Dallas Mavericks,Dallas,JAN
+Nathan Knight,18.7,Nathan Knight,82.0,253.0,24.0,William & Mary,Minnesota Timberwolves,Minnesota,SEP
+John Konchar,14.0,John Konchar,77.0,210.0,26.0,Indiana-Purdue Fort Wayne,Memphis Grizzlies,Memphis,MAR
+Furkan Korkmaz,10.2,Furkan Korkmaz,79.0,202.0,24.0,Anadolu Efes,Philadelphia 76ers,Philadelphia,JUL
+Luke Kornet,16.6,Luke Kornet,86.0,250.0,26.0,Vanderbilt,Boston Celtics,Boston,JUL
+Vit Krejci,8.5,Vit Krejci,80.0,195.0,22.0,Zaragoza,Oklahoma City Thunder,Oklahoma City,JUN
+Arnoldas Kulboka,-10.7,Arnoldas Kulboka,82.0,209.0,24.0,Bilbao,Charlotte Hornets,Charlotte,JAN
+Jonathan Kuminga,15.2,Jonathan Kuminga,79.0,225.0,19.0,NBA G League Ignite,Golden State Warriors,Golden State,OCT
+Kyle Kuzma,15.2,Kyle Kuzma,81.0,221.0,26.0,Utah,Washington Wizards,Washington,JUL
+Anthony Lamb,-0.5,Anthony Lamb,78.0,227.0,24.0,Vermont,Houston Rockets,Houston,JAN
+Jeremy Lamb,13.3,Jeremy Lamb,77.0,180.0,30.0,Connecticut,Sacramento Kings,Sacramento,MAY
+Jock Landale,16.0,Jock Landale,83.0,255.0,26.0,St. Mary's,San Antonio Spurs,San Antonio,OCT
+Romeo Langford,9.2,Romeo Langford,77.0,216.0,22.0,Indiana,San Antonio Spurs,San Antonio,OCT
+Zach LaVine,20.0,Zach LaVine,77.0,200.0,27.0,UCLA,Chicago Bulls,Chicago,MAR
+Jake Layman,9.0,Jake Layman,80.0,209.0,28.0,Maryland,Minnesota Timberwolves,Minnesota,MAR
+Damion Lee,10.9,Damion Lee,77.0,210.0,29.0,Drexel,Golden State Warriors,Golden State,OCT
+Saben Lee,13.8,Saben Lee,74.0,183.0,23.0,Vanderbilt,Detroit Pistons,Detroit,JUN
+Alex Len,13.1,Alex Len,84.0,250.0,29.0,Maryland,Sacramento Kings,Sacramento,JUN
+Caris LeVert,15.1,Caris LeVert,78.0,205.0,27.0,Michigan,Cleveland Cavaliers,Cleveland,AUG
+Kira Lewis Jr.,9.8,Kira Lewis Jr.,73.0,170.0,21.0,Alabama,New Orleans Pelicans,New Orleans,APR
+Scottie Lewis,14.6,Scottie Lewis,77.0,185.0,22.0,Florida,Charlotte Hornets,Charlotte,MAR
+Damian Lillard,18.5,Damian Lillard,74.0,195.0,31.0,Weber State,Portland Trail Blazers,Portland,JUL
+Nassir Little,13.5,Nassir Little,77.0,220.0,22.0,North Carolina,Portland Trail Blazers,Portland,FEB
+Isaiah Livers,11.1,Isaiah Livers,78.0,232.0,23.0,Michigan,Detroit Pistons,Detroit,JUL
+Kevon Looney,15.7,Kevon Looney,81.0,222.0,26.0,UCLA,Golden State Warriors,Golden State,FEB
+Brook Lopez,16.0,Brook Lopez,84.0,282.0,34.0,Stanford,Milwaukee Bucks,Milwaukee,APR
+Robin Lopez,13.7,Robin Lopez,84.0,281.0,34.0,Stanford,Orlando Magic,Orlando,APR
+Didi Louzada,6.4,Didi Louzada,77.0,188.0,22.0,Sydney Kings,Portland Trail Blazers,Portland,JUL
+Kevin Love,19.6,Kevin Love,80.0,251.0,33.0,UCLA,Cleveland Cavaliers,Cleveland,SEP
+Kyle Lowry,15.0,Kyle Lowry,72.0,196.0,36.0,Villanova,Miami Heat,Miami,MAR
+Gabriel Lundberg,7.7,Gabriel Lundberg,76.0,203.0,27.0,CSKA Moscow,Phoenix Suns,Phoenix,DEC
+Trey Lyles,16.4,Trey Lyles,81.0,234.0,26.0,Kentucky,Sacramento Kings,Sacramento,NOV
+Sandro Mamukelashvili,14.7,Sandro Mamukelashvili,81.0,240.0,23.0,Seton Hall,Milwaukee Bucks,Milwaukee,MAY
+Terance Mann,13.4,Terance Mann,77.0,215.0,25.0,Florida State,Los Angeles Clippers,Los Angeles,OCT
+Tre Mann,10.2,Tre Mann,75.0,178.0,21.0,Florida,Oklahoma City Thunder,Oklahoma City,FEB
+Lauri Markkanen,14.7,Lauri Markkanen,83.0,240.0,25.0,Arizona,Cleveland Cavaliers,Cleveland,MAY
+Naji Marshall,12.3,Naji Marshall,79.0,220.0,24.0,Xavier,New Orleans Pelicans,New Orleans,JAN
+Caleb Martin,14.8,Caleb Martin,77.0,205.0,26.0,Nevada,Miami Heat,Miami,SEP
+Cody Martin,12.7,Cody Martin,78.0,205.0,26.0,Nevada,Charlotte Hornets,Charlotte,SEP
+Kenyon Martin Jr.,14.3,Kenyon Martin Jr.,77.0,215.0,21.0,IMG Academy (FL),Houston Rockets,Houston,JAN
+Garrison Mathews,11.0,Garrison Mathews,77.0,215.0,25.0,Lipscomb,Houston Rockets,Houston,OCT
+Wesley Matthews,6.9,Wesley Matthews,76.0,220.0,35.0,Marquette,Milwaukee Bucks,Milwaukee,OCT
+Tyrese Maxey,16.2,Tyrese Maxey,74.0,200.0,21.0,Kentucky,Philadelphia 76ers,Philadelphia,NOV
+Skylar Mays,11.7,Skylar Mays,76.0,205.0,24.0,Louisiana State,Atlanta Hawks,Atlanta,SEP
+Miles McBride,6.1,Miles McBride,73.0,195.0,21.0,West Virginia,New York Knicks,New York,SEP
+Mac McClung,5.2,Mac McClung,74.0,185.0,23.0,Texas Tech,Los Angeles Lakers,Los Angeles,JAN
+CJ McCollum,18.3,CJ McCollum,75.0,190.0,30.0,Lehigh,New Orleans Pelicans,New Orleans,SEP
+T.J. McConnell,15.1,T.J. McConnell,73.0,190.0,30.0,Arizona,Indiana Pacers,Indiana,MAR
+Jaden McDaniels,10.3,Jaden McDaniels,81.0,185.0,21.0,Washington,Minnesota Timberwolves,Minnesota,SEP
+Jalen McDaniels,12.7,Jalen McDaniels,81.0,205.0,24.0,San Diego State,Charlotte Hornets,Charlotte,JAN
+Doug McDermott,11.4,Doug McDermott,79.0,225.0,30.0,Creighton,San Antonio Spurs,San Antonio,JAN
+JaVale McGee,22.6,JaVale McGee,84.0,270.0,34.0,Nevada,Phoenix Suns,Phoenix,JAN
+Rodney McGruder,11.6,Rodney McGruder,76.0,205.0,30.0,Kansas State,Detroit Pistons,Detroit,JUL
+Jordan McLaughlin,13.4,Jordan McLaughlin,71.0,185.0,26.0,Southern California,Minnesota Timberwolves,Minnesota,APR
+Ben McLemore,11.7,Ben McLemore,75.0,195.0,29.0,Kansas,Portland Trail Blazers,Portland,FEB
+De'Anthony Melton,15.2,De'Anthony Melton,74.0,200.0,24.0,Southern California,Memphis Grizzlies,Memphis,MAY
+Chimezie Metu,13.4,Chimezie Metu,81.0,225.0,25.0,Southern California,Sacramento Kings,Sacramento,MAR
+Khris Middleton,18.1,Khris Middleton,79.0,222.0,30.0,Texas A&M,Milwaukee Bucks,Milwaukee,AUG
+Patty Mills,10.4,Patty Mills,72.0,180.0,33.0,St. Mary's,Brooklyn Nets,Brooklyn,AUG
+Paul Millsap,10.8,Paul Millsap,79.0,257.0,37.0,Louisiana Tech,Philadelphia 76ers,Philadelphia,FEB
+Shake Milton,11.9,Shake Milton,77.0,205.0,25.0,Southern Methodist,Philadelphia 76ers,Philadelphia,SEP
+Davion Mitchell,10.8,Davion Mitchell,72.0,202.0,23.0,Baylor,Sacramento Kings,Sacramento,SEP
+Donovan Mitchell,21.6,Donovan Mitchell,73.0,215.0,25.0,Louisville,Utah Jazz,Utah,SEP
+Evan Mobley,16.1,Evan Mobley,83.0,215.0,21.0,Southern California,Cleveland Cavaliers,Cleveland,JUN
+Malik Monk,14.4,Malik Monk,75.0,200.0,24.0,Kentucky,Los Angeles Lakers,Los Angeles,FEB
+Greg Monroe,19.5,Greg Monroe,82.0,250.0,32.0,Georgetown,Minnesota Timberwolves,Minnesota,JUN
+Moses Moody,10.5,Moses Moody,77.0,211.0,20.0,Arkansas,Golden State Warriors,Golden State,MAY
+Xavier Moon,16.2,Xavier Moon,74.0,165.0,27.0,Morehead State,Los Angeles Clippers,Los Angeles,JAN
+Ja Morant,24.4,Ja Morant,75.0,174.0,22.0,Murray State,Memphis Grizzlies,Memphis,AUG
+Juwan Morgan,8.3,Juwan Morgan,79.0,232.0,25.0,Indiana,Boston Celtics,Boston,APR
+Markieff Morris,10.9,Markieff Morris,81.0,245.0,32.0,Kansas,Miami Heat,Miami,SEP
+Monte Morris,14.7,Monte Morris,74.0,183.0,27.0,Iowa State,Denver Nuggets,Denver,JUN
+Mychal Mulder,3.7,Mychal Mulder,75.0,195.0,28.0,Kentucky,Miami Heat,Miami,JUN
+Trey Murphy III,12.5,Trey Murphy III,80.0,206.0,22.0,Virginia,New Orleans Pelicans,New Orleans,JUN
+Dejounte Murray,22.3,Dejounte Murray,76.0,180.0,25.0,Washington,San Antonio Spurs,San Antonio,SEP
+Mike Muscala,19.7,Mike Muscala,82.0,240.0,30.0,Bucknell,Oklahoma City Thunder,Oklahoma City,JUL
+Svi Mykhailiuk,9.6,Svi Mykhailiuk,79.0,205.0,25.0,Kansas,Toronto Raptors,Toronto,JUN
+Larry Nance Jr.,14.4,Larry Nance Jr.,79.0,245.0,29.0,Wyoming,New Orleans Pelicans,New Orleans,JAN
+RJ Nembhard Jr.,8.0,RJ Nembhard Jr.,76.0,200.0,23.0,Texas Christian,Cleveland Cavaliers,Cleveland,MAR
+Aaron Nesmith,7.3,Aaron Nesmith,77.0,215.0,22.0,Vanderbilt,Boston Celtics,Boston,OCT
+Raul Neto,12.4,Raul Neto,74.0,180.0,30.0,Murcia,Washington Wizards,Washington,MAY
+Georges Niang,10.7,Georges Niang,79.0,230.0,29.0,Iowa State,Philadelphia 76ers,Philadelphia,JUN
+Daishen Nix,8.1,Daishen Nix,76.0,226.0,20.0,NBA G League Ignite,Houston Rockets,Houston,FEB
+Zeke Nnaji,13.5,Zeke Nnaji,81.0,240.0,21.0,Arizona,Denver Nuggets,Denver,JAN
+Nerlens Noel,11.8,Nerlens Noel,83.0,220.0,28.0,Kentucky,New York Knicks,New York,APR
+Jaylen Nowell,16.8,Jaylen Nowell,76.0,201.0,22.0,Washington,Minnesota Timberwolves,Minnesota,JUL
+Frank Ntilikina,10.4,Frank Ntilikina,76.0,200.0,23.0,Strasbourg IG,Dallas Mavericks,Dallas,JUL
+David Nwaba,15.3,David Nwaba,77.0,219.0,29.0,Cal Poly-Obispo,Houston Rockets,Houston,JAN
+Jordan Nwora,9.9,Jordan Nwora,80.0,225.0,23.0,Louisville,Milwaukee Bucks,Milwaukee,SEP
+Royce O'Neale,10.3,Royce O'Neale,77.0,226.0,29.0,Baylor,Utah Jazz,Utah,JUN
+Chuma Okeke,12.0,Chuma Okeke,78.0,229.0,23.0,Auburn,Orlando Magic,Orlando,AUG
+Josh Okogie,9.0,Josh Okogie,76.0,213.0,23.0,Georgia Tech,Minnesota Timberwolves,Minnesota,SEP
+Onyeka Okongwu,19.8,Onyeka Okongwu,80.0,240.0,21.0,Southern California,Atlanta Hawks,Atlanta,DEC
+Isaac Okoro,10.4,Isaac Okoro,77.0,225.0,21.0,Auburn,Cleveland Cavaliers,Cleveland,JAN
+Victor Oladipo,16.8,Victor Oladipo,76.0,213.0,30.0,Indiana,Miami Heat,Miami,MAY
+Kelly Olynyk,16.7,Kelly Olynyk,83.0,240.0,31.0,Gonzaga,Detroit Pistons,Detroit,APR
+Cedi Osman,13.3,Cedi Osman,79.0,230.0,27.0,Anadolu Efes,Cleveland Cavaliers,Cleveland,APR
+Kelly Oubre Jr.,14.9,Kelly Oubre Jr.,78.0,203.0,26.0,Kansas,Charlotte Hornets,Charlotte,DEC
+Eric Paschall,13.9,Eric Paschall,78.0,255.0,25.0,Villanova,Utah Jazz,Utah,NOV
+Chris Paul,20.8,Chris Paul,72.0,175.0,37.0,Wake Forest,Phoenix Suns,Phoenix,MAY
+Cameron Payne,13.8,Cameron Payne,73.0,183.0,27.0,Murray State,Phoenix Suns,Phoenix,AUG
+Elfrid Payton,7.9,Elfrid Payton,75.0,195.0,28.0,Louisana-Lafayette,Phoenix Suns,Phoenix,FEB
+Gary Payton II,17.8,Gary Payton II,75.0,195.0,29.0,Oregon State,Golden State Warriors,Golden State,DEC
+Jamorko Pickett,7.6,Jamorko Pickett,81.0,206.0,24.0,Georgetown,Detroit Pistons,Detroit,DEC
+Theo Pinson,11.9,Theo Pinson,77.0,212.0,26.0,North Carolina,Dallas Mavericks,Dallas,NOV
+Mason Plumlee,14.7,Mason Plumlee,83.0,254.0,32.0,Duke,Charlotte Hornets,Charlotte,MAR
+Jakob Poeltl,20.8,Jakob Poeltl,85.0,245.0,26.0,Utah,San Antonio Spurs,San Antonio,OCT
+Aleksej Pokusevski,12.0,Aleksej Pokusevski,84.0,190.0,20.0,Olympiacos,Oklahoma City Thunder,Oklahoma City,DEC
+Yves Pons,5.9,Yves Pons,77.0,206.0,23.0,Tennessee,Memphis Grizzlies,Memphis,MAY
+Jordan Poole,16.1,Jordan Poole,76.0,194.0,23.0,Michigan,Golden State Warriors,Golden State,JUN
+Kevin Porter Jr.,13.5,Kevin Porter Jr.,76.0,203.0,22.0,Southern California,Houston Rockets,Houston,MAY
+Michael Porter Jr.,7.5,Michael Porter Jr.,82.0,218.0,24.0,Missouri,Denver Nuggets,Denver,JUN
+Otto Porter Jr.,15.9,Otto Porter Jr.,80.0,198.0,29.0,Georgetown,Golden State Warriors,Golden State,JUN
+Bobby Portis,17.7,Bobby Portis,82.0,250.0,27.0,Arkansas,Milwaukee Bucks,Milwaukee,FEB
+Dwight Powell,18.1,Dwight Powell,82.0,240.0,30.0,Stanford,Dallas Mavericks,Dallas,JUL
+Myles Powell,0.2,Myles Powell,74.0,195.0,24.0,Seton Hall,Philadelphia 76ers,Philadelphia,JUL
+Norman Powell,16.3,Norman Powell,75.0,215.0,29.0,UCLA,Los Angeles Clippers,Los Angeles,MAY
+Joshua Primo,7.1,Joshua Primo,76.0,189.0,19.0,Alabama,San Antonio Spurs,San Antonio,DEC
+Taurean Prince,12.4,Taurean Prince,78.0,218.0,28.0,Baylor,Minnesota Timberwolves,Minnesota,MAR
+Payton Pritchard,15.0,Payton Pritchard,73.0,195.0,24.0,Oregon,Boston Celtics,Boston,JAN
+Trevelin Queen,18.2,Trevelin Queen,78.0,190.0,25.0,New Mexico State,Houston Rockets,Houston,FEB
+Neemias Queta,12.7,Neemias Queta,84.0,248.0,22.0,Utah State,Sacramento Kings,Sacramento,JUL
+Immanuel Quickley,14.6,Immanuel Quickley,75.0,190.0,23.0,Kentucky,New York Knicks,New York,JUN
+Julius Randle,15.7,Julius Randle,80.0,250.0,27.0,Kentucky,New York Knicks,New York,NOV
+Austin Reaves,11.5,Austin Reaves,77.0,197.0,24.0,Oklahoma,Los Angeles Lakers,Los Angeles,MAY
+Cam Reddish,12.8,Cam Reddish,80.0,217.0,22.0,Duke,New York Knicks,New York,SEP
+Davon Reed,12.2,Davon Reed,77.0,206.0,27.0,Miami,Denver Nuggets,Denver,JUN
+Paul Reed,21.4,Paul Reed,81.0,210.0,23.0,DePaul,Philadelphia 76ers,Philadelphia,JUN
+Naz Reid,17.2,Naz Reid,81.0,264.0,22.0,Louisiana State,Minnesota Timberwolves,Minnesota,AUG
+Nick Richards,15.9,Nick Richards,84.0,245.0,24.0,Kentucky,Charlotte Hornets,Charlotte,NOV
+Josh Richardson,12.8,Josh Richardson,77.0,200.0,28.0,Tennessee,San Antonio Spurs,San Antonio,SEP
+Austin Rivers,7.2,Austin Rivers,76.0,200.0,29.0,Duke,Denver Nuggets,Denver,AUG
+Duncan Robinson,10.6,Duncan Robinson,79.0,215.0,28.0,Michigan,Miami Heat,Miami,APR
+Mitchell Robinson,20.7,Mitchell Robinson,84.0,240.0,24.0,Western Kentucky,New York Knicks,New York,APR
+Jeremiah Robinson-Earl,11.7,Jeremiah Robinson-Earl,80.0,242.0,21.0,Villanova,Oklahoma City Thunder,Oklahoma City,NOV
+Isaiah Roby,18.3,Isaiah Roby,80.0,230.0,24.0,Nebraska,Oklahoma City Thunder,Oklahoma City,FEB
+Rajon Rondo,10.9,Rajon Rondo,73.0,180.0,36.0,Kentucky,Cleveland Cavaliers,Cleveland,FEB
+Derrick Rose,16.9,Derrick Rose,74.0,200.0,33.0,Memphis,New York Knicks,New York,OCT
+Terrence Ross,10.0,Terrence Ross,78.0,206.0,31.0,Washington,Orlando Magic,Orlando,FEB
+Terry Rozier,17.6,Terry Rozier,73.0,190.0,28.0,Louisville,Charlotte Hornets,Charlotte,MAR
+Ricky Rubio,14.0,Ricky Rubio,74.0,190.0,31.0,FC Barcelona,Indiana Pacers,Indiana,OCT
+D'Angelo Russell,16.3,D'Angelo Russell,76.0,193.0,26.0,Ohio State,Minnesota Timberwolves,Minnesota,FEB
+Matt Ryan,3.5,Matt Ryan,79.0,215.0,25.0,Tennessee-Chattanooga,Boston Celtics,Boston,APR
+Domantas Sabonis,21.9,Domantas Sabonis,83.0,240.0,26.0,Gonzaga,Sacramento Kings,Sacramento,MAY
+Jordan Schakel,-1.2,Jordan Schakel,78.0,200.0,24.0,San Diego State,Washington Wizards,Washington,JUN
+Admiral Schofield,7.5,Admiral Schofield,77.0,241.0,25.0,Tennessee,Orlando Magic,Orlando,MAR
+Jay Scrubb,9.3,Jay Scrubb,77.0,220.0,21.0,John A. Logan,Los Angeles Clippers,Los Angeles,SEP
+Collin Sexton,11.2,Collin Sexton,73.0,190.0,23.0,Alabama,Cleveland Cavaliers,Cleveland,JAN
+Landry Shamet,10.2,Landry Shamet,76.0,190.0,25.0,Wichita State,Phoenix Suns,Phoenix,MAR
+Day'Ron Sharpe,20.7,Day'Ron Sharpe,81.0,265.0,20.0,North Carolina,Brooklyn Nets,Brooklyn,NOV
+Pascal Siakam,20.3,Pascal Siakam,80.0,230.0,28.0,New Mexico State,Toronto Raptors,Toronto,APR
+Marko Simonovic,10.2,Marko Simonovic,83.0,220.0,22.0,Mega Basket,Chicago Bulls,Chicago,OCT
+Anfernee Simons,15.3,Anfernee Simons,75.0,181.0,23.0,Edgewater HS (FL),Portland Trail Blazers,Portland,JUN
+Jericho Sims,11.6,Jericho Sims,81.0,250.0,23.0,Texas,New York Knicks,New York,OCT
+Javonte Smart,5.1,Javonte Smart,76.0,205.0,23.0,Louisiana State,Miami Heat,Miami,JUN
+Marcus Smart,13.6,Marcus Smart,76.0,220.0,28.0,Oklahoma State,Boston Celtics,Boston,MAR
+Ish Smith,12.5,Ish Smith,72.0,175.0,33.0,Wake Forest,Washington Wizards,Washington,JUL
+Jalen Smith,18.4,Jalen Smith,82.0,215.0,22.0,Maryland,Indiana Pacers,Indiana,MAR
+Xavier Sneed,0.4,Xavier Sneed,77.0,215.0,24.0,Kansas State,Utah Jazz,Utah,DEC
+Tony Snell,6.3,Tony Snell,78.0,213.0,30.0,New Mexico,New Orleans Pelicans,New Orleans,NOV
+Jaden Springer,26.4,Jaden Springer,76.0,202.0,19.0,Tennessee,Philadelphia 76ers,Philadelphia,SEP
+Nik Stauskas,10.5,Nik Stauskas,78.0,207.0,28.0,Michigan,Boston Celtics,Boston,OCT
+Lance Stephenson,13.6,Lance Stephenson,77.0,210.0,31.0,Cincinnati,Indiana Pacers,Indiana,SEP
+Lamar Stevens,11.3,Lamar Stevens,78.0,230.0,24.0,Penn State,Cleveland Cavaliers,Cleveland,JUL
+Isaiah Stewart,14.0,Isaiah Stewart,80.0,250.0,21.0,Washington,Detroit Pistons,Detroit,MAY
+Max Strus,12.7,Max Strus,77.0,215.0,26.0,DePaul,Miami Heat,Miami,MAR
+Jalen Suggs,8.6,Jalen Suggs,77.0,205.0,21.0,Gonzaga,Orlando Magic,Orlando,JUN
+Jae'Sean Tate,14.3,Jae'Sean Tate,76.0,230.0,26.0,Ohio State,Houston Rockets,Houston,OCT
+Jayson Tatum,21.8,Jayson Tatum,80.0,210.0,24.0,Duke,Boston Celtics,Boston,MAR
+Terry Taylor,19.0,Terry Taylor,77.0,230.0,22.0,Austin Peay,Indiana Pacers,Indiana,SEP
+Garrett Temple,8.6,Garrett Temple,77.0,195.0,36.0,Louisiana State,New Orleans Pelicans,New Orleans,MAY
+Tyrell Terry,20.0,Tyrell Terry,74.0,160.0,21.0,Stanford,Memphis Grizzlies,Memphis,SEP
+Daniel Theis,13.2,Daniel Theis,81.0,245.0,30.0,Brose Bamberg,Boston Celtics,Boston,APR
+Brodric Thomas,10.0,Brodric Thomas,77.0,185.0,25.0,,Boston Celtics,Boston,JAN
+Cam Thomas,11.7,Cam Thomas,75.0,210.0,20.0,Louisiana State,Brooklyn Nets,Brooklyn,OCT
+Isaiah Thomas,12.0,Isaiah Thomas,69.0,185.0,33.0,Washington,Charlotte Hornets,Charlotte,FEB
+Matt Thomas,9.9,Matt Thomas,75.0,190.0,27.0,Iowa State,Chicago Bulls,Chicago,AUG
+Klay Thompson,16.7,Klay Thompson,78.0,220.0,32.0,Washington State,Golden State Warriors,Golden State,FEB
+Tristan Thompson,14.9,Tristan Thompson,81.0,254.0,31.0,University of Texas at Austin,Chicago Bulls,Chicago,MAR
+JT Thor,9.7,JT Thor,81.0,203.0,19.0,Auburn,Charlotte Hornets,Charlotte,AUG
+Matisse Thybulle,11.2,Matisse Thybulle,77.0,201.0,25.0,Washington,Philadelphia 76ers,Philadelphia,MAR
+Killian Tillie,7.6,Killian Tillie,81.0,220.0,24.0,Gonzaga,Memphis Grizzlies,Memphis,MAR
+Isaiah Todd,4.7,Isaiah Todd,81.0,219.0,20.0,NBA G League Ignite,Washington Wizards,Washington,OCT
+Obi Toppin,18.3,Obi Toppin,81.0,220.0,24.0,Dayton,New York Knicks,New York,MAR
+Juan Toscano-Anderson,11.0,Juan Toscano-Anderson,78.0,209.0,29.0,Marquette,Golden State Warriors,Golden State,APR
+Karl-Anthony Towns,24.1,Karl-Anthony Towns,83.0,248.0,26.0,Kentucky,Minnesota Timberwolves,Minnesota,NOV
+Gary Trent Jr.,14.7,Gary Trent Jr.,77.0,209.0,23.0,Duke,Toronto Raptors,Toronto,JAN
+P.J. Tucker,11.3,P.J. Tucker,77.0,245.0,37.0,Texas,Miami Heat,Miami,MAY
+Rayjon Tucker,17.7,Rayjon Tucker,75.0,209.0,24.0,Arkansas-Little Rock,Milwaukee Bucks,Milwaukee,SEP
+Myles Turner,17.4,Myles Turner,83.0,250.0,26.0,Texas,Indiana Pacers,Indiana,MAR
+Jarred Vanderbilt,15.3,Jarred Vanderbilt,81.0,214.0,23.0,Kentucky,Minnesota Timberwolves,Minnesota,APR
+Fred VanVleet,17.3,Fred VanVleet,73.0,197.0,28.0,Wichita State,Toronto Raptors,Toronto,FEB
+Devin Vassell,13.3,Devin Vassell,77.0,200.0,21.0,Florida State,San Antonio Spurs,San Antonio,AUG
+Gabe Vincent,10.6,Gabe Vincent,75.0,200.0,26.0,California-Santa Barbara,Miami Heat,Miami,JUN
+Dean Wade,10.1,Dean Wade,81.0,228.0,25.0,Kansas State,Cleveland Cavaliers,Cleveland,NOV
+Franz Wagner,14.7,Franz Wagner,82.0,220.0,20.0,Michigan,Orlando Magic,Orlando,AUG
+Moritz Wagner,18.1,Moritz Wagner,83.0,245.0,25.0,Michigan,Orlando Magic,Orlando,APR
+Ish Wainright,9.4,Ish Wainright,77.0,250.0,27.0,Baylor,Phoenix Suns,Phoenix,SEP
+Kemba Walker,13.9,Kemba Walker,72.0,184.0,32.0,Connecticut,New York Knicks,New York,MAY
+Lonnie Walker IV,12.3,Lonnie Walker IV,76.0,204.0,23.0,Miami,San Antonio Spurs,San Antonio,DEC
+Duane Washington Jr.,10.2,Duane Washington Jr.,75.0,197.0,22.0,Ohio State,Indiana Pacers,Indiana,MAR
+P.J. Washington,13.6,P.J. Washington,79.0,230.0,23.0,Kentucky,Charlotte Hornets,Charlotte,AUG
+Yuta Watanabe,11.5,Yuta Watanabe,81.0,215.0,27.0,George Washington,Toronto Raptors,Toronto,OCT
+Lindy Waters III,13.0,Lindy Waters III,78.0,215.0,24.0,Oklahoma State,Oklahoma City Thunder,Oklahoma City,JUL
+Trendon Watford,15.8,Trendon Watford,80.0,237.0,21.0,Louisiana State,Portland Trail Blazers,Portland,NOV
+Quinndary Weatherspoon,12.0,Quinndary Weatherspoon,75.0,205.0,25.0,Mississippi State,Golden State Warriors,Golden State,SEP
+Russell Westbrook,15.0,Russell Westbrook,75.0,200.0,33.0,UCLA,Los Angeles Lakers,Los Angeles,NOV
+Coby White,12.6,Coby White,76.0,195.0,22.0,North Carolina,Chicago Bulls,Chicago,FEB
+Derrick White,14.8,Derrick White,76.0,190.0,27.0,Colorado,Boston Celtics,Boston,JUL
+Hassan Whiteside,22.9,Hassan Whiteside,84.0,265.0,33.0,Marshall,Utah Jazz,Utah,JUN
+Joe Wieskamp,7.1,Joe Wieskamp,78.0,205.0,22.0,Iowa,San Antonio Spurs,San Antonio,AUG
+Aaron Wiggins,10.3,Aaron Wiggins,76.0,190.0,23.0,Maryland,Oklahoma City Thunder,Oklahoma City,JAN
+Andrew Wiggins,15.0,Andrew Wiggins,79.0,197.0,27.0,Kansas,Golden State Warriors,Golden State,FEB
+Lindell Wigginton,10.2,Lindell Wigginton,73.0,189.0,24.0,Iowa State,Milwaukee Bucks,Milwaukee,MAR
+Brandon Williams,11.0,Brandon Williams,74.0,190.0,22.0,Arizona,Portland Trail Blazers,Portland,NOV
+Grant Williams,11.2,Grant Williams,78.0,236.0,23.0,Tennessee,Boston Celtics,Boston,NOV
+Kenrich Williams,13.3,Kenrich Williams,78.0,210.0,27.0,TCU,Oklahoma City Thunder,Oklahoma City,DEC
+Lou Williams,12.1,Lou Williams,74.0,175.0,35.0,South Gwinnett HS (GA),Atlanta Hawks,Atlanta,OCT
+Patrick Williams,12.7,Patrick Williams,79.0,215.0,20.0,Florida State,Chicago Bulls,Chicago,AUG
+Ziaire Williams,9.7,Ziaire Williams,81.0,185.0,20.0,Stanford,Memphis Grizzlies,Memphis,SEP
+Dylan Windler,8.8,Dylan Windler,78.0,196.0,25.0,Belmont,Cleveland Cavaliers,Cleveland,SEP
+Justise Winslow,13.1,Justise Winslow,78.0,222.0,26.0,Duke,Portland Trail Blazers,Portland,MAR
+Cassius Winston,6.0,Cassius Winston,73.0,185.0,24.0,Michigan State,Washington Wizards,Washington,FEB
+Christian Wood,19.1,Christian Wood,81.0,214.0,26.0,UNLV,Houston Rockets,Houston,SEP
+Robert Woodard II,2.1,Robert Woodard II,78.0,235.0,22.0,Mississippi State,San Antonio Spurs,San Antonio,SEP
+Delon Wright,13.8,Delon Wright,77.0,185.0,30.0,Utah,Atlanta Hawks,Atlanta,APR
+McKinley Wright IV,9.5,McKinley Wright IV,71.0,192.0,23.0,Colorado,Minnesota Timberwolves,Minnesota,OCT
+Moses Wright,18.3,Moses Wright,80.0,226.0,23.0,Georgia Tech,Dallas Mavericks,Dallas,DEC
+Gabe York,12.7,Gabe York,75.0,190.0,28.0,Arizona,Indiana Pacers,Indiana,AUG
+Thaddeus Young,17.0,Thaddeus Young,80.0,235.0,34.0,Georgia Tech,Toronto Raptors,Toronto,JUN
+Trae Young,25.4,Trae Young,73.0,164.0,23.0,Oklahoma,Atlanta Hawks,Atlanta,SEP
+Omer Yurtseven,17.4,Omer Yurtseven,83.0,275.0,24.0,Georgetown,Miami Heat,Miami,JUN
+Ivica Zubac,19.2,Ivica Zubac,84.0,240.0,25.0,Mega Basket,Los Angeles Clippers,Los Angeles,MAR
