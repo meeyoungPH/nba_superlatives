@@ -56,13 +56,13 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 * Players were grouped by draft pick and round numbers to determine how many players would fall in each category.
 * There is weak negative correlation between draft pick number and player performance.
 
-![draft number and avg PER](draft_picks/draft_number_table.PNG)
-![draft number regression model](draft_picks/NBA_linearregression.png)
+![draft number and avg PER](draft_picks/images/draft_number_table.PNG)
+![draft number regression model](draft_picks/images/NBA_linearregression.png)
 
 * Players selected in the first round versus second or third rounds had slight higher PER ratings
 
-![draft round number and avg PER](draft_picks/draft_round_table.PNG)
-![draft round number box plot](draft_picks/NBA_boxplot.png)
+![draft round number and avg PER](draft_picks/images/draft_round_table.PNG)
+![draft round number box plot](draft_picks/images/NBA_boxplot.png)
 
 #### Superlatives
 * Veteran - drafted before 2021: Nikola Jokic (112)
@@ -109,7 +109,7 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 * The vast majority of NBA players are paid between $1-18 million, with the most recieving an annual salary between $1-9 million.
 * There does not appear to be much variance for salary across different positions, though there are certain positions that have a greater number of highly paid players.
 
-![Salary Distribution](salaries/NBA%20Players%20Salary%20Distribution.png)
+![Salary Distribution](salaries/NBA_Players_Salary_Distribution_full.png)
 ![Salaries by Player Position](salaries/sal_by_position.png)
 
 ### PER vs Salary
@@ -121,14 +121,14 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 * Joel Emblid (PER = 31.2) is the only positive outlier for players making >$18 million a year.
 * Stephen Curry is the highest paid NBA player, with a salary >$45 million.
 
-![salary boxplot](PER%20Salary/outputs/Salary_BoxPlots.png)
+![salary boxplot](PER%20Salary/outputs/Plots.png)
 
 ### Can You Buy a Winning Team?
 * There is a greater positve correlation between win percentage and team salary (0.43) as opposed to win percentage and team PER rating (0.28)
 * Further analysis of PER ratings and salary over the span of a player's career would be of further value.
 
-![salary wins](PER%20Salary/outputs/Salary_vs_Wins.png)
-![salary wins](PER%20Salary/outputs/Salary_vs_PER.png)
+![salary wins](PER%20Salary/outputs/Salary_Wins.png)
+![salary wins](PER%20Salary/outputs/PER_Wins)
 
 
 
