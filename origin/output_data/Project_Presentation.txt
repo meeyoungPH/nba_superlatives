@@ -1,0 +1,66 @@
+
+Question: 
+Are the best players coming from the most common region or schools?
+
+This analysis was made using the information for all players that played season 2021-22
+
+
+Conclusion:
+There is a slight relationship between player performance and their origin, althoug it does not have a strong correlation. 
+On almost every analysis, one of the TOP 10 players according to PER do show to come from within the TOP Regions.
+
+
+Data Analysis:
+
+Most common College
+
+173 were in the analysis
+
+Kentucky  is the top 1
+
+The 9th player in the Top 10 attended kentucky
+
+
+
+Most common US City
+
+227 were in the analysis
+
+Los Angeles is the top 1
+
+None of the top 10 players come from Los Angeles
+
+
+
+Most International City
+
+69 were in the analysis
+
+Toronto, Ca  is the top 1
+
+The 10th player in the Top 10 comes from Toronto, Ca
+
+
+
+Most common Country
+
+39 were in the analysis
+
+Canada  is the top 1
+ 
+Canada is the 4th country in the Top 10 with best PER players
+
+
+References: 
+
+Basketball-reference.com
+NBA.com
+https://github.com/swar/nba_api
+
+
+Tools used:
+
+I made my own Web Scraper to get data from Basketball Reference
+I used NBA API from Swar Patel to get data from NBA.com
+I used my teammates dataset that listed the players that were in Season 2021-22
+ 
