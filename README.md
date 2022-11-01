@@ -109,8 +109,8 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 * The vast majority of NBA players are paid between $1-18 million, with the most recieving an annual salary between $1-9 million.
 * There does not appear to be much variance for salary across different positions, though there are certain positions that have a greater number of highly paid players.
 
-![Salary Distribution](do this!!)
-![Salaries by Player Position](add this!!!)
+![Salary Distribution](salaries/NBA%20Players%20Salary%20Distribution.png)
+![Salaries by Player Position](salaries/sal_by_position.png)
 
 ### PER vs Salary
 * Hypothesis: Team salary will be more indicative of team success than an averaged PER rating of team
@@ -123,7 +123,7 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 
 ![salary boxplot](PER%20Salary/outputs/Salary_BoxPlots.png)
 
-### Can you buy a winning team?
+### Can You Buy a Winning Team?
 * There is a greater positve correlation between win percentage and team salary (0.43) as opposed to win percentage and team PER rating (0.28)
 * Further analysis of PER ratings and salary over the span of a player's career would be of further value.
 
