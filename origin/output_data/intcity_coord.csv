@@ -1,0 +1,92 @@
+,Unnamed: 0,Player,Player City,Country,Team City,PER,Player Int Full City,Lat,Lng
+0,0,Danilo Gallinari,Sant'Angelo Lodigiano,IT,Atlanta,14.3,"Sant'Angelo Lodigiano, IT",45.2323253,9.412306899999999
+1,1,Gorgui Dieng,Kebemer,SN,Atlanta,17.3,"Kebemer, SN",15.3763381,-16.4464766
+2,2,Clint Capela,Geneva,CH,Atlanta,21.4,"Geneva, CH",46.2043907,6.1431577
+3,3,Nik Stauskas,Mississauga,CA,Boston,10.5,"Mississauga, CA",43.5890452,-79.6441198
+4,4,Daniel Theis,Salzgitter,DE,Boston,13.2,"Salzgitter, DE",52.13786589999999,10.3899126
+5,5,Al Horford,Puerto Plata,DO,Boston,16.7,"Puerto Plata, DO",19.7807686,-70.6871091
+6,6,Cedi Osman,Ohrid,MK,Cleveland,13.3,"Ohrid, MK",41.1230977,20.8016481
+7,7,Lauri Markkanen,Vantaa,FI,Cleveland,14.7,"Vantaa, FI",60.29335239999999,25.0377686
+8,8,Tristan Thompson,Toronto,CA,Chicago,14.9,"Toronto, CA",43.653226,-79.3831843
+9,9,Marko Simonovic,Kolašin,ME,Chicago,10.2,"Kolašin, ME",42.7601916,19.4259114
+10,10,Dwight Powell,Toronto,CA,Dallas,18.1,"Toronto, CA",43.653226,-79.3831843
+11,11,Josh Green,Sydney,AU,Dallas,11.9,"Sydney, AU",-33.8688197,151.2092955
+12,12,Frank Ntilikina,Ixelles,BE,Dallas,10.4,"Ixelles, BE",50.8335711,4.366433
+13,13,Maxi Kleber,Wurzburg,DE,Dallas,11.0,"Wurzburg, DE",49.79130439999999,9.9533548
+14,14,Facundo Campazzo,Córdoba,AR,Denver,11.1,"Córdoba, AR",-31.42008329999999,-64.1887761
+15,15,Jonathan Kuminga,Goma,CD,Golden State,15.2,"Goma, CD",,
+16,16,Nemanja Bjelica,Belgrade,RS,Golden State,14.2,"Belgrade, RS",44.8125449,20.46123
+17,17,Andrew Wiggins,Toronto,CA,Golden State,15.0,"Toronto, CA",43.653226,-79.3831843
+18,18,Usman Garuba,Azuqueca de Henares,ES,Houston,12.9,"Azuqueca de Henares, ES",40.5648765,-3.2680616
+19,19,Bruno Fernando,Luanda,AO,Houston,21.2,"Luanda, AO",-8.8146556,13.2301756
+20,20,Reggie Jackson,Pordenone,IT,Los Angeles,12.1,"Pordenone, IT",45.96263980000001,12.6551362
+21,21,Nicolas Batum,Lisieux,FR,Los Angeles,13.5,"Lisieux, FR",49.145922,0.227849
+22,22,Ivica Zubac,Mostar,BA,Los Angeles,19.2,"Mostar, BA",43.34377480000001,17.8077578
+23,23,Wenyen Gabriel,Khartoum,SD,Los Angeles,12.5,"Khartoum, SD",15.5006544,32.5598994
+24,24,Mychal Mulder,Etobicoke,CA,Miami,3.7,"Etobicoke, CA",43.6204946,-79.5131983
+25,25,Omer Yurtseven,Istanbul,TR,Miami,17.4,"Istanbul, TR",41.0082376,28.9783589
+26,26,Serge Ibaka,Brazzaville,CG,Milwaukee,14.4,"Brazzaville, CG",-4.2633597,15.2428853
+27,27,Lindell Wigginton,Halifax,CA,Milwaukee,10.2,"Halifax, CA",44.6475811,-63.5727683
+28,28,Giannis Antetokounmpo,Athens,GR,Milwaukee,32.1,"Athens, GR",37.9838096,23.7275388
+29,29,Thanasis Antetokounmpo,Athens,GR,Milwaukee,12.5,"Athens, GR",37.9838096,23.7275388
+30,30,Leandro Bolmaro,Las Varillas,AR,Minnesota,5.4,"Las Varillas, AR",-31.8722985,-62.7213671
+31,31,Josh Okogie,Lagos,NG,Minnesota,9.0,"Lagos, NG",6.5243793,3.3792057
+32,32,Patty Mills,Canberra,AU,Brooklyn,10.4,"Canberra, AU",-35.2801903,149.1310038
+33,33,Kyrie Irving,Melbourne,AU,Brooklyn,21.4,"Melbourne, AU",-37.8136276,144.9630576
+34,34,Cam Thomas,Yokosuka,JP,Brooklyn,11.7,"Yokosuka, JP",35.281498,139.6721655
+35,35,RJ Barrett,Toronto,CA,New York,13.7,"Toronto, CA",43.653226,-79.3831843
+36,36,Evan Fournier,Saint-Maurice,FR,New York,12.3,"Saint-Maurice, FR",48.8205669,2.423655
+37,37,Bol Bol,Khartoum,SD,Orlando,13.5,"Khartoum, SD",15.5006544,32.5598994
+38,38,Ignas Brazdeikis,Kaunas,LT,Orlando,10.2,"Kaunas, LT",54.8985207,23.9035965
+39,39,Moritz Wagner,Berlin,DE,Orlando,18.1,"Berlin, DE",52.52000659999999,13.404954
+40,40,Franz Wagner,Berlin,DE,Orlando,14.7,"Berlin, DE",52.52000659999999,13.404954
+41,41,Admiral Schofield,London,GB,Orlando,7.5,"London, GB",51.5072178,-0.1275862
+42,42,Chris Duarte,Montreal,CA,Indiana,12.3,"Montreal, CA",45.5018869,-73.56739189999999
+43,43,Duane Washington Jr.,Frankfurt,DE,Indiana,10.2,"Frankfurt, DE",50.1109221,8.6821267
+44,44,Oshae Brissett,Toronto,CA,Indiana,12.9,"Toronto, CA",43.653226,-79.3831843
+45,45,Buddy Hield,Freeport,BS,Indiana,12.9,"Freeport, BS",26.5333159,-78.6429019
+46,46,Goga Bitadze,Sagarejo,GE,Indiana,18.0,"Sagarejo, GE",41.725392,45.33507909999999
+47,47,Ricky Rubio,El Masnou,ES,Indiana,14.0,"El Masnou, ES",41.4826455,2.3114706
+48,48,Joel Embiid,Yaounde,CM,Philadelphia,31.2,"Yaounde, CM",3.8480325,11.5020752
+49,49,Charles Bassey,Lagos,NG,Philadelphia,21.5,"Lagos, NG",6.5243793,3.3792057
+50,50,Furkan Korkmaz,Istanbul,TR,Philadelphia,10.2,"Istanbul, TR",41.0082376,28.9783589
+51,51,Bismack Biyombo,Lubumbashi,CD,Phoenix,17.3,"Lubumbashi, CD",-11.6876026,27.5026174
+52,52,Gabriel Lundberg,Copenhagen,DK,Phoenix,7.7,"Copenhagen, DK",55.6760968,12.5683371
+53,53,Deandre Ayton,Nassau,BS,Phoenix,21.9,"Nassau, BS",25.0443312,-77.3503609
+54,54,Joe Ingles,Adelaide,AU,Portland,10.0,"Adelaide, AU",-34.9284989,138.6007456
+55,55,Didi Louzada,Cachoeiro de Itapemirim,BR,Portland,6.4,"Cachoeiro de Itapemirim, BR",-20.8517991,-41.1148627
+56,56,Alex Len,Antratsit,UA,Sacramento,13.1,"Antratsit, UA",48.11995049999999,39.0897865
+57,57,Trey Lyles,Saskatoon,CA,Sacramento,16.4,"Saskatoon, CA",52.157902,-106.6701577
+58,58,Neemias Queta,Lisbon,PT,Sacramento,12.7,"Lisbon, PT",38.7222524,-9.1393366
+59,59,Joshua Primo,Mississauga,CA,San Antonio,7.1,"Mississauga, CA",43.5890452,-79.6441198
+60,60,Jakob Poeltl,Vienna,AT,San Antonio,20.8,"Vienna, AT",48.2081743,16.3738189
+61,61,Jock Landale,E Malvern,AU,San Antonio,16.0,"E Malvern, AU",,
+62,62,Shai Gilgeous-Alexander,Toronto,CA,Oklahoma City,20.9,"Toronto, CA",43.653226,-79.3831843
+63,63,Josh Giddey,Melbourne,AU,Oklahoma City,13.3,"Melbourne, AU",-37.8136276,144.9630576
+64,64,Luguentz Dort,Montreal,CA,Oklahoma City,12.3,"Montreal, CA",45.5018869,-73.56739189999999
+65,65,Aleksej Pokusevski,Belgrade,RS,Oklahoma City,12.0,"Belgrade, RS",44.8125449,20.46123
+66,66,Vit Krejci,Strakonice,CZ,Oklahoma City,8.5,"Strakonice, CZ",49.2604043,13.9103085
+67,67,Precious Achiuwa,Port Harcourt,NG,Toronto,12.7,"Port Harcourt, NG",4.847222599999999,6.974603999999999
+68,68,Svi Mykhailiuk,Cherkasy,UA,Toronto,9.6,"Cherkasy, UA",49.444433,32.059767
+69,69,Isaac Bonga,Neuwied,DE,Toronto,8.7,"Neuwied, DE",50.4361866,7.4664546
+70,70,Yuta Watanabe,Yokohama,JP,Toronto,11.5,"Yokohama, JP",35.4436739,139.6379639
+71,71,Khem Birch,Montreal,CA,Toronto,13.2,"Montreal, CA",45.5018869,-73.56739189999999
+72,72,Chris Boucher,Castries,LC,Toronto,17.9,"Castries, LC",14.0101094,-60.98746869999999
+73,73,Pascal Siakam,Douala,CM,Toronto,20.3,"Douala, CM",4.0510564,9.7678687
+74,74,Dalano Banton,Toronto,CA,Toronto,10.0,"Toronto, CA",43.653226,-79.3831843
+75,75,Nickeil Alexander-Walker,Toronto,CA,Utah,10.5,"Toronto, CA",43.653226,-79.3831843
+76,76,Udoka Azubuike,Lagos,NG,Utah,17.6,"Lagos, NG",6.5243793,3.3792057
+77,77,Rudy Gobert,Saint-Quentin,FR,Utah,24.7,"Saint-Quentin, FR",49.847066,3.2874
+78,78,Steven Adams,Rotorua,NZ,Memphis,17.6,"Rotorua, NZ",-38.1445987,176.2377669
+79,79,Yves Pons,Port-au-Prince,HT,Memphis,5.9,"Port-au-Prince, HT",18.594395,-72.3074326
+80,80,Santi Aldama,Las Palmas,ES,Memphis,10.2,"Las Palmas, ES",28.1008837,-15.4653897
+81,81,Brandon Clarke,Vancouver,CA,Memphis,23.7,"Vancouver, CA",49.2827291,-123.1207375
+82,82,Dillon Brooks,Mississauga,CA,Memphis,15.5,"Mississauga, CA",43.5890452,-79.6441198
+83,83,Killian Tillie,Cagnes-sur-Mer,FR,Memphis,7.6,"Cagnes-sur-Mer, FR",43.663739,7.14882
+84,84,Rui Hachimura,Toyama,JP,Washington,14.9,"Toyama, JP",36.6958223,137.2137211
+85,85,Deni Avdija,Beit Zera,IL,Washington,11.6,"Beit Zera, IL",32.689296,35.574062
+86,86,Raul Neto,Belo Horizonte,BR,Washington,12.4,"Belo Horizonte, BR",-19.919052,-43.9386685
+87,87,Kelly Olynyk,Toronto,CA,Detroit,16.7,"Toronto, CA",43.653226,-79.3831843
+88,88,Cory Joseph,Toronto,CA,Detroit,11.4,"Toronto, CA",43.653226,-79.3831843
+89,89,Nick Richards,Kingston,JM,Charlotte,15.9,"Kingston, JM",18.0178743,-76.8099041
+90,90,Kai Jones,Nassau,BS,Charlotte,9.2,"Nassau, BS",25.0443312,-77.3503609

@@ -1,0 +1,373 @@
+,Unnamed: 0,Player,Player City,Country,State,Team City,PER,Player US Full City,Lat,Lng
+0,0,Delon Wright,Los Angeles,US,CA,Atlanta,13.8,"Los Angeles, CA",34.0522342,-118.2436849
+1,1,Jalen Johnson,Wausau,US,WI,Atlanta,11.3,"Wausau, WI",44.9591352,-89.6301221
+2,2,Kevin Huerter,Albany,US,NY,Atlanta,11.9,"Albany, NY",42.6525793,-73.7562317
+3,3,Skylar Mays,Baton Rouge,US,LA,Atlanta,11.7,"Baton Rouge, LA",30.4514677,-91.18714659999999
+4,4,Lou Williams,Memphis,US,TN,Atlanta,12.1,"Memphis, TN",35.1495343,-90.0489801
+5,5,Trae Young,Lubbock,US,TX,Atlanta,25.4,"Lubbock, TX",33.5778631,-101.8551665
+6,6,De'Andre Hunter,Philadelphia,US,PA,Atlanta,10.6,"Philadelphia, PA",39.9525839,-75.1652215
+7,7,Onyeka Okongwu,Los Angeles,US,CA,Atlanta,19.8,"Los Angeles, CA",34.0522342,-118.2436849
+8,8,John Collins,Layton,US,UT,Atlanta,18.7,"Layton, UT",41.0602216,-111.9710529
+9,9,Chaundee Brown Jr.,Orlando,US,FL,Atlanta,6.4,"Orlando, FL",28.5383832,-81.3789269
+10,10,Matt Ryan,White Plains,US,NY,Boston,3.5,"White Plains, NY",41.03398620000001,-73.7629097
+11,11,Jayson Tatum,St. Louis,US,MO,Boston,21.8,"St. Louis, MO",38.6270025,-90.19940419999999
+12,12,Jaylen Brown,Marietta,US,GA,Boston,18.9,"Marietta, GA",33.95260200000001,-84.5499327
+13,13,Malik Fitts,Lynwood,US,CA,Boston,10.7,"Lynwood, CA",33.930293,-118.2114603
+14,14,Derrick White,Parker,US,CO,Boston,14.8,"Parker, CO",39.5186002,-104.7613633
+15,15,Payton Pritchard,Tualatin,US,OR,Boston,15.0,"Tualatin, OR",45.3812575,-122.7642935
+16,16,Grant Williams,Houston,US,TX,Boston,11.2,"Houston, TX",29.7604267,-95.3698028
+17,17,Juwan Morgan,Waynesville,US,MO,Boston,8.3,"Waynesville, MO",37.8286516,-92.2007227
+18,18,Aaron Nesmith,Charleston,US,SC,Boston,7.3,"Charleston, SC",32.7764749,-79.93105120000001
+19,19,Sam Hauser,Green Bay,US,WI,Boston,14.8,"Green Bay, WI",44.5133188,-88.0132958
+20,20,Marcus Smart,Flower Mound,US,TX,Boston,13.6,"Flower Mound, TX",33.0145673,-97.0969552
+21,21,Luke Kornet,Lantana,US,TX,Boston,16.6,"Lantana, TX",33.08371,-97.11978669999999
+22,22,Brodric Thomas,Bolingbrook,US,IL,Boston,10.0,"Bolingbrook, IL",41.69864159999999,-88.0683955
+23,23,Kevin Love,Santa Monica,US,CA,Cleveland,19.6,"Santa Monica, CA",34.0194543,-118.4911912
+24,24,Brandon Goodwin,Norcross,US,GA,Cleveland,11.8,"Norcross, GA",33.9411081,-84.2137443
+25,25,Rajon Rondo,Louisville,US,KY,Cleveland,10.9,"Louisville, KY",38.2526647,-85.7584557
+26,26,Collin Sexton,Marietta,US,GA,Cleveland,11.2,"Marietta, GA",33.95260200000001,-84.5499327
+27,27,Caris LeVert,Columbus,US,OH,Cleveland,15.1,"Columbus, OH",39.9611755,-82.99879419999999
+28,28,Evan Mobley,San Diego,US,CA,Cleveland,16.1,"San Diego, CA",32.715738,-117.1610838
+29,29,RJ Nembhard Jr.,Keller,US,TX,Cleveland,8.0,"Keller, TX",32.9341893,-97.229298
+30,30,Moses Brown,New York,US,NY,Cleveland,18.5,"New York, NY",40.7127753,-74.0059728
+31,31,Lamar Stevens,Philadelphia,US,PA,Cleveland,11.3,"Philadelphia, PA",39.9525839,-75.1652215
+32,32,Dylan Windler,Indianapolis,US,IN,Cleveland,8.8,"Indianapolis, IN",39.768403,-86.158068
+33,33,Darius Garland,Gary,US,IN,Cleveland,19.0,"Gary, IN",41.6020403,-87.3371523
+34,34,Ed Davis,Washington,US,DC,Cleveland,9.3,"Washington, DC",38.9071923,-77.0368707
+35,35,Jarrett Allen,San Diego,US,CA,Cleveland,23.0,"San Diego, CA",32.715738,-117.1610838
+36,36,Dean Wade,Wichita,US,KS,Cleveland,10.1,"Wichita, KS",37.68717609999999,-97.33005299999999
+37,37,Isaac Okoro,Atlanta,US,GA,Cleveland,10.4,"Atlanta, GA",33.7489954,-84.3879824
+38,38,Jared Harper,Atlanta,US,GA,New Orleans,36.9,"Atlanta, GA",33.7489954,-84.3879824
+39,39,CJ McCollum,Canton,US,OH,New Orleans,18.3,"Canton, OH",40.79894729999999,-81.378447
+40,40,Devonte' Graham,Raleigh,US,NC,New Orleans,12.1,"Raleigh, NC",35.7795897,-78.6381787
+41,41,Herbert Jones,Tuscaloosa,US,AL,New Orleans,12.3,"Tuscaloosa, AL",33.2098407,-87.56917349999999
+42,42,Naji Marshall,Atlantic City,US,NJ,New Orleans,12.3,"Atlantic City, NJ",39.3642834,-74.4229266
+43,43,Jaxson Hayes,Norman,US,OK,New Orleans,18.5,"Norman, OK",35.2225668,-97.4394777
+44,44,Gary Clark,Smithfield,US,NC,New Orleans,11.4,"Smithfield, NC",35.5084935,-78.3394455
+45,45,Kira Lewis Jr.,Meridianville,US,AL,New Orleans,9.8,"Meridianville, AL",34.8514782,-86.57221539999999
+46,46,Brandon Ingram,Kinston,US,NC,New Orleans,18.7,"Kinston, NC",35.2626635,-77.5816353
+47,47,Jose Alvarado,Brooklyn,US,NY,New Orleans,16.4,"Brooklyn, NY",40.6781784,-73.9441579
+48,48,Tony Snell,Los Angeles,US,CA,New Orleans,6.3,"Los Angeles, CA",34.0522342,-118.2436849
+49,49,Larry Nance Jr.,Akron,US,OH,New Orleans,14.4,"Akron, OH",41.0814447,-81.51900529999999
+50,50,Trey Murphy III,Durham,US,NC,New Orleans,12.5,"Durham, NC",35.9940329,-78.898619
+51,51,Garrett Temple,Baton Rouge,US,LA,New Orleans,8.6,"Baton Rouge, LA",30.4514677,-91.18714659999999
+52,52,Coby White,Goldsboro,US,NC,Chicago,12.6,"Goldsboro, NC",35.3848841,-77.9927651
+53,53,Lonzo Ball,Anaheim,US,CA,Chicago,14.5,"Anaheim, CA",33.8365932,-117.9143012
+54,54,Derrick Jones Jr.,Chester,US,PA,Chicago,13.0,"Chester, PA",39.849557,-75.3557457
+55,55,Alex Caruso,College Station,US,TX,Chicago,11.7,"College Station, TX",30.627977,-96.3344068
+56,56,Troy Brown Jr.,Las Vegas,US,NV,Chicago,10.1,"Las Vegas, NV",36.171563,-115.1391009
+57,57,Zach LaVine,Renton,US,WA,Chicago,20.0,"Renton, WA",47.4796927,-122.2079218
+58,58,DeMar DeRozan,Compton,US,CA,Chicago,23.1,"Compton, CA",33.8958492,-118.2200712
+59,59,Ayo Dosunmu,Chicago,US,IL,Chicago,11.2,"Chicago, IL",41.8781136,-87.6297982
+60,60,Tony Bradley,Bartow,US,FL,Chicago,14.9,"Bartow, FL",27.8964147,-81.8431374
+61,61,Malcolm Hill,St. Louis,US,MO,Chicago,12.7,"St. Louis, MO",38.6270025,-90.19940419999999
+62,62,Matt Thomas,Decatur,US,IL,Chicago,9.9,"Decatur, IL",39.8403147,-88.9548001
+63,63,Javonte Green,Petersburg,US,VA,Chicago,14.0,"Petersburg, VA",37.2279279,-77.40192669999999
+64,64,Tyler Cook,St. Louis,US,MO,Chicago,13.0,"St. Louis, MO",38.6270025,-90.19940419999999
+65,65,Patrick Williams,Charlotte,US,NC,Chicago,12.7,"Charlotte, NC",35.2270869,-80.8431267
+66,66,Sterling Brown,Maywood,US,IL,Dallas,8.4,"Maywood, IL",41.8791979,-87.8431155
+67,67,Theo Pinson,Greensboro,US,NC,Dallas,11.9,"Greensboro, NC",36.0726354,-79.7919754
+68,68,Trey Burke,Columbus,US,OH,Dallas,10.0,"Columbus, OH",39.9611755,-82.99879419999999
+69,69,Moses Wright,Raleigh,US,NC,Dallas,18.3,"Raleigh, NC",35.7795897,-78.6381787
+70,70,Dorian Finney-Smith,Portsmouth,US,VA,Dallas,12.5,"Portsmouth, VA",36.8354258,-76.2982742
+71,71,Tim Hardaway Jr.,Orinda,US,CA,Dallas,12.7,"Orinda, CA",37.8771476,-122.1796888
+72,72,Jalen Brunson,New Brunswick,US,NJ,Dallas,17.1,"New Brunswick, NJ",40.4862157,-74.4518188
+73,73,Reggie Bullock,Baltimore,US,MD,Dallas,9.2,"Baltimore, MD",39.2903848,-76.6121893
+74,74,Spencer Dinwiddie,Los Angeles,US,CA,Dallas,15.1,"Los Angeles, CA",34.0522342,-118.2436849
+75,75,Marquese Chriss,Sacramento,US,CA,Dallas,14.8,"Sacramento, CA",38.5815719,-121.4943996
+76,76,Markus Howard,Morristown,US,NJ,Denver,16.1,"Morristown, NJ",40.79676670000001,-74.4815438
+77,77,JaMychal Green,Montgomery,US,AL,Denver,14.1,"Montgomery, AL",32.3792233,-86.3077368
+78,78,Michael Porter Jr.,Columbia,US,MO,Denver,7.5,"Columbia, MO",38.9517053,-92.3340724
+79,79,Bones Hyland,Wilmington,US,DE,Denver,14.4,"Wilmington, DE",39.744655,-75.5483909
+80,80,DeMarcus Cousins,Mobile,US,AL,Denver,18.2,"Mobile, AL",30.6953657,-88.0398912
+81,81,Will Barton,Baltimore,US,MD,Denver,13.4,"Baltimore, MD",39.2903848,-76.6121893
+82,82,Bryn Forbes,Lansing,US,MI,Denver,11.5,"Lansing, MI",42.732535,-84.5555347
+83,83,Davon Reed,Princeton,US,NJ,Denver,12.2,"Princeton, NJ",40.3572976,-74.6672226
+84,84,Monte Morris,Grand Rapids,US,MI,Denver,14.7,"Grand Rapids, MI",42.9633599,-85.6680863
+85,85,Zeke Nnaji,Hopkins,US,MN,Denver,13.5,"Hopkins, MN",44.9260794,-93.4044187
+86,86,Austin Rivers,Santa Monica,US,CA,Denver,7.2,"Santa Monica, CA",34.0194543,-118.4911912
+87,87,Jeff Green,Cheverly,US,MD,Denver,12.5,"Cheverly, MD",38.92816699999999,-76.915807
+88,88,Aaron Gordon,San Jose,US,CA,Denver,15.3,"San Jose, CA",37.33874,-121.8852525
+89,89,Gary Payton II,Seattle,US,WA,Golden State,17.8,"Seattle, WA",47.6062095,-122.3320708
+90,90,Damion Lee,Baltimore,US,MD,Golden State,10.9,"Baltimore, MD",39.2903848,-76.6121893
+91,91,Chris Chiozza,Memphis,US,TN,Golden State,4.4,"Memphis, TN",35.1495343,-90.0489801
+92,92,Jordan Poole,Milwaukee,US,WI,Golden State,16.1,"Milwaukee, WI",43.0389025,-87.9064736
+93,93,Moses Moody,Little Rock,US,AR,Golden State,10.5,"Little Rock, AR",34.7444618,-92.2880157
+94,94,Kevon Looney,Milwaukee,US,WI,Golden State,15.7,"Milwaukee, WI",43.0389025,-87.9064736
+95,95,Andre Iguodala,Springfield,US,IL,Golden State,12.3,"Springfield, IL",39.78172130000001,-89.6501481
+96,96,Klay Thompson,Los Angeles,US,CA,Golden State,16.7,"Los Angeles, CA",34.0522342,-118.2436849
+97,97,Quinndary Weatherspoon,Canton,US,MS,Golden State,12.0,"Canton, MS",32.6126381,-90.0367512
+98,98,Draymond Green,Saginaw,US,MI,Golden State,14.3,"Saginaw, MI",43.4194699,-83.9508068
+99,99,Stephen Curry,Akron,US,OH,Golden State,21.4,"Akron, OH",41.0814447,-81.51900529999999
+100,100,Otto Porter Jr.,St. Louis,US,MO,Golden State,15.9,"St. Louis, MO",38.6270025,-90.19940419999999
+101,101,Juan Toscano-Anderson,Oakland,US,CA,Golden State,11.0,"Oakland, CA",37.8043514,-122.2711639
+102,102,Jalen Green,Merced,US,CA,Houston,12.5,"Merced, CA",37.3021632,-120.4829677
+103,103,David Nwaba,Los Angeles,US,CA,Houston,15.3,"Los Angeles, CA",34.0522342,-118.2436849
+104,104,Kevin Porter Jr.,Seattle,US,WA,Houston,13.5,"Seattle, WA",47.6062095,-122.3320708
+105,105,Kenyon Martin Jr.,Gardena,US,CA,Houston,14.3,"Gardena, CA",33.8883487,-118.3089624
+106,106,Jae'Sean Tate,Toledo,US,OH,Houston,14.3,"Toledo, OH",41.6528052,-83.5378674
+107,107,Josh Christopher,Carson,US,CA,Houston,12.2,"Carson, CA",33.8316745,-118.281693
+108,108,Eric Gordon,Indianapolis,US,IN,Houston,12.1,"Indianapolis, IN",39.768403,-86.158068
+109,109,Daishen Nix,Anchorage,US,AK,Houston,8.1,"Anchorage, AK",61.2175758,-149.8996785
+110,110,Trevelin Queen,Baltimore,US,MD,Houston,18.2,"Baltimore, MD",39.2903848,-76.6121893
+111,111,Garrison Mathews,Franklin,US,TN,Houston,11.0,"Franklin, TN",35.9250637,-86.8688899
+112,112,Christian Wood,Long Beach,US,CA,Houston,19.1,"Long Beach, CA",33.7700504,-118.1937395
+113,113,Jay Scrubb,Louisville,US,KY,Los Angeles,9.3,"Louisville, KY",38.2526647,-85.7584557
+114,114,Luke Kennard,Middletown,US,OH,Los Angeles,13.3,"Middletown, OH",39.5150576,-84.39827629999999
+115,115,Amir Coffey,Hopkins,US,MN,Los Angeles,13.0,"Hopkins, MN",44.9260794,-93.4044187
+116,116,Paul George,Palmdale,US,CA,Los Angeles,18.6,"Palmdale, CA",34.5794343,-118.1164613
+117,117,Terance Mann,Brooklyn,US,NY,Los Angeles,13.4,"Brooklyn, NY",40.6781784,-73.9441579
+118,118,Xavier Moon,Goodwater,US,AL,Los Angeles,16.2,"Goodwater, AL",33.065675,-86.0533013
+119,119,Rodney Hood,Meridian,US,MS,Los Angeles,7.2,"Meridian, MS",32.3643098,-88.703656
+120,120,Robert Covington,Bellwood,US,IL,Los Angeles,12.4,"Bellwood, IL",41.8814197,-87.883117
+121,121,Norman Powell,San Diego,US,CA,Los Angeles,16.3,"San Diego, CA",32.715738,-117.1610838
+122,122,Isaiah Hartenstein,Eugene,US,OR,Los Angeles,22.0,"Eugene, OR",44.0520691,-123.0867536
+123,123,Russell Westbrook,Long Beach,US,CA,Los Angeles,15.0,"Long Beach, CA",33.7700504,-118.1937395
+124,124,Wayne Ellington,Wynnewood,US,PA,Los Angeles,9.9,"Wynnewood, PA",39.9995913,-75.273018
+125,125,Anthony Davis,Chicago,US,IL,Los Angeles,23.9,"Chicago, IL",41.8781136,-87.6297982
+126,126,D.J. Augustin,New Orleans,US,LA,Los Angeles,9.7,"New Orleans, LA",29.95106579999999,-90.0715323
+127,127,Talen Horton-Tucker,Chicago,US,IL,Los Angeles,11.0,"Chicago, IL",41.8781136,-87.6297982
+128,128,LeBron James,Akron,US,OH,Los Angeles,26.2,"Akron, OH",41.0814447,-81.51900529999999
+129,129,Carmelo Anthony,Brooklyn,US,NY,Los Angeles,14.8,"Brooklyn, NY",40.6781784,-73.9441579
+130,130,Kent Bazemore,Kelford,US,NC,Los Angeles,6.0,"Kelford, NC",36.1796007,-77.2235757
+131,131,Malik Monk,Jonesboro,US,AR,Los Angeles,14.4,"Jonesboro, AR",35.835696,-90.7051346
+132,132,Stanley Johnson,Los Angeles,US,CA,Los Angeles,10.5,"Los Angeles, CA",34.0522342,-118.2436849
+133,133,Austin Reaves,Newark,US,AR,Los Angeles,11.5,"Newark, AR",35.702351,-91.4456192
+134,134,Avery Bradley,Tacoma,US,WA,Los Angeles,7.8,"Tacoma, WA",47.2528768,-122.4442906
+135,135,Mac McClung,Gate City,US,VA,Los Angeles,5.2,"Gate City, VA",36.6378774,-82.5809876
+136,136,Dwight Howard,Atlanta,US,GA,Los Angeles,18.2,"Atlanta, GA",33.7489954,-84.3879824
+137,137,Mason Jones,Dallas,US,TX,Los Angeles,17.8,"Dallas, TX",32.7766642,-96.79698789999999
+138,138,Gabe Vincent,Modesto,US,CA,Miami,10.6,"Modesto, CA",37.6392595,-120.9970014
+139,139,Victor Oladipo,Silver Spring,US,MD,Miami,16.8,"Silver Spring, MD",38.99066570000001,-77.026088
+140,140,Kyle Lowry,Philadelphia,US,PA,Miami,15.0,"Philadelphia, PA",39.9525839,-75.1652215
+141,141,Markieff Morris,Philadelphia,US,PA,Miami,10.9,"Philadelphia, PA",39.9525839,-75.1652215
+142,142,Bam Adebayo,Newark,US,NJ,Miami,21.8,"Newark, NJ",40.735657,-74.1723667
+143,143,Tyler Herro,Milwaukee,US,WI,Miami,16.2,"Milwaukee, WI",43.0389025,-87.9064736
+144,144,Javonte Smart,Baton Rouge,US,LA,Miami,5.1,"Baton Rouge, LA",30.4514677,-91.18714659999999
+145,145,Caleb Martin,Winston-Salem,US,NC,Miami,14.8,"Winston-Salem, NC",36.09985959999999,-80.244216
+146,146,P.J. Tucker,Raleigh,US,NC,Miami,11.3,"Raleigh, NC",35.7795897,-78.6381787
+147,147,Dewayne Dedmon,Lancaster,US,CA,Miami,15.9,"Lancaster, CA",34.6867846,-118.1541632
+148,148,Jimmy Butler,Houston,US,TX,Miami,23.6,"Houston, TX",29.7604267,-95.3698028
+149,149,Haywood Highsmith,Baltimore,US,MD,Miami,7.0,"Baltimore, MD",39.2903848,-76.6121893
+150,150,Max Strus,Hickory Hills,US,IL,Miami,12.7,"Hickory Hills, IL",41.7255879,-87.82505499999999
+151,151,Udonis Haslem,Miami,US,FL,Miami,8.6,"Miami, FL",25.7616798,-80.1917902
+152,152,Duncan Robinson,York,US,ME,Miami,10.6,"York, ME",43.16174830000001,-70.6482581
+153,153,George Hill,Indianapolis,US,IN,Milwaukee,10.2,"Indianapolis, IN",39.768403,-86.158068
+154,154,Jevon Carter,Maywood,US,IL,Milwaukee,9.6,"Maywood, IL",41.8791979,-87.8431155
+155,155,Grayson Allen,Jacksonville,US,FL,Milwaukee,12.7,"Jacksonville, FL",30.3321838,-81.65565099999999
+156,156,Bobby Portis,Little Rock,US,AR,Milwaukee,17.7,"Little Rock, AR",34.7444618,-92.2880157
+157,157,Brook Lopez,North Hollywood,US,CA,Milwaukee,16.0,"North Hollywood, CA",34.17941649999999,-118.3790527
+158,158,Jordan Nwora,Buffalo,US,NY,Milwaukee,9.9,"Buffalo, NY",42.88644679999999,-78.8783689
+159,159,Jrue Holiday,Chatsworth,US,CA,Milwaukee,19.8,"Chatsworth, CA",34.2506356,-118.61481
+160,160,Khris Middleton,Charleston,US,SC,Milwaukee,18.1,"Charleston, SC",32.7764749,-79.93105120000001
+161,161,Wesley Matthews,San Antonio,US,TX,Milwaukee,6.9,"San Antonio, TX",29.4251905,-98.4945922
+162,162,Pat Connaughton,Arlington,US,MA,Milwaukee,13.4,"Arlington, MA",42.4153925,-71.1564729
+163,163,Sandro Mamukelashvili,New York,US,NY,Milwaukee,14.7,"New York, NY",40.7127753,-74.0059728
+164,164,Rayjon Tucker,Charlotte,US,NC,Milwaukee,17.7,"Charlotte, NC",35.2270869,-80.8431267
+165,165,D'Angelo Russell,Louisville,US,KY,Minnesota,16.3,"Louisville, KY",38.2526647,-85.7584557
+166,166,Anthony Edwards,Atlanta,US,GA,Minnesota,16.5,"Atlanta, GA",33.7489954,-84.3879824
+167,167,Jaden McDaniels,Federal Way,US,WA,Minnesota,10.3,"Federal Way, WA",47.3223221,-122.3126222
+168,168,Jaylen Nowell,Seattle,US,WA,Minnesota,16.8,"Seattle, WA",47.6062095,-122.3320708
+169,169,Malik Beasley,Atlanta,US,GA,Minnesota,11.9,"Atlanta, GA",33.7489954,-84.3879824
+170,170,Jordan McLaughlin,Etiwanda,US,CA,Minnesota,13.4,"Etiwanda, CA",34.1261208,-117.5236622
+171,171,Jarred Vanderbilt,Houston,US,TX,Minnesota,15.3,"Houston, TX",29.7604267,-95.3698028
+172,172,Jake Layman,Norwood,US,MA,Minnesota,9.0,"Norwood, MA",42.19439089999999,-71.19896949999999
+173,173,Naz Reid,Asbury Park,US,NJ,Minnesota,17.2,"Asbury Park, NJ",40.2203907,-74.0120817
+174,174,Taurean Prince,San Marcos,US,TX,Minnesota,12.4,"San Marcos, TX",29.8832749,-97.9413941
+175,175,Nathan Knight,Syracuse,US,NY,Minnesota,18.7,"Syracuse, NY",43.0481221,-76.14742439999999
+176,176,Greg Monroe,New Orleans,US,LA,Minnesota,19.5,"New Orleans, LA",29.95106579999999,-90.0715323
+177,177,Patrick Beverley,Chicago,US,IL,Minnesota,14.8,"Chicago, IL",41.8781136,-87.6297982
+178,178,McKinley Wright IV,North Robbinsdale,US,MN,Minnesota,9.5,"North Robbinsdale, MN",45.032187,-93.3385614
+179,179,Karl-Anthony Towns,Edison,US,NJ,Minnesota,24.1,"Edison, NJ",40.5187154,-74.4120953
+180,180,Andre Drummond,Mount Vernon,US,NY,Brooklyn,21.0,"Mount Vernon, NY",40.9125992,-73.8370786
+181,181,Bruce Brown,Boston,US,MA,Brooklyn,15.0,"Boston, MA",42.3600825,-71.0588801
+182,182,Blake Griffin,Oklahoma City,US,OK,Brooklyn,13.7,"Oklahoma City, OK",35.4675602,-97.5164276
+183,183,David Duke Jr.,Providence,US,RI,Brooklyn,10.0,"Providence, RI",41.8239891,-71.4128343
+184,184,Kevin Durant,Washington,US,DC,Brooklyn,25.6,"Washington, DC",38.9071923,-77.0368707
+185,185,Joe Harris,Chelan,US,WA,Brooklyn,9.6,"Chelan, WA",47.8408323,-120.0168079
+186,186,Kessler Edwards,Glendale,US,CA,Brooklyn,8.3,"Glendale, CA",34.1425078,-118.255075
+187,187,Day'Ron Sharpe,Greenville,US,NC,Brooklyn,20.7,"Greenville, NC",35.612661,-77.3663538
+188,188,LaMarcus Aldridge,Dallas,US,TX,Brooklyn,19.6,"Dallas, TX",32.7766642,-96.79698789999999
+189,189,Seth Curry,Charlotte,US,NC,Brooklyn,13.7,"Charlotte, NC",35.2270869,-80.8431267
+190,190,Nic Claxton,Greenville,US,SC,Brooklyn,18.6,"Greenville, SC",34.85261759999999,-82.3940104
+191,191,Obi Toppin,Brooklyn,US,NY,New York,18.3,"Brooklyn, NY",40.6781784,-73.9441579
+192,192,Miles McBride,Cincinnati,US,OH,New York,6.1,"Cincinnati, OH",39.1031182,-84.5120196
+193,193,Nerlens Noel,Malden,US,MA,New York,11.8,"Malden, MA",42.4250964,-71.066163
+194,194,Derrick Rose,Chicago,US,IL,New York,16.9,"Chicago, IL",41.8781136,-87.6297982
+195,195,Immanuel Quickley,Havre de Grace,US,MD,New York,14.6,"Havre de Grace, MD",39.5492792,-76.09161700000001
+196,196,Quentin Grimes,Houston,US,TX,New York,10.7,"Houston, TX",29.7604267,-95.3698028
+197,197,Kemba Walker,The Bronx,US,NY,New York,13.9,"The Bronx, NY",40.8447819,-73.8648268
+198,198,Alec Burks,Grandview,US,MO,New York,13.7,"Grandview, MO",38.8858407,-94.5330096
+199,199,Cam Reddish,Norristown,US,PA,New York,12.8,"Norristown, PA",40.121497,-75.3399048
+200,200,Mitchell Robinson,Pensacola,US,FL,New York,20.7,"Pensacola, FL",30.42130899999999,-87.2169149
+201,201,Julius Randle,Dallas,US,TX,New York,15.7,"Dallas, TX",32.7766642,-96.79698789999999
+202,202,Jericho Sims,Minneapolis,US,MN,New York,11.6,"Minneapolis, MN",44.977753,-93.2650108
+203,203,Ryan Arcidiacono,Philadelphia,US,PA,New York,6.1,"Philadelphia, PA",39.9525839,-75.1652215
+204,204,Taj Gibson,Brooklyn,US,NY,New York,12.0,"Brooklyn, NY",40.6781784,-73.9441579
+205,205,Chuma Okeke,Atlanta,US,GA,Orlando,12.0,"Atlanta, GA",33.7489954,-84.3879824
+206,206,Jalen Suggs,St. Paul,US,MN,Orlando,8.6,"St. Paul, MN",44.9537029,-93.0899578
+207,207,Mo Bamba,Harlem,US,NY,Orlando,16.5,"Harlem, NY",40.8115504,-73.9464769
+208,208,R.J. Hampton,Dallas,US,TX,Orlando,8.5,"Dallas, TX",32.7766642,-96.79698789999999
+209,209,Gary Harris,Fishers,US,IN,Orlando,10.9,"Fishers, IN",39.9568857,-86.0171742
+210,210,Markelle Fultz,Upper Marlboro,US,MD,Orlando,17.7,"Upper Marlboro, MD",38.8159473,-76.74969089999999
+211,211,Devin Cannady,Mishawaka,US,IN,Orlando,8.6,"Mishawaka, IN",41.6619927,-86.15861559999999
+212,212,Terrence Ross,Portland,US,OR,Orlando,10.0,"Portland, OR",45.515232,-122.6783853
+213,213,Robin Lopez,North Hollywood,US,CA,Orlando,13.7,"North Hollywood, CA",34.17941649999999,-118.3790527
+214,214,Wendell Carter Jr.,Atlanta,US,GA,Orlando,18.4,"Atlanta, GA",33.7489954,-84.3879824
+215,215,Cole Anthony,Portland,US,OR,Orlando,13.5,"Portland, OR",45.515232,-122.6783853
+216,216,Gabe York,West Covina,US,CA,Indiana,12.7,"West Covina, CA",34.0686208,-117.9389526
+217,217,Tyrese Haliburton,Oshkosh,US,WI,Indiana,18.2,"Oshkosh, WI",44.0247062,-88.5426136
+218,218,Lance Stephenson,Brooklyn,US,NY,Indiana,13.6,"Brooklyn, NY",40.6781784,-73.9441579
+219,219,Malcolm Brogdon,Atlanta,US,GA,Indiana,18.0,"Atlanta, GA",33.7489954,-84.3879824
+220,220,T.J. McConnell,Pittsburgh,US,PA,Indiana,15.1,"Pittsburgh, PA",40.44062479999999,-79.9958864
+221,221,Isaiah Jackson,Pontiac,US,MI,Indiana,20.5,"Pontiac, MI",42.6389216,-83.29104679999999
+222,222,Jalen Smith,Portsmouth,US,VA,Indiana,18.4,"Portsmouth, VA",36.8354258,-76.2982742
+223,223,Terry Taylor,Bowling Green,US,KY,Indiana,19.0,"Bowling Green, KY",36.9685219,-86.4808043
+224,224,Myles Turner,Bedford,US,TX,Indiana,17.4,"Bedford, TX",32.844017,-97.1430671
+225,225,Tyrese Maxey,Dallas,US,TX,Philadelphia,16.2,"Dallas, TX",32.7766642,-96.79698789999999
+226,226,James Harden,Los Angeles,US,CA,Philadelphia,20.9,"Los Angeles, CA",34.0522342,-118.2436849
+227,227,Myles Powell,Trenton,US,NJ,Philadelphia,0.2,"Trenton, NJ",40.2205824,-74.759717
+228,228,Isaiah Joe,Fort Smith,US,AR,Philadelphia,7.7,"Fort Smith, AR",35.3843722,-94.42096459999999
+229,229,Paul Millsap,Monroe,US,LA,Philadelphia,10.8,"Monroe, LA",32.5093109,-92.1193012
+230,230,DeAndre Jordan,Houston,US,TX,Philadelphia,17.2,"Houston, TX",29.7604267,-95.3698028
+231,231,Jaden Springer,Charlotte,US,NC,Philadelphia,26.4,"Charlotte, NC",35.2270869,-80.8431267
+232,232,Tobias Harris,Islip,US,NY,Philadelphia,15.9,"Islip, NY",40.7298207,-73.2103934
+233,233,Danny Green,North Babylon,US,NY,Philadelphia,9.5,"North Babylon, NY",40.7164881,-73.3217861
+234,234,Charlie Brown Jr.,Philadelphia,US,PA,Philadelphia,6.5,"Philadelphia, PA",39.9525839,-75.1652215
+235,235,Shake Milton,Owasso,US,OK,Philadelphia,11.9,"Owasso, OK",36.2695388,-95.8547119
+236,236,Georges Niang,Lawrence,US,MA,Philadelphia,10.7,"Lawrence, MA",42.7070354,-71.1631137
+237,237,Matisse Thybulle,Scottsdale,US,AZ,Philadelphia,11.2,"Scottsdale, AZ",33.4941704,-111.9260519
+238,238,Paul Reed,Orlando,US,FL,Philadelphia,21.4,"Orlando, FL",28.5383832,-81.3789269
+239,239,JaVale McGee,Flint,US,MI,Phoenix,22.6,"Flint, MI",43.0125274,-83.6874562
+240,240,Torrey Craig,Columbia,US,SC,Phoenix,11.0,"Columbia, SC",34.0007104,-81.0348144
+241,241,Devin Booker,Grand Rapids,US,MI,Phoenix,21.3,"Grand Rapids, MI",42.9633599,-85.6680863
+242,242,Elfrid Payton,Gretna,US,LA,Phoenix,7.9,"Gretna, LA",29.9146493,-90.0539603
+243,243,Chris Paul,Winston-Salem,US,NC,Phoenix,20.8,"Winston-Salem, NC",36.09985959999999,-80.244216
+244,244,Aaron Holiday,Ruston,US,LA,Phoenix,12.6,"Ruston, LA",32.5232053,-92.63792699999999
+245,245,Ish Wainright,Kansas City,US,MO,Phoenix,9.4,"Kansas City, MO",39.0997265,-94.5785667
+246,246,Landry Shamet,Kansas City,US,MO,Phoenix,10.2,"Kansas City, MO",39.0997265,-94.5785667
+247,247,Cameron Payne,Memphis,US,TN,Phoenix,13.8,"Memphis, TN",35.1495343,-90.0489801
+248,248,Cameron Johnson,Moon Township,US,PA,Phoenix,15.2,"Moon Township, PA",40.51697670000001,-80.22134770000001
+249,249,Mikal Bridges,Philadelphia,US,PA,Phoenix,14.4,"Philadelphia, PA",39.9525839,-75.1652215
+250,250,Jae Crowder,Villa Rica,US,GA,Phoenix,11.3,"Villa Rica, GA",33.732052,-84.9191081
+251,251,Damian Lillard,Oakland,US,CA,Portland,18.5,"Oakland, CA",37.8043514,-122.2711639
+252,252,Anfernee Simons,Longwood,US,FL,Portland,15.3,"Longwood, FL",28.7030519,-81.3384011
+253,253,Trendon Watford,Birmingham,US,AL,Portland,15.8,"Birmingham, AL",33.5185892,-86.8103567
+254,254,Greg Brown III,Dallas,US,TX,Portland,11.0,"Dallas, TX",32.7766642,-96.79698789999999
+255,255,Eric Bledsoe,Birmingham,US,AL,Portland,12.5,"Birmingham, AL",33.5185892,-86.8103567
+256,256,Keon Johnson,Shelbyville,US,TN,Portland,8.7,"Shelbyville, TN",35.483406,-86.46027169999999
+257,257,Brandon Williams,Los Angeles,US,CA,Portland,11.0,"Los Angeles, CA",34.0522342,-118.2436849
+258,258,Brandon Williams,Collinston,US,LA,Portland,11.0,"Collinston, LA",32.6909704,-91.8717943
+259,259,Brandon Williams,Los Angeles,US,CA,Portland,11.0,"Los Angeles, CA",34.0522342,-118.2436849
+260,260,Brandon Williams,Collinston,US,LA,Portland,11.0,"Collinston, LA",32.6909704,-91.8717943
+261,261,Nassir Little,Pensacola,US,FL,Portland,13.5,"Pensacola, FL",30.42130899999999,-87.2169149
+262,262,Josh Hart,Silver Spring,US,MD,Portland,16.1,"Silver Spring, MD",38.99066570000001,-77.026088
+263,263,CJ Elleby,Federal Way,US,WA,Portland,9.2,"Federal Way, WA",47.3223221,-122.3126222
+264,264,Elijah Hughes,Poughkeepsie,US,NY,Portland,5.4,"Poughkeepsie, NY",41.7003713,-73.9209701
+265,265,Keljin Blevins,Hot Springs,US,AR,Portland,4.8,"Hot Springs, AR",34.5077615,-93.05460029999999
+266,266,Ben McLemore,St. Louis,US,MO,Portland,11.7,"St. Louis, MO",38.6270025,-90.19940419999999
+267,267,Justise Winslow,Houston,US,TX,Portland,13.1,"Houston, TX",29.7604267,-95.3698028
+268,268,Donte DiVincenzo,Newark,US,DE,Sacramento,11.3,"Newark, DE",39.6837226,-75.74965720000002
+269,269,Terence Davis,Southaven,US,MS,Sacramento,14.6,"Southaven, MS",34.9918587,-90.0022958
+270,270,De'Aaron Fox,New Orleans,US,LA,Sacramento,17.4,"New Orleans, LA",29.95106579999999,-90.0715323
+271,271,Chimezie Metu,Los Angeles,US,CA,Sacramento,13.4,"Los Angeles, CA",34.0522342,-118.2436849
+272,272,Maurice Harkless,Queens,US,NY,Sacramento,7.7,"Queens, NY",40.7282239,-73.7948516
+273,273,Justin Holiday,Mission Hills,US,CA,Sacramento,9.5,"Mission Hills, CA",34.2722582,-118.4688776
+274,274,Domantas Sabonis,Portland,US,OR,Sacramento,21.9,"Portland, OR",45.515232,-122.6783853
+275,275,Davion Mitchell,Hinesville,US,GA,Sacramento,10.8,"Hinesville, GA",31.8315028,-81.6141099
+276,276,Richaun Holmes,Lockport,US,IL,Sacramento,17.8,"Lockport, IL",41.5894752,-88.05783699999999
+277,277,Jeremy Lamb,Henrico,US,VA,Sacramento,13.3,"Henrico, VA",37.5059332,-77.3324425
+278,278,Damian Jones,Baton Rouge,US,LA,Sacramento,18.3,"Baton Rouge, LA",30.4514677,-91.18714659999999
+279,279,Harrison Barnes,Ames,US,IA,Sacramento,15.7,"Ames, IA",42.0307812,-93.63191309999999
+280,280,Josh Jackson,San Diego,US,CA,Sacramento,9.5,"San Diego, CA",32.715738,-117.1610838
+281,281,Lonnie Walker IV,Reading,US,PA,San Antonio,12.3,"Reading, PA",40.3356483,-75.9268747
+282,282,Keldon Johnson,Chesterfield,US,VA,San Antonio,15.2,"Chesterfield, VA",37.3770935,-77.5049863
+283,283,Dejounte Murray,Seattle,US,WA,San Antonio,22.3,"Seattle, WA",47.6062095,-122.3320708
+284,284,Josh Richardson,Edmond,US,OK,San Antonio,12.8,"Edmond, OK",35.6528323,-97.47809540000002
+285,285,Joe Wieskamp,Muscatine,US,IA,San Antonio,7.1,"Muscatine, IA",41.424473,-91.0432051
+286,286,Doug McDermott,Grand Forks,US,ND,San Antonio,11.4,"Grand Forks, ND",47.9252568,-97.0328547
+287,287,Devontae Cacok,Chicago,US,IL,San Antonio,20.2,"Chicago, IL",41.8781136,-87.6297982
+288,288,Zach Collins,Las Vegas,US,NV,San Antonio,16.4,"Las Vegas, NV",36.171563,-115.1391009
+289,289,Devin Vassell,Lawrenceville,US,GA,San Antonio,13.3,"Lawrenceville, GA",33.9562149,-83.9879625
+290,290,Robert Woodard II,Starkville,US,MS,San Antonio,2.1,"Starkville, MS",33.4503998,-88.81838719999999
+291,291,Keita Bates-Diop,Bloomington,US,IL,San Antonio,12.4,"Bloomington, IL",40.4842027,-88.99368729999999
+292,292,Tre Jones,Apple Valley,US,MN,San Antonio,15.0,"Apple Valley, MN",44.7319094,-93.21772000000001
+293,293,Romeo Langford,New Albany,US,IN,San Antonio,9.2,"New Albany, IN",38.2856247,-85.8241312
+294,294,Darius Bazley,Boston,US,MA,Oklahoma City,12.6,"Boston, MA",42.3600825,-71.0588801
+295,295,Lindy Waters III,Norman,US,OK,Oklahoma City,13.0,"Norman, OK",35.2225668,-97.4394777
+296,296,Derrick Favors,Atlanta,US,GA,Oklahoma City,13.6,"Atlanta, GA",33.7489954,-84.3879824
+297,297,Ty Jerome,New York,US,NY,Oklahoma City,11.3,"New York, NY",40.7127753,-74.0059728
+298,298,Aaron Wiggins,Greensboro,US,NC,Oklahoma City,10.3,"Greensboro, NC",36.0726354,-79.7919754
+299,299,Isaiah Roby,Dixon,US,IL,Oklahoma City,18.3,"Dixon, IL",41.8389213,-89.47954779999999
+300,300,Tre Mann,Gainesville,US,FL,Oklahoma City,10.2,"Gainesville, FL",29.6516344,-82.32482619999999
+301,301,Mike Muscala,St. Louis Park,US,MN,Oklahoma City,19.7,"St. Louis Park, MN",44.9597376,-93.3702186
+302,302,Kenrich Williams,Waco,US,TX,Oklahoma City,13.3,"Waco, TX",31.549333,-97.1466695
+303,303,Jeremiah Robinson-Earl,Kansas City,US,MO,Oklahoma City,11.7,"Kansas City, MO",39.0997265,-94.5785667
+304,304,Armoni Brooks,Waco,US,TX,Toronto,8.4,"Waco, TX",31.549333,-97.1466695
+305,305,Scottie Barnes,West Palm Beach,US,FL,Toronto,16.3,"West Palm Beach, FL",26.7153424,-80.0533746
+306,306,Justin Champagnie,Brooklyn,US,NY,Toronto,13.6,"Brooklyn, NY",40.6781784,-73.9441579
+307,307,Thaddeus Young,New Orleans,US,LA,Toronto,17.0,"New Orleans, LA",29.95106579999999,-90.0715323
+308,308,Malachi Flynn,Tacoma,US,WA,Toronto,11.7,"Tacoma, WA",47.2528768,-122.4442906
+309,309,Fred VanVleet,Rockford,US,IL,Toronto,17.3,"Rockford, IL",42.2711311,-89.0939952
+310,310,Gary Trent Jr.,Columbus,US,OH,Toronto,14.7,"Columbus, OH",39.9611755,-82.99879419999999
+311,311,Eric Paschall,North Tarrytown,US,NY,Utah,13.9,"North Tarrytown, NY",41.0762077,-73.85874609999999
+312,312,Jordan Clarkson,Tampa,US,FL,Utah,14.9,"Tampa, FL",27.950575,-82.4571776
+313,313,Trent Forrest,Dothan,US,AL,Utah,10.9,"Dothan, AL",31.2232313,-85.3904888
+314,314,Rudy Gay,Brooklyn,US,NY,Utah,13.0,"Brooklyn, NY",40.6781784,-73.9441579
+315,315,Mike Conley,Fayetteville,US,AR,Utah,17.2,"Fayetteville, AR",36.0626579,-94.16058389999999
+316,316,Jared Butler,Reserve,US,LA,Utah,12.1,"Reserve, LA",30.0538131,-90.5517534
+317,317,Xavier Sneed,St. Louis,US,MO,Utah,0.4,"St. Louis, MO",38.6270025,-90.19940419999999
+318,318,Hassan Whiteside,Gastonia,US,NC,Utah,22.9,"Gastonia, NC",35.2621735,-81.1870849
+319,319,Royce O'Neale,Killeen,US,TX,Utah,10.3,"Killeen, TX",31.1171194,-97.72779589999999
+320,320,Danuel House Jr.,Houston,US,TX,Utah,10.6,"Houston, TX",29.7604267,-95.3698028
+321,321,Donovan Mitchell,Elmsford,US,NY,Utah,21.6,"Elmsford, NY",41.0550969,-73.8201337
+322,322,De'Anthony Melton,North Hollywood,US,CA,Memphis,15.2,"North Hollywood, CA",34.17941649999999,-118.3790527
+323,323,Kyle Anderson,Fairview,US,NJ,Memphis,14.4,"Fairview, NJ",40.8126006,-73.999028
+324,324,Tyrell Terry,Minneapolis,US,MN,Memphis,20.0,"Minneapolis, MN",44.977753,-93.2650108
+325,325,Ziaire Williams,Lancaster,US,CA,Memphis,9.7,"Lancaster, CA",34.6867846,-118.1541632
+326,326,Ja Morant,Dalzell,US,SC,Memphis,24.4,"Dalzell, SC",34.0168212,-80.4300818
+327,327,Jaren Jackson Jr.,Plainfield,US,NJ,Memphis,17.0,"Plainfield, NJ",40.6337136,-74.4073736
+328,328,Tyus Jones,Burnsville,US,MN,Memphis,16.5,"Burnsville, MN",44.7677424,-93.27772259999999
+329,329,Desmond Bane,Richmond,US,IN,Memphis,17.6,"Richmond, IN",39.8289369,-84.8902382
+330,330,Jarrett Culver,Dallas,US,TX,Memphis,8.7,"Dallas, TX",32.7766642,-96.79698789999999
+331,331,John Konchar,Chicago,US,IL,Memphis,14.0,"Chicago, IL",41.8781136,-87.6297982
+332,332,Kentavious Caldwell-Pope,Thomaston,US,GA,Washington,12.6,"Thomaston, GA",32.8881879,-84.3265854
+333,333,Bradley Beal,St. Louis,US,MO,Washington,17.5,"St. Louis, MO",38.6270025,-90.19940419999999
+334,334,Ish Smith,Charlotte,US,NC,Washington,12.5,"Charlotte, NC",35.2270869,-80.8431267
+335,335,Cassius Winston,Detroit,US,MI,Washington,6.0,"Detroit, MI",42.331427,-83.0457538
+336,336,Thomas Bryant,Rochester,US,NY,Washington,16.6,"Rochester, NY",43.15657789999999,-77.6088465
+337,337,Isaiah Todd,Baltimore,US,MD,Washington,4.7,"Baltimore, MD",39.2903848,-76.6121893
+338,338,Anthony Gill,High Point,US,NC,Washington,14.7,"High Point, NC",35.9556923,-80.0053176
+339,339,Daniel Gafford,El Dorado,US,AR,Washington,21.8,"El Dorado, AR",33.207471,-92.66557159999999
+340,340,Vernon Carey Jr.,Miami,US,FL,Washington,15.8,"Miami, FL",25.7616798,-80.1917902
+341,341,Corey Kispert,Edmonds,US,WA,Washington,10.9,"Edmonds, WA",47.8106521,-122.3773552
+342,342,Kyle Kuzma,Flint,US,MI,Washington,15.2,"Flint, MI",43.0125274,-83.6874562
+343,343,Cade Cunningham,Arlington,US,TX,Detroit,13.1,"Arlington, TX",32.735687,-97.10806559999999
+344,344,Carsen Edwards,Houston,US,TX,Detroit,5.5,"Houston, TX",29.7604267,-95.3698028
+345,345,Frank Jackson,Washington,US,DC,Detroit,10.6,"Washington, DC",38.9071923,-77.0368707
+346,346,Hamidou Diallo,Queens,US,NY,Detroit,15.7,"Queens, NY",40.7282239,-73.7948516
+347,347,Killian Hayes,Lakeland,US,FL,Detroit,9.3,"Lakeland, FL",28.0394654,-81.9498042
+348,348,Jerami Grant,Portland,US,OR,Detroit,16.1,"Portland, OR",45.515232,-122.6783853
+349,349,Isaiah Livers,Kalamazoo,US,MI,Detroit,11.1,"Kalamazoo, MI",42.2917069,-85.5872286
+350,350,Rodney McGruder,Landover,US,MD,Detroit,11.6,"Landover, MD",38.9256252,-76.88939069999999
+351,351,Braxton Key,Charlotte,US,NC,Detroit,13.7,"Charlotte, NC",35.2270869,-80.8431267
+352,352,Jamorko Pickett,Washington,US,DC,Detroit,7.6,"Washington, DC",38.9071923,-77.0368707
+353,353,Isaiah Stewart,Rochester,US,NY,Detroit,14.0,"Rochester, NY",43.15657789999999,-77.6088465
+354,354,Marvin Bagley III,Tempe,US,AZ,Detroit,15.7,"Tempe, AZ",33.4255104,-111.9400054
+355,355,Saben Lee,St. Louis,US,MO,Detroit,13.8,"St. Louis, MO",38.6270025,-90.19940419999999
+356,356,Saddiq Bey,Charlotte,US,NC,Detroit,14.0,"Charlotte, NC",35.2270869,-80.8431267
+357,357,Luka Garza,Washington,US,DC,Detroit,15.6,"Washington, DC",38.9071923,-77.0368707
+358,358,Miles Bridges,Flint,US,MI,Charlotte,17.9,"Flint, MI",43.0125274,-83.6874562
+359,359,LaMelo Ball,Anaheim,US,CA,Charlotte,19.7,"Anaheim, CA",33.8365932,-117.9143012
+360,360,Terry Rozier,Youngstown,US,OH,Charlotte,17.6,"Youngstown, OH",41.0997803,-80.6495194
+361,361,Isaiah Thomas,Tacoma,US,WA,Charlotte,12.0,"Tacoma, WA",47.2528768,-122.4442906
+362,362,James Bouknight,Brooklyn,US,NY,Charlotte,10.1,"Brooklyn, NY",40.6781784,-73.9441579
+363,363,Jalen McDaniels,Federal Way,US,WA,Charlotte,12.7,"Federal Way, WA",47.3223221,-122.3126222
+364,364,Montrezl Harrell,Tarboro,US,NC,Charlotte,23.2,"Tarboro, NC",35.8968236,-77.5358049
+365,365,Cody Martin,Winston-Salem,US,NC,Charlotte,12.7,"Winston-Salem, NC",36.09985959999999,-80.244216
+366,366,Kelly Oubre Jr.,New Orleans,US,LA,Charlotte,14.9,"New Orleans, LA",29.95106579999999,-90.0715323
+367,367,Scottie Lewis,Bronx,US,NY,Charlotte,14.6,"Bronx, NY",40.8447819,-73.8648268
+368,368,Gordon Hayward,Indianapolis,US,IN,Charlotte,15.1,"Indianapolis, IN",39.768403,-86.158068
+369,369,JT Thor,Omaha,US,NE,Charlotte,9.7,"Omaha, NE",41.2565369,-95.9345034
+370,370,Mason Plumlee,Fort Wayne,US,IN,Charlotte,14.7,"Fort Wayne, IN",41.079273,-85.1393513
+371,371,P.J. Washington,Louisville,US,KY,Charlotte,13.6,"Louisville, KY",38.2526647,-85.7584557
