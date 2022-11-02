@@ -99,6 +99,16 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 
 ![top 10 US cities](origin/output_data/players_top10_2022_uscity.png)
 ![US cities of top 10 players](origin/output_data/players_top10_2022_uscity_by_PER.png)
+![Gmaps_US cities of top 10 players](origin/output_data/Gmaps_top10_2022_uscity_by_PER.png)
+
+#### Birth: Int City
+* Of 69 cities outside if the US where NBA players were born...
+* Most players were born in Toronto, Canada.
+
+![top 10 Int cities](origin/output_data/players_top10_2022_intcity.png)
+![Int cities of top 10 players](origin/output_data/players_top10_2022_intcity_by_PER.png)
+![Gmaps_Int cities of top 10 players](origin/output_data/Gmaps_top10_2022_uscity_by_PER.png)
+
 
 #### Birth: Country
 * Of 39 countries where NBA players were born (not including the US)...
@@ -106,6 +116,7 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 
 ![top 10 countries](origin/output_data/players_top10_2022_countries.png)
 ![countries of top 10 players](origin/output_data/players_top10_2022_countries_by_PER.png)
+![Gmaps_countries of top 10 players](origin/output_data/Gmaps_top10_2022_countries_by_PER.png)
 
 ### Salary Distributions
 * The vast majority of NBA players are paid between $1-18 million, with the most recieving an annual salary between $1-9 million.
