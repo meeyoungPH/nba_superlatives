@@ -83,7 +83,7 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 ![weight per correlation](biometrics/output/weight_per.png)
 
 ### Birthplace and College: City and Country of Origin
-* There is a slight relationship between player performance and their origin. 
+* We conducted an analysis of NBA players by city or country of birth and college attended.
 * At least one of the top 10 players in the NBA during the 2021-22 season (according to PER) originated from the top college or country by representation.
 
 #### College
@@ -93,13 +93,14 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 ![top 10 colleges](origin/output_data/players_top10_2022_colleges.png)
 ![colleges of top 10 players](origin/output_data/players_top10_2022_colleges_by_PER.png)
 
+
 #### Birth: US City
 * Of 227 US cities where NBA players were born...
 * Most players were born in Los Angeles, California, though none of the top 10 players did.
 
 ![top 10 US cities](origin/output_data/players_top10_2022_uscity.png)
 ![US cities of top 10 players](origin/output_data/players_top10_2022_uscity_by_PER.png)
-![Gmaps_US cities of top 10 players](origin/output_data/Gmaps_top10_2022_uscity_by_PER.png)
+![Gmaps_US cities of top 10 players](origin/output_data/Gmaps_top10_2022_uscity_by_PER.PNG)
 
 #### Birth: Int City
 * Of 69 cities outside if the US where NBA players were born...
@@ -107,7 +108,7 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 
 ![top 10 Int cities](origin/output_data/players_top10_2022_intcity.png)
 ![Int cities of top 10 players](origin/output_data/players_top10_2022_intcity_by_PER.png)
-![Gmaps_Int cities of top 10 players](origin/output_data/Gmaps_top10_2022_uscity_by_PER.png)
+![Gmaps_Int cities of top 10 players](origin/output_data/Gmaps_top10_2022_uscity_by_PER.PNG)
 
 
 #### Birth: Country
@@ -116,7 +117,7 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 
 ![top 10 countries](origin/output_data/players_top10_2022_countries.png)
 ![countries of top 10 players](origin/output_data/players_top10_2022_countries_by_PER.png)
-![Gmaps_countries of top 10 players](origin/output_data/Gmaps_top10_2022_countries_by_PER.png)
+![Gmaps_countries of top 10 players](origin/output_data/Gmaps_top10_2022_countries_by_PER.PNG)
 
 ### Salary Distributions
 * The vast majority of NBA players are paid between $1-18 million, with the most recieving an annual salary between $1-9 million.
