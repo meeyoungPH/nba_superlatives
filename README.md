@@ -130,6 +130,15 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 ![salary vs wins](PER%20Salary/outputs/Salary_vs_Wins.png)
 ![salary vs PER](PER%20Salary/outputs/Salary_vs_PER.png)
 
+## Conclusion
+* Limitations
+  - We did not extrapolate over more seasons or consider the effect of players' injuries.
+  - A number of player records between from nba_api and basketball-reference.com were unable to be matched.
+* Findings
+  - Based on one season's worth of data, there was no significant correlation between biometrics, draft pick order, birthplace, or college with performance.
+  - There is a weak to moderate correlation between winning percentage and salary.
+  - Multivariate analysis is recommended for additional insight.
+
 
 
 
