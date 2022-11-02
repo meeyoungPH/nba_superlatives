@@ -57,11 +57,13 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 * There is weak negative correlation between draft pick number and player performance.
 
 ![draft number and avg PER](draft_picks/images/draft_number_table.PNG)
+
 ![draft number regression model](draft_picks/images/NBA_linearregression.png)
 
 * Players selected in the first round versus second or third rounds had slight higher PER ratings
 
 ![draft round number and avg PER](draft_picks/images/draft_round_table.PNG)
+
 ![draft round number box plot](draft_picks/images/NBA_boxplot.png)
 
 #### Superlatives
