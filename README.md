@@ -9,7 +9,7 @@
 
 ----
 ## Purpose
-To conduct an exploratory analysis of NBA data, analyzing biometric, geographic, draft pick, and salary data versus NBA player performance during the 2021-22 season.
+To conduct an exploratory analysis of NBA data, analyzing biometric, geographic, draft pick, and salary data versus NBA player performance during the 2021-22 season. This readme contains highlights of our analysis.
 
 ----
 
