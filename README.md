@@ -109,7 +109,7 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 * The vast majority of NBA players are paid between $1-18 million, with the most recieving an annual salary between $1-9 million.
 * There does not appear to be much variance for salary across different positions, though there are certain positions that have a greater number of highly paid players.
 
-![Salary Distribution](salaries/NBA_Players_Salary_Distribution_full.png)
+![Salary Distribution](salaries/nba_sal_distrib.png)
 ![Salaries by Player Position](salaries/sal_by_position.png)
 
 ### PER vs Salary
@@ -117,18 +117,18 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
   - There is a positive correlation between PER and salary.
 * There are numerous outliers of PER Rating per Salary Rating in the $1-9 million salary range, the average range of salary for NBA players during the 2021-22 season.
   - It is reasonable to assume that positive outliers may end up in higher salary ranges in future seasons and negative outliers may drop to the league minimum range.
-* Only 5 players make the league minimum, under $1 million.
-* Joel Emblid (PER = 31.2) is the only positive outlier for players making >$18 million a year.
+* Only 5 players made the league minimum, under $1 million.
+* Joel Embiid (PER = 31.2) is the only positive outlier for players making >$18 million a year.
 * Stephen Curry is the highest paid NBA player, with a salary >$45 million.
 
-![salary boxplot](PER%20Salary/outputs/Plots.png)
+![salary boxplot](PER%20Salary/outputs/Salary_BoxPlots.png)
 
-### Can You Buy a Winning Team?
+### Does PER Work?
 * There is a greater positve correlation between win percentage and team salary (0.43) as opposed to win percentage and team PER rating (0.28)
 * Further analysis of PER ratings and salary over the span of a player's career would be of further value.
 
-![salary wins](PER%20Salary/outputs/Salary_Wins.png)
-![salary wins](PER%20Salary/outputs/PER_Wins.png)
+![salary vs wins](PER%20Salary/outputs/Salary_vs_Wins.png)
+![salary vs PER](PER%20Salary/outputs/Salary_vs_PER.png)
 
 
 
