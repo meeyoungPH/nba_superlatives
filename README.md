@@ -128,7 +128,7 @@ To conduct an exploratory analysis of NBA data, analyzing biometric, geographic,
 * Further analysis of PER ratings and salary over the span of a player's career would be of further value.
 
 ![salary wins](PER%20Salary/outputs/Salary_Wins.png)
-![salary wins](PER%20Salary/outputs/PER_Wins)
+![salary wins](PER%20Salary/outputs/PER_Wins.png)
 
 
 
